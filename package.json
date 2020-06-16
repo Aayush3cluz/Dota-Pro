@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "NODE_ENV=development nodemon --exec babel-node index.js",
+    "dev": "NODE_ENV=development nodemon --exec babel-node index.js --ignore *.json",
     "start": "NODE_ENV=production babel-node index.js"
   },
   "repository": {
@@ -30,7 +30,9 @@
     "cheerio": "^1.0.0-rc.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "lowdb": "^1.0.0",
     "mongoose": "^5.9.18",
+    "node-cron": "^2.0.3",
     "nodemw": "^0.13.0"
   },
   "devDependencies": {
