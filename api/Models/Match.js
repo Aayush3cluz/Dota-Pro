@@ -38,8 +38,8 @@ const MatchSchema = new Schema({
   leagueName: {
     type: String,
   },
-  concluded: {
-    type: Boolean,
+  type: {
+    type: String,
   },
 });
 

@@ -41,15 +41,23 @@ const valiDateItem = (item) => {
     item.leftName = "TBD";
     item.leftInitial = "TBD";
     item.leftImage = "Default";
+  } else {
+    item.leftName = item.leftName.replace("(page does not exist)", "");
   }
   if (item.rightName === undefined) {
     item.rightName = "TBD";
     item.rightInitial = "TBD";
     item.rightImage = "Default";
+  } else {
+    item.rightName = item.rightName.replace("(page does not exist)", "");
   }
-  if (item.concluded === false) {
+  if (item.concluded === true) {
     item.stream = "";
   }
+  if (item.leagueName.includes("/1/")) {
+    item.leagueName = item.leagueName.replace("/1/", " ");
+  }
+
   return item;
 };
 const parseDiv = ($, div, flag) => {
@@ -94,7 +102,7 @@ const parseDiv = ($, div, flag) => {
         "https://liquipedia.net" +
         $(secondRow).find("td > div > span > span > a > img").attr("src");
       item.leagueName = $(secondRow).find("td > div > div > a").attr("title");
-      item.concluded = flag;
+      item.type = flag ? "Upcoming" : "Finished";
       item = valiDateItem(item);
 
       items.push(item);
