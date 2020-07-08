@@ -1,14 +1,1767 @@
 {
   "scrapeErrors": [],
-  "scrapeReports": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+  "scrapeReports": [],
+  "team": [
+    {
+      "players": [
+        "5f00311ca4ed9c1a28dcd11a",
+        "5f00311ca4ed9c1a28dcd11b",
+        "5f00311ca4ed9c1a28dcd11c",
+        "5f00311ca4ed9c1a28dcd11d",
+        "5f00311ca4ed9c1a28dcd11e"
+      ],
+      "_id": "5f0026c0bbd3c30b19b0ca45",
+      "team_id": "2163",
+      "wins": 938,
+      "losses": 609,
+      "last_match_time": 1593353276,
+      "name": "Team Liquid",
+      "tag": "Liquid",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/2163.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00311ea4ed9c1a28dcd129",
+        "5f00311ea4ed9c1a28dcd12a",
+        "5f00311ea4ed9c1a28dcd12b",
+        "5f00311ea4ed9c1a28dcd12c",
+        "5f00311ea4ed9c1a28dcd12d"
+      ],
+      "_id": "5f0026c0bbd3c30b19b0ca46",
+      "team_id": "7407260",
+      "wins": 144,
+      "losses": 96,
+      "last_match_time": 1593688807,
+      "name": "Sparking Arrow Gaming",
+      "tag": "SAG",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/762722159396605953/A4AF0689C1260DFB4FD102BEF0599D3230A1AF0D/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003120a4ed9c1a28dcd133",
+        "5f003120a4ed9c1a28dcd134",
+        "5f003120a4ed9c1a28dcd135",
+        "5f003120a4ed9c1a28dcd136",
+        "5f003120a4ed9c1a28dcd137",
+        "5f003120a4ed9c1a28dcd138"
+      ],
+      "_id": "5f0026c0bbd3c30b19b0ca47",
+      "team_id": "6953913",
+      "wins": 149,
+      "losses": 118,
+      "last_match_time": 1593804288,
+      "name": "FlyToMoon",
+      "tag": "FTM",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/916953413384701477/58A15D27D05A5051190589BBED3CDD362AFC3C86/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003122a4ed9c1a28dcd13f",
+        "5f003122a4ed9c1a28dcd140",
+        "5f003122a4ed9c1a28dcd141",
+        "5f003122a4ed9c1a28dcd142"
+      ],
+      "_id": "5f0026c0bbd3c30b19b0ca48",
+      "team_id": "7819701",
+      "wins": 64,
+      "losses": 29,
+      "last_match_time": 1591456458,
+      "name": "VP.Prodigy",
+      "tag": "VP.P",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1009310639742423917/9175453DE6C700E0CC6D547F437B4819F1144A1A/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00322953d8af1bb1db58a4",
+        "5f00322953d8af1bb1db58a5",
+        "5f00322953d8af1bb1db58a6",
+        "5f00322953d8af1bb1db58a7"
+      ],
+      "_id": "5f0026c0bbd3c30b19b0ca49",
+      "team_id": "7390454",
+      "wins": 55,
+      "losses": 24,
+      "last_match_time": 1593479578,
+      "name": "Quincy Crew",
+      "tag": "QCY",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1020573621662037882/89654B0AE81F2C2075D8CA17CEB9C4F08B9B0D1C/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00324253d8af1bb1db58a8",
+        "5f00324253d8af1bb1db58a9",
+        "5f00324253d8af1bb1db58aa",
+        "5f00324253d8af1bb1db58ab",
+        "5f00324253d8af1bb1db58ac"
+      ],
+      "_id": "5f0026c0bbd3c30b19b0ca4b",
+      "team_id": "1883502",
+      "wins": 1241,
+      "losses": 941,
+      "last_match_time": 1593804288,
+      "name": "Virtus.pro",
+      "tag": "VP",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/1883502.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00324753d8af1bb1db58ad",
+        "5f00324753d8af1bb1db58ae",
+        "5f00324753d8af1bb1db58af",
+        "5f00324753d8af1bb1db58b0",
+        "5f00324753d8af1bb1db58b1"
+      ],
+      "_id": "5f0026c0bbd3c30b19b0ca4c",
+      "team_id": "6209166",
+      "wins": 211,
+      "losses": 200,
+      "last_match_time": 1593587929,
+      "name": "Team Aster",
+      "tag": "Aster",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1001430487518930631/0496D52E3C45C2224314D8AE3738B0E2CE707CFC/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003342e9e6a01da5a46272",
+        "5f003342e9e6a01da5a46273",
+        "5f003342e9e6a01da5a46274",
+        "5f003342e9e6a01da5a46275",
+        "5f003342e9e6a01da5a46276"
+      ],
+      "_id": "5f0032a0bb60981c653c1e28",
+      "team_id": "1838315",
+      "wins": 842,
+      "losses": 388,
+      "last_match_time": 1593370425,
+      "name": "Team Secret",
+      "tag": "Secret",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/1838315.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00334de9e6a01da5a46277",
+        "5f00334de9e6a01da5a46278",
+        "5f00334de9e6a01da5a46279",
+        "5f00334de9e6a01da5a4627a",
+        "5f00334de9e6a01da5a4627b"
+      ],
+      "_id": "5f0032a0bb60981c653c1e29",
+      "team_id": "15",
+      "wins": 1206,
+      "losses": 783,
+      "last_match_time": 1593845960,
+      "name": "PSG.LGD",
+      "tag": "PSG.LGD",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/15.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003356e9e6a01da5a4627c",
+        "5f003356e9e6a01da5a4627d",
+        "5f003356e9e6a01da5a4627e",
+        "5f003356e9e6a01da5a4627f",
+        "5f003356e9e6a01da5a46280"
+      ],
+      "_id": "5f0032a0bb60981c653c1e2a",
+      "team_id": "1520578",
+      "wins": 664,
+      "losses": 532,
+      "last_match_time": 1593787748,
+      "name": "CDEC ",
+      "tag": "CDEC",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/1520578.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003360e9e6a01da5a46281",
+        "5f003360e9e6a01da5a46282",
+        "5f003360e9e6a01da5a46283",
+        "5f003360e9e6a01da5a46284",
+        "5f003360e9e6a01da5a46285"
+      ],
+      "_id": "5f0032a0bb60981c653c1e2b",
+      "team_id": "7554697",
+      "wins": 109,
+      "losses": 80,
+      "last_match_time": 1593370425,
+      "name": "Nigma",
+      "tag": "Nigma",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/779615732884168609/21F6BC5D51472A72CD357693731C2315B8832C5B/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00336ae9e6a01da5a46286",
+        "5f00336ae9e6a01da5a46287",
+        "5f00336ae9e6a01da5a46288",
+        "5f00336ae9e6a01da5a46289",
+        "5f00336ae9e6a01da5a4628a",
+        "5f00336ae9e6a01da5a4628b"
+      ],
+      "_id": "5f0032a0bb60981c653c1e2c",
+      "team_id": "4",
+      "wins": 708,
+      "losses": 562,
+      "last_match_time": 1593784362,
+      "name": "EHOME",
+      "tag": "EHOME",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/4.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003373e9e6a01da5a4628c",
+        "5f003373e9e6a01da5a4628d",
+        "5f003373e9e6a01da5a4628e",
+        "5f003373e9e6a01da5a4628f",
+        "5f003373e9e6a01da5a46290",
+        "5f003373e9e6a01da5a46291"
+      ],
+      "_id": "5f0032a0bb60981c653c1e2d",
+      "team_id": "6209804",
+      "wins": 242,
+      "losses": 187,
+      "last_match_time": 1593763466,
+      "name": "Royal Never Give Up",
+      "tag": "RNG",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/6209804.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00337ee9e6a01da5a46292",
+        "5f00337ee9e6a01da5a46293",
+        "5f00337ee9e6a01da5a46294",
+        "5f00337ee9e6a01da5a46295",
+        "5f00337ee9e6a01da5a46296"
+      ],
+      "_id": "5f0032a0bb60981c653c1e2e",
+      "team_id": "350190",
+      "wins": 993,
+      "losses": 700,
+      "last_match_time": 1593328164,
+      "name": "Fnatic",
+      "tag": "Fnatic",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/350190.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003388e9e6a01da5a46297",
+        "5f003388e9e6a01da5a46298",
+        "5f003388e9e6a01da5a46299",
+        "5f003388e9e6a01da5a4629a",
+        "5f003388e9e6a01da5a4629b"
+      ],
+      "_id": "5f0032a0bb60981c653c1e2f",
+      "team_id": "726228",
+      "wins": 1132,
+      "losses": 751,
+      "last_match_time": 1593845960,
+      "name": "Vici Gaming",
+      "tag": "VG",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/726228.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003392e9e6a01da5a4629c",
+        "5f003392e9e6a01da5a4629d",
+        "5f003392e9e6a01da5a4629e",
+        "5f003392e9e6a01da5a4629f",
+        "5f003392e9e6a01da5a462a0"
+      ],
+      "_id": "5f0032a0bb60981c653c1e30",
+      "team_id": "5",
+      "wins": 1101,
+      "losses": 748,
+      "last_match_time": 1593773821,
+      "name": "INVICTUS GAMING",
+      "tag": "IG",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/5.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0033a5e9e6a01da5a462a1",
+        "5f0033a5e9e6a01da5a462a2",
+        "5f0033a5e9e6a01da5a462a3",
+        "5f0033a5e9e6a01da5a462a4",
+        "5f0033a5e9e6a01da5a462a5"
+      ],
+      "_id": "5f0032a0bb60981c653c1e32",
+      "team_id": "2163",
+      "wins": 938,
+      "losses": 609,
+      "last_match_time": 1593353276,
+      "name": "Team Liquid",
+      "tag": "Liquid",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/2163.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0033aee9e6a01da5a462a6",
+        "5f0033aee9e6a01da5a462a7",
+        "5f0033aee9e6a01da5a462a8",
+        "5f0033aee9e6a01da5a462a9",
+        "5f0033aee9e6a01da5a462aa"
+      ],
+      "_id": "5f0032a0bb60981c653c1e33",
+      "team_id": "7407260",
+      "wins": 144,
+      "losses": 96,
+      "last_match_time": 1593688807,
+      "name": "Sparking Arrow Gaming",
+      "tag": "SAG",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/762722159396605953/A4AF0689C1260DFB4FD102BEF0599D3230A1AF0D/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0033b9e9e6a01da5a462ab",
+        "5f0033b9e9e6a01da5a462ac",
+        "5f0033b9e9e6a01da5a462ad",
+        "5f0033b9e9e6a01da5a462ae",
+        "5f0033b9e9e6a01da5a462af",
+        "5f0033b9e9e6a01da5a462b0"
+      ],
+      "_id": "5f0032a0bb60981c653c1e34",
+      "team_id": "6953913",
+      "wins": 149,
+      "losses": 118,
+      "last_match_time": 1593804288,
+      "name": "FlyToMoon",
+      "tag": "FTM",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/916953413384701477/58A15D27D05A5051190589BBED3CDD362AFC3C86/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0033c2e9e6a01da5a462b1",
+        "5f0033c2e9e6a01da5a462b2",
+        "5f0033c2e9e6a01da5a462b3",
+        "5f0033c2e9e6a01da5a462b4"
+      ],
+      "_id": "5f0032a0bb60981c653c1e35",
+      "team_id": "7819701",
+      "wins": 64,
+      "losses": 29,
+      "last_match_time": 1591456458,
+      "name": "VP.Prodigy",
+      "tag": "VP.P",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1009310639742423917/9175453DE6C700E0CC6D547F437B4819F1144A1A/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0033cce9e6a01da5a462b5",
+        "5f0033cce9e6a01da5a462b6",
+        "5f0033cce9e6a01da5a462b7",
+        "5f0033cce9e6a01da5a462b8"
+      ],
+      "_id": "5f0032a0bb60981c653c1e36",
+      "team_id": "7390454",
+      "wins": 55,
+      "losses": 24,
+      "last_match_time": 1593479578,
+      "name": "Quincy Crew",
+      "tag": "QCY",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1020573621662037882/89654B0AE81F2C2075D8CA17CEB9C4F08B9B0D1C/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0033e1e9e6a01da5a462b9",
+        "5f0033e1e9e6a01da5a462ba",
+        "5f0033e1e9e6a01da5a462bb",
+        "5f0033e1e9e6a01da5a462bc",
+        "5f0033e1e9e6a01da5a462bd"
+      ],
+      "_id": "5f0032a0bb60981c653c1e38",
+      "team_id": "1883502",
+      "wins": 1241,
+      "losses": 941,
+      "last_match_time": 1593804288,
+      "name": "Virtus.pro",
+      "tag": "VP",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/1883502.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0033ebe9e6a01da5a462be",
+        "5f0033ebe9e6a01da5a462bf",
+        "5f0033ebe9e6a01da5a462c0",
+        "5f0033ebe9e6a01da5a462c1",
+        "5f0033ebe9e6a01da5a462c2"
+      ],
+      "_id": "5f0032a0bb60981c653c1e39",
+      "team_id": "6209166",
+      "wins": 211,
+      "losses": 200,
+      "last_match_time": 1593587929,
+      "name": "Team Aster",
+      "tag": "Aster",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1001430487518930631/0496D52E3C45C2224314D8AE3738B0E2CE707CFC/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0033ffe9e6a01da5a462c3",
+        "5f0033ffe9e6a01da5a462c4",
+        "5f0033ffe9e6a01da5a462c5",
+        "5f0033ffe9e6a01da5a462c6"
+      ],
+      "_id": "5f0032a0bb60981c653c1e3b",
+      "team_id": "6685591",
+      "wins": 204,
+      "losses": 127,
+      "last_match_time": 1593262982,
+      "name": "ViKin.gg",
+      "tag": "Vikin.gg",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/777359668599802900/5CA5ACF6DD513677F216A9DC6A516CEC09452662/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003413e9e6a01da5a462c7",
+        "5f003413e9e6a01da5a462c8",
+        "5f003413e9e6a01da5a462c9",
+        "5f003413e9e6a01da5a462ca",
+        "5f003413e9e6a01da5a462cb"
+      ],
+      "_id": "5f0032a0bb60981c653c1e3d",
+      "team_id": "7819028",
+      "wins": 56,
+      "losses": 31,
+      "last_match_time": 1593806897,
+      "name": "4 Zoomers",
+      "tag": "4Zs",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1017194708027537879/114DCD45DF3074DA2D1DB7A5FE3403EB721D79F4/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003431e9e6a01da5a462cc",
+        "5f003431e9e6a01da5a462cd",
+        "5f003431e9e6a01da5a462ce",
+        "5f003431e9e6a01da5a462cf",
+        "5f003431e9e6a01da5a462d0"
+      ],
+      "_id": "5f0032a0bb60981c653c1e40",
+      "team_id": "2586976",
+      "wins": 604,
+      "losses": 352,
+      "last_match_time": 1593111106,
+      "name": "OG",
+      "tag": "OG",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/2586976.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003445e9e6a01da5a462d1",
+        "5f003445e9e6a01da5a462d2",
+        "5f003445e9e6a01da5a462d3",
+        "5f003445e9e6a01da5a462d4",
+        "5f003445e9e6a01da5a462d5"
+      ],
+      "_id": "5f0032a0bb60981c653c1e42",
+      "team_id": "2108395",
+      "wins": 508,
+      "losses": 357,
+      "last_match_time": 1593767378,
+      "name": "TNC Predator",
+      "tag": "TNC",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/2108395.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00344fe9e6a01da5a462d6",
+        "5f00344fe9e6a01da5a462d7",
+        "5f00344fe9e6a01da5a462d8",
+        "5f00344fe9e6a01da5a462d9",
+        "5f00344fe9e6a01da5a462da"
+      ],
+      "_id": "5f0032a0bb60981c653c1e43",
+      "team_id": "3586078",
+      "wins": 270,
+      "losses": 220,
+      "last_match_time": 1593775797,
+      "name": "Geek Fam",
+      "tag": "GeekFam",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1012688131496596029/2C8239D829D22AA3CC3C2670B3A70ACA599F4D3A/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003458e9e6a01da5a462db",
+        "5f003458e9e6a01da5a462dc",
+        "5f003458e9e6a01da5a462dd",
+        "5f003458e9e6a01da5a462de",
+        "5f003458e9e6a01da5a462df"
+      ],
+      "_id": "5f0032a0bb60981c653c1e44",
+      "team_id": "7555613",
+      "wins": 89,
+      "losses": 74,
+      "last_match_time": 1592502969,
+      "name": "OG.Seed",
+      "tag": "OG.S",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1004809121655041802/D9C893AC4F6CF2DA59CB22CF7FE1885133389F9A/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003463e9e6a01da5a462e0",
+        "5f003463e9e6a01da5a462e1",
+        "5f003463e9e6a01da5a462e2",
+        "5f003463e9e6a01da5a462e3",
+        "5f003463e9e6a01da5a462e4"
+      ],
+      "_id": "5f0032a0bb60981c653c1e45",
+      "team_id": "111474",
+      "wins": 1040,
+      "losses": 783,
+      "last_match_time": 1593099184,
+      "name": "Alliance",
+      "tag": "Alliance",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/111474.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003476e9e6a01da5a462e5",
+        "5f003476e9e6a01da5a462e6",
+        "5f003476e9e6a01da5a462e7",
+        "5f003476e9e6a01da5a462e8"
+      ],
+      "_id": "5f0032a0bb60981c653c1e47",
+      "team_id": "7732977",
+      "wins": 87,
+      "losses": 60,
+      "last_match_time": 1593767378,
+      "name": "BOOM Esports",
+      "tag": "BOOM",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/768365068750604173/EF3216F4B02A0DA2327AC3190A369349C7BF3A24/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003481e9e6a01da5a462e9",
+        "5f003481e9e6a01da5a462ea"
+      ],
+      "_id": "5f0032a0bb60981c653c1e48",
+      "team_id": "6382740",
+      "wins": 61,
+      "losses": 40,
+      "last_match_time": 1565416228,
+      "name": "Royal",
+      "tag": "Royal",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/937206137839516292/51F476E62579AA097D2035B9BECC8ADB827660CF/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003495e9e6a01da5a462eb",
+        "5f003495e9e6a01da5a462ec",
+        "5f003495e9e6a01da5a462ed",
+        "5f003495e9e6a01da5a462ee"
+      ],
+      "_id": "5f0032a0bb60981c653c1e4a",
+      "team_id": "6187657",
+      "wins": 423,
+      "losses": 301,
+      "last_match_time": 1593337968,
+      "name": "Neon Esports",
+      "tag": "neon",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/775098948701987529/DA6A97A398553CE5B61F8E62BEE7E8D0A2841173/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00349fe9e6a01da5a462ef",
+        "5f00349fe9e6a01da5a462f0",
+        "5f00349fe9e6a01da5a462f1",
+        "5f00349fe9e6a01da5a462f2",
+        "5f00349fe9e6a01da5a462f3"
+      ],
+      "_id": "5f0032a0bb60981c653c1e4b",
+      "team_id": "6214973",
+      "wins": 220,
+      "losses": 212,
+      "last_match_time": 1593014705,
+      "name": "Ninjas in Pyjamas",
+      "tag": "NiP",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/939457282117079692/28F558E0F2E7BD190435810894A08D2E331CE0EF/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0034b3e9e6a01da5a462f4",
+        "5f0034b3e9e6a01da5a462f5",
+        "5f0034b3e9e6a01da5a462f6",
+        "5f0034b3e9e6a01da5a462f7",
+        "5f0034b3e9e6a01da5a462f8"
+      ],
+      "_id": "5f0032a0bb60981c653c1e4d",
+      "team_id": "39",
+      "wins": 1119,
+      "losses": 679,
+      "last_match_time": 1593457630,
+      "name": "Evil Geniuses",
+      "tag": "EG",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/39.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0034bde9e6a01da5a462f9",
+        "5f0034bde9e6a01da5a462fa",
+        "5f0034bde9e6a01da5a462fb"
+      ],
+      "_id": "5f0032a0bb60981c653c1e4e",
+      "team_id": "7298091",
+      "wins": 72,
+      "losses": 43,
+      "last_match_time": 1592179998,
+      "name": "NoPing Esports",
+      "tag": "NOPING",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/775118698101340524/F496D4874FDFA574ECC43FB1CDD78238AC96B38D/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0034c7e9e6a01da5a462fc",
+        "5f0034c7e9e6a01da5a462fd",
+        "5f0034c7e9e6a01da5a462fe",
+        "5f0034c7e9e6a01da5a462ff",
+        "5f0034c7e9e6a01da5a46300",
+        "5f0034c7e9e6a01da5a46301"
+      ],
+      "_id": "5f0032a0bb60981c653c1e4f",
+      "team_id": "7059982",
+      "wins": 84,
+      "losses": 86,
+      "last_match_time": 1593338144,
+      "name": "Team Sirius",
+      "tag": "Sirius",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/824632154770606631/48544E44F0C59A5A24896B927728DF40F000D4F9/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0034d0e9e6a01da5a46302",
+        "5f0034d0e9e6a01da5a46303",
+        "5f0034d0e9e6a01da5a46304",
+        "5f0034d0e9e6a01da5a46305",
+        "5f0034d0e9e6a01da5a46306"
+      ],
+      "_id": "5f0032a0bb60981c653c1e50",
+      "team_id": "7424172",
+      "wins": 83,
+      "losses": 66,
+      "last_match_time": 1593691625,
+      "name": "T1",
+      "tag": "T1",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/773981969136635863/BE28F059BD864F4820323DE5DDD864D4C353CA87/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0034dce9e6a01da5a46307",
+        "5f0034dce9e6a01da5a46308",
+        "5f0034dce9e6a01da5a46309",
+        "5f0034dce9e6a01da5a4630a"
+      ],
+      "_id": "5f0032a0bb60981c653c1e51",
+      "team_id": "36",
+      "wins": 958,
+      "losses": 782,
+      "last_match_time": 1590942784,
+      "name": "Natus Vincere",
+      "tag": "Na`Vi",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/36.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0034e4e9e6a01da5a4630b",
+        "5f0034e4e9e6a01da5a4630c",
+        "5f0034e4e9e6a01da5a4630d",
+        "5f0034e4e9e6a01da5a4630e",
+        "5f0034e4e9e6a01da5a4630f"
+      ],
+      "_id": "5f0032a0bb60981c653c1e52",
+      "team_id": "7748744",
+      "wins": 73,
+      "losses": 59,
+      "last_match_time": 1593814012,
+      "name": "CR4ZY",
+      "tag": "CR4ZY",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/777372824325330501/0203F5435560EFC32DDBB0B7D170ECF50CCD3BE6/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0034eee9e6a01da5a46310",
+        "5f0034eee9e6a01da5a46311",
+        "5f0034eee9e6a01da5a46312",
+        "5f0034eee9e6a01da5a46313",
+        "5f0034eee9e6a01da5a46314"
+      ],
+      "_id": "5f0032a0bb60981c653c1e53",
+      "team_id": "6382242",
+      "wins": 132,
+      "losses": 69,
+      "last_match_time": 1593214532,
+      "name": "Thunder Predator",
+      "tag": "ThunderP",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/771721592096213701/FB6F45207F9BF03F6D94C1C515DACD45A9C33411/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0034f9e9e6a01da5a46315"
+      ],
+      "_id": "5f0032a0bb60981c653c1e54",
+      "team_id": "7653600",
+      "wins": 65,
+      "losses": 68,
+      "last_match_time": 1590536584,
+      "name": "Aggressive Mode",
+      "tag": "A-Mode",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/793133917198591097/2372880E304EFDBEFE73D101E54C0A34D9AA8612/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003518e9e6a01da5a46316",
+        "5f003518e9e6a01da5a46317",
+        "5f003518e9e6a01da5a46318",
+        "5f003518e9e6a01da5a46319",
+        "5f003518e9e6a01da5a4631a"
+      ],
+      "_id": "5f0032a0bb60981c653c1e57",
+      "team_id": "1375614",
+      "wins": 933,
+      "losses": 670,
+      "last_match_time": 1589290053,
+      "name": "Newbee",
+      "tag": "Newbee",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/1375614.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003521e9e6a01da5a4631b"
+      ],
+      "_id": "5f0032a0bb60981c653c1e58",
+      "team_id": "2626685",
+      "wins": 397,
+      "losses": 396,
+      "last_match_time": 1590137373,
+      "name": "KEEN GAMING",
+      "tag": "KG",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/2626685.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003553e9e6a01da5a4631c",
+        "5f003553e9e6a01da5a4631d",
+        "5f003553e9e6a01da5a4631e",
+        "5f003553e9e6a01da5a4631f",
+        "5f003553e9e6a01da5a46320",
+        "5f003553e9e6a01da5a46321"
+      ],
+      "_id": "5f0032a0bb60981c653c1e5d",
+      "team_id": "7422789",
+      "wins": 107,
+      "losses": 109,
+      "last_match_time": 1593783496,
+      "name": "HellRaisers",
+      "tag": "HR",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/775106514372016095/6C8FEB4B51D9738B69903834B38AD2DD510A2A24/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003566e9e6a01da5a46322",
+        "5f003566e9e6a01da5a46323",
+        "5f003566e9e6a01da5a46324",
+        "5f003566e9e6a01da5a46325",
+        "5f003566e9e6a01da5a46326"
+      ],
+      "_id": "5f0032a0bb60981c653c1e5f",
+      "team_id": "7681441",
+      "wins": 48,
+      "losses": 47,
+      "last_match_time": 1593303814,
+      "name": "business associates",
+      "tag": "business",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/789755010916561479/354F9DF6125FE48FC70FF8588985EF77E8CDDAAE/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003571e9e6a01da5a46327",
+        "5f003571e9e6a01da5a46328",
+        "5f003571e9e6a01da5a46329",
+        "5f003571e9e6a01da5a4632a",
+        "5f003571e9e6a01da5a4632b"
+      ],
+      "_id": "5f0032a0bb60981c653c1e60",
+      "team_id": "7542148",
+      "wins": 71,
+      "losses": 50,
+      "last_match_time": 1592938667,
+      "name": " EXTREMUM",
+      "tag": "EXTREMUM",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/775111584830415516/9B672798E58A5B4D2EDF0734D686B285A300DA54/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003584e9e6a01da5a4632c",
+        "5f003584e9e6a01da5a4632d"
+      ],
+      "_id": "5f0032a0bb60981c653c1e62",
+      "team_id": "5837973",
+      "wins": 19,
+      "losses": 14,
+      "last_match_time": 1593354594,
+      "name": "PG BARRACX",
+      "tag": "BrX",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/777370366167883104/88308A82A97DC28CD8051D990B154CFC03A857D2/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00358ee9e6a01da5a4632e",
+        "5f00358ee9e6a01da5a4632f",
+        "5f00358ee9e6a01da5a46330",
+        "5f00358ee9e6a01da5a46331",
+        "5f00358ee9e6a01da5a46332"
+      ],
+      "_id": "5f0032a0bb60981c653c1e63",
+      "team_id": "7441136",
+      "wins": 98,
+      "losses": 80,
+      "last_match_time": 1593821095,
+      "name": "beastcoast",
+      "tag": "bc",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/773981410527259604/8B88726CBCA1E1F5FC3368D49BCF84F609B138FF/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0035a3e9e6a01da5a46333",
+        "5f0035a3e9e6a01da5a46334",
+        "5f0035a3e9e6a01da5a46335",
+        "5f0035a3e9e6a01da5a46336",
+        "5f0035a3e9e6a01da5a46337"
+      ],
+      "_id": "5f0032a0bb60981c653c1e65",
+      "team_id": "7098928",
+      "wins": 233,
+      "losses": 155,
+      "last_match_time": 1593078597,
+      "name": "Adroit",
+      "tag": "Adroit",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/767229411678601888/B0219E1FD519787173F2B9F7E14E2811B6EA5A41/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0035e8e9e6a01da5a46338",
+        "5f0035e8e9e6a01da5a46339"
+      ],
+      "_id": "5f0032a0bb60981c653c1e6c",
+      "team_id": "7359917",
+      "wins": 61,
+      "losses": 47,
+      "last_match_time": 1585215931,
+      "name": "Lowkey",
+      "tag": "LK",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/780750599790860449/55E39216A68ADCFC25930DE5D27AA8C542C0AB2F/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0035fde9e6a01da5a4633a",
+        "5f0035fde9e6a01da5a4633b",
+        "5f0035fde9e6a01da5a4633c"
+      ],
+      "_id": "5f0032a0bb60981c653c1e6e",
+      "team_id": "67",
+      "wins": 307,
+      "losses": 279,
+      "last_match_time": 1582505594,
+      "name": "paiN Gaming",
+      "tag": "paiN",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/67.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003644e9e6a01da5a4633d",
+        "5f003644e9e6a01da5a4633e",
+        "5f003644e9e6a01da5a4633f",
+        "5f003644e9e6a01da5a46340"
+      ],
+      "_id": "5f0032a0bb60981c653c1e75",
+      "team_id": "7404529",
+      "wins": 93,
+      "losses": 114,
+      "last_match_time": 1593775797,
+      "name": "Reality Rift",
+      "tag": "RR ",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1022822776634092251/D6D106057358BC1992E78DEC8421AEC34C472C4E/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00366be9e6a01da5a46341"
+      ],
+      "_id": "5f0032a0bb60981c653c1e79",
+      "team_id": "7848119",
+      "wins": 54,
+      "losses": 42,
+      "last_match_time": 1592159264,
+      "name": "NOVA",
+      "tag": "NOVA",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1004808076812597655/50F5D9F711BC6E85A064BF67AA70701D3BB26DCF/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00367ee9e6a01da5a46342",
+        "5f00367ee9e6a01da5a46343",
+        "5f00367ee9e6a01da5a46344"
+      ],
+      "_id": "5f0032a0bb60981c653c1e7b",
+      "team_id": "5014799",
+      "wins": 151,
+      "losses": 150,
+      "last_match_time": 1592146202,
+      "name": "Nemiga Gaming",
+      "tag": "Nemiga",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/773979233121245751/6A208D6AFD1046552A33AB4568F8C2A358DECEA5/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003693e9e6a01da5a46345",
+        "5f003693e9e6a01da5a46346",
+        "5f003693e9e6a01da5a46347",
+        "5f003693e9e6a01da5a46348"
+      ],
+      "_id": "5f0032a0bb60981c653c1e7d",
+      "team_id": "7820540",
+      "wins": 72,
+      "losses": 80,
+      "last_match_time": 1593791339,
+      "name": "Team Unique",
+      "tag": "Unique",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1014940317816759398/45713FAB148A02F3B24AB57D6B12B7ECE9C7A402/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00369ce9e6a01da5a46349",
+        "5f00369ce9e6a01da5a4634a",
+        "5f00369ce9e6a01da5a4634b"
+      ],
+      "_id": "5f0032a0bb60981c653c1e7e",
+      "team_id": "7119388",
+      "wins": 66,
+      "losses": 101,
+      "last_match_time": 1590004592,
+      "name": "Team Spirit",
+      "tag": "TSpirit",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/808871372366192216/5AB15D82E2011784098912D4F138E2E33203E73F/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0036bae9e6a01da5a4634c",
+        "5f0036bae9e6a01da5a4634d"
+      ],
+      "_id": "5f0032a0bb60981c653c1e81",
+      "team_id": "6711290",
+      "wins": 111,
+      "losses": 105,
+      "last_match_time": 1584190249,
+      "name": "Team Singularity",
+      "tag": "SNG",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/985630771489365774/32800A83BD06946300371D8516DEE9DB44593DA5/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0036e2e9e6a01da5a4634e"
+      ],
+      "_id": "5f0032a0bb60981c653c1e85",
+      "team_id": "7822261",
+      "wins": 24,
+      "losses": 10,
+      "last_match_time": 1587909817,
+      "name": "Yolo Knight",
+      "tag": "yK-",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1019444160331853455/D570A703968576DFB06323900AFCA61FD1519BA5/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00370be9e6a01da5a4634f"
+      ],
+      "_id": "5f0032a0bb60981c653c1e89",
+      "team_id": "7498762",
+      "wins": 23,
+      "losses": 12,
+      "last_match_time": 1591691546,
+      "name": "Team Oracle.YOUTH",
+      "tag": "OCY",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/761599357008552749/AD4B630E7D98A59F3923A78A2E55FCB3EDD79789/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00373c136f9320f1929e2c",
+        "5f00373c136f9320f1929e2d",
+        "5f00373c136f9320f1929e2e",
+        "5f00373c136f9320f1929e2f"
+      ],
+      "_id": "5f0032a0bb60981c653c1e8e",
+      "team_id": "7930695",
+      "wins": 16,
+      "losses": 22,
+      "last_match_time": 1592913804,
+      "name": "FAMILY TEAM",
+      "tag": "FT",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1021698582220690828/25303B125189AD8D01A52AF6E5B1C7AA4411869E/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003748136f9320f1929e30"
+      ],
+      "_id": "5f0032a0bb60981c653c1e8f",
+      "team_id": "6266565",
+      "wins": 34,
+      "losses": 23,
+      "last_match_time": 1591569617,
+      "name": "0-900",
+      "tag": "0-900",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/781873071400631505/B28548CACF0859792995F0AE6EB69762B5988AB8/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0037de136f9320f1929e31",
+        "5f0037de136f9320f1929e32",
+        "5f0037de136f9320f1929e33"
+      ],
+      "_id": "5f0032a0bb60981c653c1e9e",
+      "team_id": "4817649",
+      "wins": 104,
+      "losses": 126,
+      "last_match_time": 1593323607,
+      "name": "496 Gaming",
+      "tag": "496",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/947347005705942313/366DDC9ACA9760D099E84685DE88D72E9BA65F3E/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0037e7136f9320f1929e34",
+        "5f0037e7136f9320f1929e35",
+        "5f0037e7136f9320f1929e36"
+      ],
+      "_id": "5f0032a0bb60981c653c1e9f",
+      "team_id": "7624504",
+      "wins": 11,
+      "losses": 6,
+      "last_match_time": 1593691388,
+      "name": "MS Chonburi",
+      "tag": "MSC",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/786379195098888325/8EBE83ACA5836D465B759895732E23E203449E9B/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0037f0136f9320f1929e37"
+      ],
+      "_id": "5f0032a0bb60981c653c1ea0",
+      "team_id": "7894580",
+      "wins": 22,
+      "losses": 11,
+      "last_match_time": 1592310079,
+      "name": "miaww^^",
+      "tag": "miaww^^",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1004811522587355514/98BC328775427131668F48561558E63C58B6107F/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003804136f9320f1929e38"
+      ],
+      "_id": "5f0032a0bb60981c653c1ea2",
+      "team_id": "5681778",
+      "wins": 32,
+      "losses": 16,
+      "last_match_time": 1590498766,
+      "name": "XDS",
+      "tag": "XDS",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/778483653571726823/E368894EC0CB041AFA2D1EBFFCBFD9C6E4ECFDFE/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00382d136f9320f1929e39",
+        "5f00382d136f9320f1929e3a",
+        "5f00382d136f9320f1929e3b",
+        "5f00382d136f9320f1929e3c"
+      ],
+      "_id": "5f0032a0bb60981c653c1ea6",
+      "team_id": "7669103",
+      "wins": 72,
+      "losses": 101,
+      "last_match_time": 1591710726,
+      "name": "Cyber Legacy",
+      "tag": "CL",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1011567586225402691/D415D42CDF563ADCA8C6DEA9E9DF1CCE1F567A0A/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f00384b136f9320f1929e3d",
+        "5f00384b136f9320f1929e3e"
+      ],
+      "_id": "5f0032a0bb60981c653c1ea9",
+      "team_id": "7118032",
+      "wins": 88,
+      "losses": 115,
+      "last_match_time": 1591460223,
+      "name": "Winstrike Team",
+      "tag": "Winstrike",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/789748832053588401/447AE24D04DB1E105B26197B8716D702A740F310/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003a2179b5c40babd23d8f",
+        "5f003a2179b5c40babd23d90",
+        "5f003a2179b5c40babd23d91"
+      ],
+      "_id": "5f0032a0bb60981c653c1eb1",
+      "team_id": "7849151",
+      "wins": 17,
+      "losses": 23,
+      "last_match_time": 1589475631,
+      "name": "CR",
+      "tag": "CR",
+      "logo_url": null,
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003a3f79b5c40babd23d92",
+        "5f003a3f79b5c40babd23d93",
+        "5f003a3f79b5c40babd23d94"
+      ],
+      "_id": "5f0032a0bb60981c653c1eb4",
+      "team_id": "5066616",
+      "wins": 116,
+      "losses": 114,
+      "last_match_time": 1583039606,
+      "name": "Team Serenity",
+      "tag": "Serenity",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/5066616.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003ad579b5c40babd23d95",
+        "5f003ad579b5c40babd23d96"
+      ],
+      "_id": "5f0032a0bb60981c653c1ec3",
+      "team_id": "3265632",
+      "wins": 84,
+      "losses": 67,
+      "last_match_time": 1565878669,
+      "name": "PG.Barracx",
+      "tag": "BrX",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/960847208278814427/7C3867FBC592134F182DC004D386CFD804133FC2/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003adf79b5c40babd23d97"
+      ],
+      "_id": "5f0032a0bb60981c653c1ec4",
+      "team_id": "7833289",
+      "wins": 12,
+      "losses": 6,
+      "last_match_time": 1593341978,
+      "name": "NGID.M11",
+      "tag": "NGID.M11",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1013814727493166987/CC04915F2CBC19CBA66A79BAA3138EC9D5760B68/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003ae979b5c40babd23d98",
+        "5f003ae979b5c40babd23d99",
+        "5f003ae979b5c40babd23d9a",
+        "5f003ae979b5c40babd23d9b",
+        "5f003ae979b5c40babd23d9c"
+      ],
+      "_id": "5f0032a0bb60981c653c1ec5",
+      "team_id": "6209143",
+      "wins": 223,
+      "losses": 172,
+      "last_match_time": 1590937683,
+      "name": "Gambit Esports",
+      "tag": "Gambit",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/952966356917456146/915048B656E6A72ECD680A2A2C913BF3BFDA559D/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003b1179b5c40babd23d9d",
+        "5f003b1179b5c40babd23d9e",
+        "5f003b1179b5c40babd23d9f",
+        "5f003b1179b5c40babd23da0"
+      ],
+      "_id": "5f0032a0bb60981c653c1ec9",
+      "team_id": "7453744",
+      "wins": 84,
+      "losses": 84,
+      "last_match_time": 1592395664,
+      "name": "KHAN",
+      "tag": "KHAN",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/762723281101978065/8D9EED15471603FC39233237A66657206E187CCE/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003b1b79b5c40babd23da1",
+        "5f003b1b79b5c40babd23da2"
+      ],
+      "_id": "5f0032a0bb60981c653c1eca",
+      "team_id": "7683797",
+      "wins": 23,
+      "losses": 17,
+      "last_match_time": 1589227108,
+      "name": "F.R.I.E.N.D.S",
+      "tag": "Friends",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1017192914408410563/6A319C2C3EBE095B3E20FD76F9C776416A6FD0E5/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003b4d79b5c40babd23da3"
+      ],
+      "_id": "5f0032a0bb60981c653c1ecf",
+      "team_id": "7422393",
+      "wins": 19,
+      "losses": 22,
+      "last_match_time": 1581576969,
+      "name": "Revive",
+      "tag": "Revive",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/751464518598503644/8E0D75D4578D9C67932D0F5BB9AB24566B7B4EA2/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003b6179b5c40babd23da4",
+        "5f003b6179b5c40babd23da5",
+        "5f003b6179b5c40babd23da6",
+        "5f003b6179b5c40babd23da7"
+      ],
+      "_id": "5f0032a0bb60981c653c1ed1",
+      "team_id": "46",
+      "wins": 1111,
+      "losses": 824,
+      "last_match_time": 1592927405,
+      "name": "Team Empire",
+      "tag": "Empire",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/46.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003bd979b5c40babd23da8",
+        "5f003bd979b5c40babd23da9"
+      ],
+      "_id": "5f0032a0bb60981c653c1edd",
+      "team_id": "2640025",
+      "wins": 558,
+      "losses": 510,
+      "last_match_time": 1593593481,
+      "name": "iG.Vitality",
+      "tag": "iG.V",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/2640025.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003be379b5c40babd23daa",
+        "5f003be379b5c40babd23dab",
+        "5f003be379b5c40babd23dac",
+        "5f003be379b5c40babd23dad"
+      ],
+      "_id": "5f0032a0bb60981c653c1ede",
+      "team_id": "7668567",
+      "wins": 10,
+      "losses": 21,
+      "last_match_time": 1587774002,
+      "name": "Cloud9",
+      "tag": "C9",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1005933936502558715/73494016F1CEED79E150317453817031A56EA33A/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003bf779b5c40babd23dae",
+        "5f003bf779b5c40babd23daf",
+        "5f003bf779b5c40babd23db0"
+      ],
+      "_id": "5f0032a0bb60981c653c1ee0",
+      "team_id": "6465093",
+      "wins": 73,
+      "losses": 66,
+      "last_match_time": 1586605723,
+      "name": "ForTheDream",
+      "tag": "FTD",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/963103354433927743/0C67ADA24075FF59172BD96DA67D2A6CEEB32963/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003c2979b5c40babd23db1",
+        "5f003c2979b5c40babd23db2"
+      ],
+      "_id": "5f0032a0bb60981c653c1ee5",
+      "team_id": "5055770",
+      "wins": 130,
+      "losses": 133,
+      "last_match_time": 1591412086,
+      "name": "Gorillaz-Pride",
+      "tag": "G-pride",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/934927864604413601/D9FF391286B256016F320077FC6B4BEC594FF774/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003c8d79b5c40babd23db3",
+        "5f003c8d79b5c40babd23db4",
+        "5f003c8d79b5c40babd23db5",
+        "5f003c8d79b5c40babd23db6",
+        "5f003c8d79b5c40babd23db7"
+      ],
+      "_id": "5f0032a0bb60981c653c1eef",
+      "team_id": "7251006",
+      "wins": 31,
+      "losses": 28,
+      "last_match_time": 1590598971,
+      "name": "TechPromBiz",
+      "tag": "TPB",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/766100671592811268/35B05F4A08FBD04B43B431D70DC8E38643D5DBEE/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003d0579b5c40babd23db8",
+        "5f003d0579b5c40babd23db9",
+        "5f003d0579b5c40babd23dba"
+      ],
+      "_id": "5f0032a0bb60981c653c1efb",
+      "team_id": "2672298",
+      "wins": 339,
+      "losses": 297,
+      "last_match_time": 1593821095,
+      "name": "Infamous Gaming",
+      "tag": "Infamous",
+      "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/2672298.png",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003dcd79b5c40babd23dbb"
+      ],
+      "_id": "5f0032a0bb60981c653c1f0f",
+      "team_id": "7574919",
+      "wins": 23,
+      "losses": 20,
+      "last_match_time": 1592478312,
+      "name": "Dota My Goal",
+      "tag": "DMG",
+      "logo_url": null,
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003dd779b5c40babd23dbc",
+        "5f003dd779b5c40babd23dbd",
+        "5f003dd779b5c40babd23dbe"
+      ],
+      "_id": "5f0032a0bb60981c653c1f10",
+      "team_id": "5219641",
+      "wins": 8,
+      "losses": 9,
+      "last_match_time": 1590673281,
+      "name": "Big God",
+      "tag": "",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/925922202520065987/5BC5F5A4ACDD44CD28186E88B80495F8B67A9E21/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003deb79b5c40babd23dbf",
+        "5f003deb79b5c40babd23dc0"
+      ],
+      "_id": "5f0032a0bb60981c653c1f12",
+      "team_id": "7556672",
+      "wins": 26,
+      "losses": 25,
+      "last_match_time": 1591996699,
+      "name": "TEMPO",
+      "tag": "TMP",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1014941230375645445/E826D65D49CF0CE7A41F1F65BD39AAA5A88A9ADE/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003f2b79b5c40babd23dc1",
+        "5f003f2b79b5c40babd23dc2",
+        "5f003f2b79b5c40babd23dc3",
+        "5f003f2b79b5c40babd23dc4",
+        "5f003f2b79b5c40babd23dc5"
+      ],
+      "_id": "5f0032a0bb60981c653c1f31",
+      "team_id": "7819112",
+      "wins": 36,
+      "losses": 41,
+      "last_match_time": 1593253117,
+      "name": "GoodFellaz",
+      "tag": "Gfz",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1023947517074309388/8B9A24E8965BD0284F9644BB8562450619528EEA/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003f5d79b5c40babd23dc6"
+      ],
+      "_id": "5f0032a0bb60981c653c1f36",
+      "team_id": "6740284",
+      "wins": 31,
+      "losses": 35,
+      "last_match_time": 1591640695,
+      "name": "TEAM HEROIC",
+      "tag": "Heroic",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1009313408643011645/491DBA41E0D80D9ACF0388351D31484D9E3FFCB6/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003f6679b5c40babd23dc7",
+        "5f003f6679b5c40babd23dc8"
+      ],
+      "_id": "5f0032a0bb60981c653c1f37",
+      "team_id": "7668075",
+      "wins": 5,
+      "losses": 1,
+      "last_match_time": 1591442141,
+      "name": "Kingpins",
+      "tag": "KP",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1040841086022411007/D08B216F1397BAC2D8D7F7230E0A737DEDDEA3CD/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003f7b79b5c40babd23dc9"
+      ],
+      "_id": "5f0032a0bb60981c653c1f39",
+      "team_id": "6849739",
+      "wins": 23,
+      "losses": 20,
+      "last_match_time": 1590628811,
+      "name": "Ωmega Gaming",
+      "tag": "Ωmega",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/1010400569446014415/7A7A844C39946E909D0CB97341D5C17A209A292B/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f003f9979b5c40babd23dca"
+      ],
+      "_id": "5f0032a0bb60981c653c1f3c",
+      "team_id": "7441121",
+      "wins": 8,
+      "losses": 10,
+      "last_match_time": 1574007368,
+      "name": "flowers",
+      "tag": "flower",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/763848311370292311/D5032F3FE5C1BE349ABE4171424F6D57FCC62392/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0040a7ef21be10fb55bf80"
+      ],
+      "_id": "5f0032a0bb60981c653c1f57",
+      "team_id": "2634810",
+      "wins": 182,
+      "losses": 233,
+      "last_match_time": 1587716384,
+      "name": "KG.Luminous",
+      "tag": "KG.L",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/777352000233274641/C971CD8A1016CEEBC1C2B909AAD3DEFC1DAD9018/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f004151ef21be10fb55bf81"
+      ],
+      "_id": "5f0032a0bb60981c653c1f68",
+      "team_id": "6408664",
+      "wins": 21,
+      "losses": 17,
+      "last_match_time": 1564483685,
+      "name": "Buriram United",
+      "tag": "BRUTD",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/951850928534696993/7F4F164F5F0F396D59C10112D986FDD98A4B7EEB/",
+      "__v": 1
+    },
+    {
+      "players": [
+        "5f0041b5ef21be10fb55bf82",
+        "5f0041b5ef21be10fb55bf83"
+      ],
+      "_id": "5f0032a0bb60981c653c1f72",
+      "team_id": "7219525",
+      "wins": 82,
+      "losses": 62,
+      "last_match_time": 1581511887,
+      "name": "Hero Gaming",
+      "tag": "",
+      "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/791988699037773881/B6F5007B3F51918FE21E9D251D2BAB6224A88426/",
+      "__v": 1
+    }
+  ],
+  "teamErrors": [
+    {
+      "version": 0,
+      "modifiedPaths": [
+        "players"
+      ]
+    },
+    {
+      "version": 0,
+      "modifiedPaths": [
+        "players"
+      ]
+    },
+    {
+      "version": 0,
+      "modifiedPaths": [
+        "players"
+      ]
+    },
+    {
+      "version": 0,
+      "modifiedPaths": [
+        "players"
+      ]
+    },
+    {
+      "version": 0,
+      "modifiedPaths": [
+        "players"
+      ]
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
   ]
 }
