@@ -7,6 +7,10 @@ const PlayerSchema = new Schema({
   games_played: { type: Number },
   wins: { type: Number },
   team_id: { type: String },
+  liq_profile: {
+    type: String,
+    default: "Wait",
+  },
 });
 
 const model = mongoose.model("Players", PlayerSchema);

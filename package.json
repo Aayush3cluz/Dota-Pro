@@ -33,7 +33,8 @@
     "lowdb": "^1.0.0",
     "mongoose": "^5.9.18",
     "node-cron": "^2.0.3",
-    "nodemw": "^0.13.0"
+    "nodemw": "^0.13.0",
+    "string-similarity": "^4.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"

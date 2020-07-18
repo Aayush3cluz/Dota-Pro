@@ -31,6 +31,7 @@ const TeamSchema = new Schema({
       type: String,
     },
   ],
+  temp: String,
 });
 
 const model = mongoose.model("Teams", TeamSchema);

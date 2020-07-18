@@ -9,6 +9,7 @@ db.defaults({
   scrapeReports: [],
   team: [],
   teamErrors: [],
+  liq: [],
 }).write();
 
 export default db;

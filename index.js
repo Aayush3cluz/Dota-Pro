@@ -10,8 +10,12 @@ import PlayerRoutes from "./api/Routes/Players";
 
 //Initialize app
 const app = express();
+
 // import "./api/Jobs/MatchScheduleJobs";
 // import "./api/Jobs/PlayerScrapeJobs";
+// import "./api/Jobs/PlayerLiqJob";
+// import "./api/Jobs/PlayerLinkJobs";
+
 //Middleware
 app.use(cors());
 app.use(bodyparser.json());

@@ -1,8 +1,11 @@
 import db from "../../config/lowdb";
 import Team from "../Models/Team";
 import Player from "../Models/Player";
+import PlayerTemp from "../Models/PlayerTemp";
 import getTeams from "../Lib/getTeamData";
 import getTeamPlayers from "../Lib/getTeamPlayers";
+import getPlayerLinks from "../Lib/getLiqTeams";
+import stringSimilarity from "string-similarity";
 const TeamController = {
   scrape: async (req, res, next) => {
     try {
@@ -44,5 +47,56 @@ const TeamController = {
       console.log(error);
     }
   },
+  getPlayerLinks: async () => {
+    try {
+      let team = await Team.findOne({ temp: { $exists: false } });
+      let ids = team.players;
+      let players = await Player.find().where("_id").in(ids).exec();
+      let playerStrings = [];
+      let playerMap = {};
+      players.forEach((player) => {
+        playerStrings.push(player.name);
+        playerMap[player.name] = player.account_id;
+      });
+      let links = await getPlayerLinks(team.name);
+
+      if (links === null) {
+        team.temp = "axiios";
+        await team.save();
+        return;
+      }
+      links = links.map((L) => {
+        let str = stringSimilarity.findBestMatch(L.id, playerStrings);
+        return { ...L, player: playerMap[playerStrings[str.bestMatchIndex]] };
+      });
+      let result = await PlayerTemp.insertMany(links);
+      team.temp = "Found";
+      await team.save();
+      console.log("Hello");
+    } catch (error) {
+      console.log(error);
+    }
+  },
+  // dirtyWork: async (req, res, next) => {
+  //   try {
+  //     const result = await Team.updateMany({}, { $unset: { temp: 1 } });
+  //     res.send(result);
+  //   } catch (error) {
+  //     console.log(error);
+  //   }
+  // },
+  getPlayers: async (req, res, next) => {
+    try {
+      let id = req.params.id;
+      // let team = await Team.find({team_id:id});
+      let players = await Player.find({ team_id: id });
+      players.length > 0
+        ? res.send(players)
+        : res.send({ error: `No team found with id ${id}` });
+    } catch (e) {
+      res.send({ error: e });
+    }
+  },
 };
+
 export default TeamController;

@@ -1763,5 +1763,5340 @@
     {},
     {},
     {}
+  ],
+  "liq": [
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2014-??-?? — 2015-03-20Let's Do It",
+        "2015-03-20 — 2017-04-01Alternate aTTaX",
+        "2017-04-01 — 2017-05-02Let's Do It",
+        "2017-05-02 — 2017-08-20Team Singularity",
+        "2017-08-20 — 2017-09-15Let's Do It",
+        "2017-09-15 — 2018-06-29Team Kinguin",
+        "2018-06-29 — 2018-09-11Let's Do It",
+        "2018-09-11 — PresentTeam Secret"
+      ],
+      "_id": "5f080d7f65bb1729dba45f47",
+      "name": "Michał Jankowski",
+      "birth": "September 28, 2000 (2000-09-28) (age 19)",
+      "country": "Poland",
+      "status": "Active",
+      "team": "Team Secret",
+      "earnings": "$869,605",
+      "reference": "5f003342e9e6a01da5a46275",
+      "team_id": "1838315",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2014-06-24 — 2014-09-30Veni,Vidi,Vici",
+        "2014-09-30 — 2015-08-284 Anchors + Sea Captain",
+        "2015-08-28 — 2015-10-095Jungz",
+        "2015-10-09 — 2019-06-12Team Liquid",
+        "2019-06-12 — 2019-06-22Team Liquid (Inactive)",
+        "2019-06-22 — 2019-08-30Chaos EC",
+        "2019-08-30 — 2019-10-29Chaos EC (Inactive)",
+        "2019-11-04 — PresentTeam Secret"
+      ],
+      "_id": "5f080dbb93e9e12a37020558",
+      "name": "Lasse Aukusti Urpalainen",
+      "birth": "March 3, 1995 (1995-03-03) (age 25)",
+      "country": "Finland",
+      "status": "Active",
+      "team": "Team Secret",
+      "earnings": "$3,702,103",
+      "reference": "5f003342e9e6a01da5a46276",
+      "team_id": "1838315",
+      "__v": 0
+    },
+    {
+      "_id": "5f0a80359574241e6580fc05",
+      "id": "MATUMBAMAN",
+      "name": "(Lasse Urpalainen)",
+      "pos": "1",
+      "join": "Join Date: 2019-11-04[24]",
+      "link": "/dota2/MATUMBAMAN",
+      "player": "72312627",
+      "__v": 0
+    },
+    {
+      "_id": "5f0a80359574241e6580fc05",
+      "id": "MATUMBAMAN",
+      "name": "(Lasse Urpalainen)",
+      "pos": "1",
+      "join": "Join Date: 2019-11-04[24]",
+      "link": "/dota2/MATUMBAMAN",
+      "player": "72312627",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2014-06-24 — 2014-09-30Veni,Vidi,Vici",
+        "2014-09-30 — 2015-08-284 Anchors + Sea Captain",
+        "2015-08-28 — 2015-10-095Jungz",
+        "2015-10-09 — 2019-06-12Team Liquid",
+        "2019-06-12 — 2019-06-22Team Liquid (Inactive)",
+        "2019-06-22 — 2019-08-30Chaos EC",
+        "2019-08-30 — 2019-10-29Chaos EC (Inactive)",
+        "2019-11-04 — PresentTeam Secret"
+      ],
+      "_id": "5f0a9b0d803a7332347dbb1c",
+      "name": "Lasse Aukusti Urpalainen",
+      "birth": "March 3, 1995 (1995-03-03) (age 25)",
+      "country": "Finland",
+      "status": "Active",
+      "team": "Team Secret",
+      "earnings": "$3,702,103",
+      "reference": "72312627",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2014-06-24 — 2014-09-30Veni,Vidi,Vici",
+        "2014-09-30 — 2015-08-284 Anchors + Sea Captain",
+        "2015-08-28 — 2015-10-095Jungz",
+        "2015-10-09 — 2019-06-12Team Liquid",
+        "2019-06-12 — 2019-06-22Team Liquid (Inactive)",
+        "2019-06-22 — 2019-08-30Chaos EC",
+        "2019-08-30 — 2019-10-29Chaos EC (Inactive)",
+        "2019-11-04 — PresentTeam Secret"
+      ],
+      "_id": "5f0a9b29803a7332347dbb1d",
+      "name": "Lasse Aukusti Urpalainen",
+      "birth": "March 3, 1995 (1995-03-03) (age 25)",
+      "country": "Finland",
+      "status": "Active",
+      "team": "Team Secret",
+      "earnings": "$3,702,103",
+      "reference": "72312627",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2014-06-24 — 2014-09-30Veni,Vidi,Vici",
+        "2014-09-30 — 2015-08-284 Anchors + Sea Captain",
+        "2015-08-28 — 2015-10-095Jungz",
+        "2015-10-09 — 2019-06-12Team Liquid",
+        "2019-06-12 — 2019-06-22Team Liquid (Inactive)",
+        "2019-06-22 — 2019-08-30Chaos EC",
+        "2019-08-30 — 2019-10-29Chaos EC (Inactive)",
+        "2019-11-04 — PresentTeam Secret"
+      ],
+      "_id": "5f0a9b835f878a32a7f949f0",
+      "name": "Lasse Aukusti Urpalainen",
+      "birth": "March 3, 1995 (1995-03-03) (age 25)",
+      "country": "Finland",
+      "status": "Active",
+      "team": "Team Secret",
+      "earnings": "$3,702,103",
+      "reference": "72312627",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2014-??-?? — 2015-03-20Let's Do It",
+        "2015-03-20 — 2017-04-01Alternate aTTaX",
+        "2017-04-01 — 2017-05-02Let's Do It",
+        "2017-05-02 — 2017-08-20Team Singularity",
+        "2017-08-20 — 2017-09-15Let's Do It",
+        "2017-09-15 — 2018-06-29Team Kinguin",
+        "2018-06-29 — 2018-09-11Let's Do It",
+        "2018-09-11 — PresentTeam Secret"
+      ],
+      "_id": "5f0a9ba35f878a32a7f949f1",
+      "name": "Michał Jankowski",
+      "birth": "September 28, 2000 (2000-09-28) (age 19)",
+      "country": "Poland",
+      "status": "Active",
+      "team": "Team Secret",
+      "earnings": "$869,605",
+      "reference": "121769650",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Support"
+      ],
+      "history": [
+        "2013-??-?? — 2013-11-22Stay Free",
+        "2013-11-22 — 2013-12-23Super Strong Dinosaurs",
+        "2014-01-31 — 2014-02-21S A D B O Y S",
+        "2014-02-21 — 2015-01-06Evil Geniuses",
+        "2015-01-06 — 2015-08-30Team Secret",
+        "2015-08-30 — 2016-05-23Evil Geniuses (Sub)",
+        "2016-05-23 — 2016-06-13Kaipi",
+        "2016-06-13 — 2016-08-27Evil Geniuses",
+        "2016-09-15 — 2017-08-30Evil Geniuses",
+        "2017-09-05 — 2017-09-26The Dire",
+        "2017-09-26 — 2018-09-05OpTic Gaming",
+        "2018-09-05 — PresentTeam Secret"
+      ],
+      "_id": "5f0a9bc15f878a32a7f949f2",
+      "name": "Ludwig Wåhlberg",
+      "birth": "August 5, 1997 (1997-08-05) (age 22)",
+      "country": "Sweden",
+      "status": "Active",
+      "team": "Team Secret",
+      "earnings": "$2,445,035",
+      "reference": "73562326",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2012-03-28 — 2013-10-25Gaming Republic",
+        "2013-06-27 — 2014-04-10Think Smart",
+        "2014-09-01 — 2014-12-174 Bunnies 1 Turtle",
+        "2014-12-17 — 2015-08-28Balkan Bears",
+        "2015-08-28 — 2015-10-09Monkey Freedom Fighters",
+        "2015-10-18 — 2015-12-07Monkey Freedom Fighters",
+        "2015-12-07 — 2015-12-31NO-VASELINE",
+        "2016-01-02 — 2016-02-29Mamas Boys",
+        "2016-02-29 — 2016-06-21No Diggity",
+        "2016-06-21 — 2016-12-27Escape Gaming",
+        "2016-12-30 — 2017-04-18B)ears",
+        "2017-05-04 — PresentTeam Secret"
+      ],
+      "_id": "5f0a9bdf5f878a32a7f949f3",
+      "name": "يزيد جرادات",
+      "birth": "October 17, 1994 (1994-10-17) (age 25)",
+      "country": "Jordan",
+      "status": "Active",
+      "team": "Team Secret",
+      "earnings": "$1,471,827",
+      "reference": "89117038",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2011-06-17 — 2014-08-20Natus Vincere",
+        "2014-08-27 — PresentTeam Secret"
+      ],
+      "_id": "5f0a9bfd5f878a32a7f949f4",
+      "name": "Clement Ivanov",
+      "birth": "March 6, 1990 (1990-03-06) (age 30)",
+      "country": "Estonia",
+      "status": "Active",
+      "team": "Team Secret",
+      "earnings": "$2,804,543",
+      "reference": "87278757",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Offlaner"
+      ],
+      "history": [
+        "2016-04-01 — 2017-02-15MAX.Y",
+        "2017-02-15 — 2017-12-21Team MAX",
+        "2017-12-21 — PresentPSG.LGD"
+      ],
+      "_id": "5f0a9c1b5f878a32a7f949f5",
+      "name": "杨沈仪",
+      "birth": "August 16, 1998 (1998-08-16) (age 21)",
+      "country": "China",
+      "status": "Active",
+      "team": "PSG.LGD",
+      "earnings": "$1,851,246",
+      "reference": "94738847",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2013-01-28 — ????-??-??Vici Gaming",
+        "2014-02-19 — 2014-04-25LGD Gaming",
+        "2014-04-25 — 2014-10-14LGD.CDEC",
+        "2014-10-14 — 2015-03-15CDEC Gaming",
+        "2015-03-15 — 2019-01-29LGD Gaming",
+        "2019-01-29 — PresentPSG.LGD"
+      ],
+      "_id": "5f0a9c395f878a32a7f949f6",
+      "name": "路垚",
+      "birth": "December 16, 1995 (1995-12-16) (age 24)",
+      "country": "China",
+      "status": "Active",
+      "team": "PSG.LGD",
+      "earnings": "$2,988,055",
+      "reference": "106863163",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2013-10-21 — 2013-??-??Subvert",
+        "2014-06-04 — 2014-08-20U5",
+        "2014-11-10 — 2015-03-15Immortal Magneto Gaming",
+        "2015-03-30 — 2015-07-31EHOME.K",
+        "2015-09-01 — 2016-05-09EHOME",
+        "2016-05-09 — 2016-06-17EHOME (Sub)",
+        "2016-06-17 — 2017-03-24EHOME",
+        "2017-03-24 — PresentEHOME (Inactive)",
+        "›2017-03-24 — 2017-09-04LGD Gaming (Loan)",
+        "›2017-09-04 — 2018-09-09Vici Gaming (Loan)",
+        "›2018-09-10 — 2019-09-14Keen Gaming (Loan)",
+        "›2019-09-26 — 2020-03-20Revive",
+        "›2020-03-20 — PresentPSG.LGD (Loan)"
+      ],
+      "_id": "5f0a9c575f878a32a7f949f7",
+      "name": "任杨伟",
+      "birth": "December 7, 1995 (1995-12-07) (age 24)",
+      "country": "China",
+      "status": "Active",
+      "team": "EHOME PSG.LGD",
+      "earnings": "$1,205,488",
+      "reference": "134276083",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2012-10-21 — 2016-03-19Vici Gaming",
+        "2016-03-19 — 2016-08-30Vici Gaming Reborn",
+        "2016-09-16 — 2016-12-26Vici Gaming",
+        "2016-12-26 — 2017-09-04Team VGJ",
+        "2017-09-04 — PresentPSG.LGD"
+      ],
+      "_id": "5f0a9c755f878a32a7f949f8",
+      "name": "徐林森",
+      "birth": "February 12, 1995 (1995-02-12) (age 25)",
+      "country": "China",
+      "status": "Active",
+      "team": "LGD Gaming",
+      "earnings": "$2,904,310",
+      "reference": "101695162",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2015-01-01 — 2016-03-20Who2Bet",
+        "2016-03-20 — 2016-08-19Mineski-X",
+        "2016-09-17 — 2017-03-05WarriorsGaming.Unity",
+        "2017-03-05 — 2017-03-27Team Bazaar",
+        "2017-03-27 — 2017-08-21WarriorsGaming.Unity",
+        "2017-09-21 — 2017-12-09WarriorsGaming.Unity",
+        "2018-01-01 — PresentPSG.LGD"
+      ],
+      "_id": "5f0a9c935f878a32a7f949f9",
+      "name": "叶建暐",
+      "birth": "October 1, 1997 (1997-10-01) (age 22)",
+      "country": "Malaysia",
+      "status": "Active",
+      "team": "PSG.LGD",
+      "earnings": "$1,883,599",
+      "reference": "94296097",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Support"
+      ],
+      "history": [
+        "2011-11-20 — 2013-09-06LGD Gaming",
+        "2013-09-06 — 2013-10-31RisingStars",
+        "2013-10-31 — 2014-08-26Vici Gaming",
+        "2014-08-26 — 2016-03-14LGD Gaming",
+        "2016-04-08 — 2016-09-07Vici Gaming",
+        "2016-09-07 — 2017-01-01EHOME",
+        "2017-09-06 — 2018-09-10VGJ.Thunder",
+        "2018-09-10 — 2019-04-16Team Aster",
+        "2019-04-16 — 2019-11-26Team Sirius",
+        "2019-11-26 — PresentEHOME"
+      ],
+      "_id": "5f0a9cb15f878a32a7f949fa",
+      "name": "刘嘉俊",
+      "birth": "December 20, 1993 (1993-12-20) (age 26)",
+      "country": "China",
+      "status": "Active",
+      "team": "EHOME",
+      "earnings": "$1,194,289",
+      "reference": "108382060",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2018-04-?? — 2018-09-??BLACKJACK",
+        "2018-10-14 — 2019-03-24WarriorsGaming.Unity",
+        "2019-05-?? — 2019-06-05Power of MYSG+AU",
+        "2019-06-28 — 2019-08-27Geek Fam",
+        "2019-08-31 — 2019-11-25Alpha x Hashtag",
+        "2019-11-25 — PresentEHOME"
+      ],
+      "_id": "5f0a9ccf5f878a32a7f949fb",
+      "name": "陈进祥",
+      "birth": "December 21, 2000 (2000-12-21) (age 19)",
+      "country": "Malaysia",
+      "status": "Active",
+      "team": "EHOME",
+      "earnings": "$19,357",
+      "reference": "173978074",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2014-03-18 — 2014-08-??Speed Gaming.cn",
+        "2014-10-27 — 2014-12-28Wings Gaming",
+        "2015-08-25 — 2017-04-19Wings Gaming",
+        "2017-04-19 — 2017-05-23Team Random",
+        "2017-05-23 — 2019-03-02EHOME",
+        "2019-03-02 — 2019-04-28EHOME (Inactive)",
+        "2019-04-29 — PresentEHOME"
+      ],
+      "_id": "5f0a9ced5f878a32a7f949fc",
+      "name": "张睿达",
+      "birth": "March 21, 1998 (1998-03-21) (age 22)",
+      "country": "China",
+      "status": "Active",
+      "team": "EHOME",
+      "earnings": "$2,043,478",
+      "reference": "118134220",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Offlaner"
+      ],
+      "history": [
+        "2014-10-30 — 2015-03-12TongFu.WanZhou",
+        "2015-03-12 — 2015-04-12TongFu",
+        "2015-04-17 — 2015-06-25TongFu.WanZhou",
+        "2015-06-25 — 2016-03-22TongFu",
+        "2016-03-22 — 2016-06-??Void Boys",
+        "2016-06-?? — 2017-09-04FTD club A",
+        "2017-09-04 — 2018-01-29For The Dream",
+        "2018-01-29 — 2018-11-02Team Serenity",
+        "2018-11-02 — 2019-09-27Team Serenity (Inactive)",
+        "2019-03-02 — 2019-09-27EHOME (Loan)",
+        "2019-09-27 — PresentEHOME"
+      ],
+      "_id": "5f0a9d0b5f878a32a7f949fd",
+      "name": "赵子星",
+      "birth": "July 6, 1998 (1998-07-06) (age 22)",
+      "country": "China",
+      "status": "Active",
+      "team": "EHOME",
+      "earnings": "$155,970",
+      "reference": "157475523",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2014-03-18 — 2014-08-??Speed Gaming.cn",
+        "2014-08-29 — 2014-12-28Wings Gaming",
+        "2015-08-25 — 2017-04-19Wings Gaming",
+        "2017-04-19 — 2017-05-23Team Random",
+        "2017-05-23 — PresentEHOME"
+      ],
+      "_id": "5f0a9d295f878a32a7f949fe",
+      "name": "张懿萍",
+      "birth": "August 8, 1998 (1998-08-08) (age 21)",
+      "country": "China",
+      "status": "Active",
+      "team": "EHOME",
+      "earnings": "$2,061,978",
+      "reference": "111114687",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2015-12-07 — 2016-01-04FTD club C",
+        "2016-03-25 — 2016-09-17CDEC Avenger",
+        "2016-09-17 — 2018-09-13LGD.Forever Young",
+        "2018-09-13 — PresentRoyal Never Give Up"
+      ],
+      "_id": "5f0a9d475f878a32a7f949ff",
+      "name": "杜鹏",
+      "birth": "September 25, 1999 (1999-09-25) (age 20)",
+      "country": "China",
+      "status": "Active",
+      "team": "Royal Never Give Up",
+      "earnings": "$805,359",
+      "reference": "148215639",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2017-09-?? — 2017-10-??Yuki",
+        "2018-06-?? — 2019-01-??Team QS",
+        "2019-06-?? — 2019-09-18Royal (Sub)",
+        "2019-09-18 — 2020-07-10Sparking Arrow Gaming",
+        "2020-07-10 — PresentRoyal Never Give Up"
+      ],
+      "_id": "5f0a9d655f878a32a7f94a00",
+      "name": "刘宇皓",
+      "birth": "April 8, 1998 (1998-04-08) (age 22)",
+      "country": "China",
+      "status": "Active",
+      "team": "Royal Never Give Up",
+      "earnings": "$25,468",
+      "reference": "148215639",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Carry"
+      ],
+      "history": [
+        "2015-12-?? — 2016-09-17CDEC Avenger",
+        "2016-09-17 — 2017-09-06CDEC Gaming",
+        "2017-09-06 — 2018-02-05iG Vitality",
+        "2018-09-14 — 2018-10-??CDEC Gaming",
+        "2018-11-?? — 2018-12-18Royal",
+        "2018-12-19 — 2019-03-19Royal Never Give Up",
+        "2019-03-19 — 2019-04-14Royal",
+        "2019-04-14 — PresentRoyal Never Give Up"
+      ],
+      "_id": "5f0a9d815f878a32a7f94a01",
+      "name": "苏磊",
+      "birth": "March 10, 1997 (1997-03-10) (age 23)",
+      "country": "China",
+      "status": "Active",
+      "team": "Royal Never Give Up",
+      "earnings": "$242,030",
+      "reference": "186627166",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2015-??-?? — 2015-??-??Aefy Esports Club",
+        "2015-08-13 — 2016-04-06Power Gaming",
+        "2016-10-?? — 2017-0?-??90s Gaming",
+        "2017-0?-?? — 2017-0?-??Team High Ground",
+        "2017-05-14 — 2017-0?-??WarriorsGaming.Youth",
+        "2017-0?-?? — 2018-0?-??Team High Ground",
+        "2018-06-17 — 2018-09-08Battle Arena Elites",
+        "2018-11-11 — 2019-09-17WarriorsGaming.Unity",
+        "2019-11-20 — 2020-07-10Sparking Arrow Gaming",
+        "2020-07-10 — PresentRoyal Never Give Up"
+      ],
+      "_id": "5f0a9da15f878a32a7f94a02",
+      "name": "张维伦",
+      "birth": "August 28, 1996 (1996-08-28) (age 23)",
+      "country": "Malaysia",
+      "status": "Active",
+      "team": "Royal Never Give Up",
+      "earnings": "$23,740",
+      "reference": "148215639",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Coach"
+      ],
+      "history": [
+        "2011-01-16 — 2013-08-22Team DK",
+        "2013-09-02 — 2016-03-20Vici Gaming",
+        "2016-03-20 — 2016-08-30CDEC Gaming",
+        "2016-09-17 — 2018-01-19LGD.Forever Young",
+        "2018-01-19 — 2018-02-05LGD.Forever Young (Inactive)",
+        "›2018-01-19 — 2018-02-05Invictus Gaming (Trial)",
+        "2018-02-05 — 2018-09-??LGD.Forever Young",
+        "2018-09-?? — 2018-10-??Team Green",
+        "2018-11-15 — 2019-03-19Team Root",
+        "2019-03-19 — 2019-04-14Royal (Coach)",
+        "2019-04-14 — 2019-11-20Royal Never Give Up (Coach)",
+        "2019-11-20 — PresentRoyal Never Give Up"
+      ],
+      "_id": "5f0a9dbf5f878a32a7f94a03",
+      "name": "谢俊豪",
+      "birth": "January 4, 1993 (1993-01-04) (age 27)",
+      "country": "China",
+      "status": "Active",
+      "team": "Royal Never Give Up",
+      "earnings": "$1,598,728",
+      "reference": "90882159",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2018-10-03 — 2018-10-07Alpha Blue",
+        "2018-10-07 — 2018-12-15Reaper",
+        "2018-12-15\t— 2019-06-13MSCerberus",
+        "2019-06-13 — 2019-09-04MSCerberus (Inactive)",
+        "2019-06-13 — 2019-09-04Team Jinesbrus (Loan)",
+        "2019-09-04 — PresentFnatic"
+      ],
+      "_id": "5f0a9ddd5f878a32a7f94a04",
+      "name": "หนึ่งนรา ธีรมหานนท์",
+      "birth": "March 27, 2002 (2002-03-27) (age 18)",
+      "country": "Thailand",
+      "status": "Active",
+      "team": "Fnatic",
+      "earnings": "$38,000",
+      "reference": "375507918",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2014-08-19 — 2015-03-05GeNySis",
+        "2015-03-05 — 2015-04-02Invasion e-Sports",
+        "2015-09-03 — 2015-11-28SabunWarrior",
+        "2015-11-28 — 2017-03-05WarriorsGaming.Unity",
+        "2017-03-05 — 2017-03-27Team Bazaar",
+        "2017-03-27 — 2017-08-16WarriorsGaming.Unity",
+        "2017-08-16 — 2019-09-04Mineski",
+        "2019-09-04 — PresentFnatic"
+      ],
+      "_id": "5f0a9dfd5f878a32a7f94a05",
+      "name": "甘文胜",
+      "birth": "February 12, 1995 (1995-02-12) (age 25)",
+      "country": "Malaysia",
+      "status": "Active",
+      "team": "Fnatic",
+      "earnings": "$493,839",
+      "reference": "113457795",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Carry"
+      ],
+      "history": [
+        "2011-08-01 — 2011-09-11Scythe.SG",
+        "2011-09-11 — 2012-01-04MYM",
+        "2012-03-29 — 2013-09-04Zenith",
+        "2013-09-04 — 2014-08-26Team DK",
+        "2014-08-26 — 2016-03-08Vici Gaming",
+        "2016-03-08 — 2016-08-29EHOME",
+        "2016-09-03 — 2017-07-04Team Faceless",
+        "2017-08-16 — 2018-09-06Mineski",
+        "2018-09-12 — PresentFnatic"
+      ],
+      "_id": "5f0a9e195f878a32a7f94a06",
+      "name": "许培祥",
+      "birth": "June 17, 1990 (1990-06-17) (age 30)",
+      "country": "Singapore",
+      "status": "Active",
+      "team": "Fnatic",
+      "earnings": "$1,562,661",
+      "reference": "84772440",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Offlaner"
+      ],
+      "history": [
+        "2013-11-29 — 2014-05-04EoT Hammer",
+        "2014-05-04 — 2015-06-16Rave",
+        "2015-06-19 — 2015-08-26MSI-EvoGT",
+        "2015-08-26 — 2016-08-19Fnatic",
+        "2016-09-13 — 2017-03-24Execration",
+        "2017-04-04 — PresentFnatic"
+      ],
+      "_id": "5f0a9e375f878a32a7f94a07",
+      "name": "Djardel Jicko B. Mampusti",
+      "birth": "November 6, 1994 (1994-11-06) (age 25)",
+      "country": "Philippines",
+      "status": "Active",
+      "team": "Fnatic",
+      "earnings": "$789,909",
+      "reference": "102099826",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2014-05-?? — 2014-05-29Everlast.GameFilling",
+        "2015-01-20 — 2016-09-03Signature.Trust",
+        "2016-09-03 — 2017-07-04Team Faceless",
+        "2017-08-16 — 2018-09-06Mineski",
+        "2018-09-12 — PresentFnatic"
+      ],
+      "_id": "5f0a9e555f878a32a7f94a08",
+      "name": "อนุชา จิระวงศ์",
+      "birth": "September 22, 1998 (1998-09-22) (age 21)",
+      "country": "Thailand",
+      "status": "Active",
+      "team": "Fnatic",
+      "earnings": "$495,554",
+      "reference": "100471531",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2015-06-01 — 2015-09-04Immortal Magneto Gaming",
+        "2015-09-04 — 2016-01-20Team FanTuan",
+        "2016-01-20 — 2016-03-19Invictus Gaming",
+        "2016-03-19 — 2017-09-06iG Vitality",
+        "2017-09-06 — PresentVici Gaming"
+      ],
+      "_id": "5f0a9e735f878a32a7f94a09",
+      "name": "张成俊",
+      "birth": "June 27, 1996 (1996-06-27) (age 24)",
+      "country": "China",
+      "status": "Active",
+      "team": "Vici Gaming",
+      "earnings": "$1,000,111",
+      "reference": "137193239",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2016-09-17 — 2017-01-06DUOBAO",
+        "2017-01-06 — PresentVici Gaming"
+      ],
+      "_id": "5f0a9e915f878a32a7f94a0a",
+      "name": "曾焦阳",
+      "birth": "July 22, 1995 (1995-07-22) (age 24)",
+      "country": "China",
+      "status": "Active",
+      "team": "Vici Gaming",
+      "earnings": "$821,575",
+      "reference": "107803494",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2015-03-14 — 2016-03-19Vici Gaming Potential",
+        "2016-03-19 — 2016-08-23Vici Gaming Reborn",
+        "2016-09-14 — 2017-09-06Vici Gaming",
+        "2017-09-06 — 2018-09-09VGJ.Thunder",
+        "2018-09-09 — PresentVici Gaming"
+      ],
+      "_id": "5f0a9eaf5f878a32a7f94a0b",
+      "name": "周海洋",
+      "birth": "November 15, 1996 (1996-11-15) (age 23)",
+      "country": "China",
+      "status": "Active",
+      "team": "Vici Gaming",
+      "earnings": "$813,272",
+      "reference": "139937922",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2016-04-?? — 2016-05-??HTML Gaming",
+        "2016-08-?? — 2016-10-??Longwan",
+        "2016-10-?? — 2017-01-??BraveHeart.Zombie",
+        "2017-03-?? — 2017-03-??Rampage Gaming",
+        "2017-06-?? — 2017-09-??Young Elite Gaming",
+        "2017-10-?? — 2017-11-??Yuki",
+        "2017-12-12 — 2019-09-21Team Serenity",
+        "2019-09-21 — PresentVici Gaming"
+      ],
+      "_id": "5f0a9ecc5f878a32a7f94a0c",
+      "name": "熊家晗",
+      "country": "China",
+      "status": "Active",
+      "team": "Vici Gaming",
+      "earnings": "$225,807",
+      "reference": "138543123",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2016-10-?? — 2017-09-??Young Elite Gaming",
+        "2017-10-02 — 2018-05-24Vici Gaming Potential",
+        "2018-05-24 — 2018-09-09Taichi Gaming",
+        "2018-09-09 — PresentVici Gaming"
+      ],
+      "_id": "5f0a9eec5f878a32a7f94a0d",
+      "name": "丁聪",
+      "birth": "May 11, 1997 (1997-05-11) (age 23)",
+      "country": "China",
+      "status": "Active",
+      "team": "Vici Gaming",
+      "earnings": "$585,492",
+      "reference": "143693439",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2016-08-16 — 2016-10-??Team Doge",
+        "2016-10-?? — 2017-02-27SOLIDUDES",
+        "2017-02-27 — 2017-04-05Prodota Gaming",
+        "2017-07-31 — 2017-10-03Tuho",
+        "2017-11-29 — 2019-03-20Alliance",
+        "2019-03-20 — 2019-05-03Alliance (Inactive)",
+        "2019-05-03 — 2019-09-26Alliance",
+        "2019-10-02 — PresentTeam Liquid"
+      ],
+      "_id": "5f0a9f095f878a32a7f94a0e",
+      "name": "Michael Vu",
+      "birth": "July 26, 1999 (1999-07-26) (age 20)",
+      "country": "Sweden",
+      "status": "Active",
+      "team": "Team Liquid",
+      "earnings": "$217,208",
+      "reference": "152962063",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2012-06-14 — 2012-07-14HelloMoto",
+        "2012-10-01 — 2012-11-17Meet Your Makers",
+        "2012-12-08 — 2013-01-03We haz Asian",
+        "2013-03-18 — 2013-09-25mousesports",
+        "2013-09-25 — 2014-08-29Team Liquid",
+        "2014-08-11 — 2015-05-08Team Tinker",
+        "2015-05-08 — 2015-06-04mousesports",
+        "2016-02-29 — 2016-06-21No Diggity",
+        "2016-06-21 — 2017-01-06Escape Gaming",
+        "2017-01-06 — 2017-01-25January 25th",
+        "2017-01-25 — 2017-06-04Ninjas in Pyjamas",
+        "2017-06-22 — 2017-10-03Tuho",
+        "2017-11-03 — 2017-12-04Digital Chaos",
+        "2018-02-07 — 2018-06-03Mad Lads",
+        "2018-06-03 — 2019-09-26Alliance",
+        "2019-10-02 — PresentTeam Liquid"
+      ],
+      "_id": "5f0a9f275f878a32a7f94a0f",
+      "name": "Maximilian Bröcker",
+      "birth": "September 27, 1995 (1995-09-27) (age 24)",
+      "country": "Germany",
+      "status": "Active",
+      "team": "Team Liquid",
+      "earnings": "$306,366",
+      "reference": "86738694",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2016-??-?? — 2017-11-29Evil Corporation",
+        "2017-11-29 — 2019-09-26Alliance",
+        "2019-10-02 — PresentTeam Liquid"
+      ],
+      "_id": "5f0a9f455f878a32a7f94a10",
+      "name": "Samuel Svahn",
+      "birth": "April 10, 1998 (1998-04-10) (age 22)",
+      "country": "Sweden",
+      "status": "Active",
+      "team": "Team Liquid",
+      "earnings": "$222,928",
+      "reference": "77490514",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2017-08-29 — 2017-10-16SFTe-sports",
+        "2017-11-29 — 2019-09-26Alliance",
+        "2019-10-02 — PresentTeam Liquid"
+      ],
+      "_id": "5f0a9f635f878a32a7f94a11",
+      "name": "Tommy Le",
+      "birth": "July 4, 1998 (1998-07-04) (age 22)",
+      "country": "Norway",
+      "status": "Active",
+      "team": "Team Liquid",
+      "earnings": "$223,768",
+      "reference": "401792574",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2016-08-16 — 2016-10-??Team Doge",
+        "2016-10-?? — 2017-01-08SOLIDUDES",
+        "2017-01-08 — 2017-04-05Prodota Gaming",
+        "2017-04-20 — 2017-06-04Ninjas in Pyjamas",
+        "2017-07-31 — 2017-10-03Tuho",
+        "2017-11-29 — 2019-09-26Alliance",
+        "2019-10-02 — PresentTeam Liquid"
+      ],
+      "_id": "5f0a9f815f878a32a7f94a12",
+      "name": "Aydin Sarkohi",
+      "birth": "June 18, 1994 (1994-06-18) (age 26)",
+      "country": "Sweden",
+      "status": "Active",
+      "team": "Team Liquid",
+      "earnings": "$225,525",
+      "reference": "54580962",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0a9f9c5f878a32a7f94a13",
+      "reference": "136177710",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0a9fba5f878a32a7f94a14",
+      "reference": "108221389",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2016-03-19 — 2016-08-23IG Vitality",
+        "2016-09-17 — 2018-01-20Invictus Gaming",
+        "2018-01-20 — 2018-09-??Invictus Gaming (Inactive)",
+        "›2018-01-20 — 2018-02-05LGD.Forever Young (Trial)",
+        "2018-10-17 — 2019-04-14DeathBringer Gaming",
+        "2019-04-14 — 2019-09-18Royal",
+        "2019-09-18 — PresentSparking Arrow Gaming"
+      ],
+      "_id": "5f0a9fdb5f878a32a7f94a15",
+      "name": "欧鹏",
+      "birth": "April 6, 1992 (1992-04-06) (age 28)",
+      "country": "China",
+      "status": "Active",
+      "team": "Sparking Arrow Gaming",
+      "earnings": "$385,143",
+      "reference": "205813150",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2016-01-04 — 2016-03-21CDEC Avenger",
+        "2016-03-21 — 2016-09-17LGD Gaming",
+        "2016-09-17 — 2017-09-10CDEC Gaming",
+        "2017-09-10 — 2018-06-27Eclipse",
+        "2018-11-05 — 2019-02-16Royal Never Give Up",
+        "2019-03-22 — 2019-09-18Royal",
+        "2019-09-18 — 2019-11-20Sparking Arrow Gaming",
+        "2019-11-20 — 2020-07-10Royal Never Give Up",
+        "2020-07-10 — PresentSparking Arrow Gaming"
+      ],
+      "_id": "5f0a9ff95f878a32a7f94a16",
+      "name": "薛志川",
+      "birth": "April 17, 1995 (1995-04-17) (age 25)",
+      "country": "China",
+      "status": "Active",
+      "team": "Sparking Arrow Gaming",
+      "earnings": "$127,807",
+      "reference": "108221389",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2017-12-06 — 2018-09-10Echo Gaming",
+        "2018-09-12 — 2018-11-09Invictus Gaming (Sub)",
+        "2018-11-09 — 2019-03-21Royal",
+        "2019-03-21 — 2019-07-24Royal (Inactive)",
+        "›2019-03-21 — 2019-07-24For The Dream (Loan)",
+        "2019-07-24 — 2019-09-18Royal",
+        "2019-09-18 — PresentSparking Arrow Gaming"
+      ],
+      "_id": "5f0aa0175f878a32a7f94a17",
+      "name": "茹志浩",
+      "birth": "December 10, 1995 (1995-12-10) (age 24)",
+      "country": "China",
+      "status": "Active",
+      "team": "Sparking Arrow Gaming",
+      "earnings": "$26,205",
+      "reference": "108221389",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2018-09-09 — 2018-09-27Odium",
+        "2019-01-15 — 2019-09-27Aachen City Esports",
+        "2019-09-24 — 2019-10-14HellRaisers (Loan)",
+        "2020-02-21 — PresentFlyToMoon"
+      ],
+      "_id": "5f0aa0345f878a32a7f94a18",
+      "name": "Алик Воробей",
+      "birth": "August 11, 2000 (2000-08-11) (age 19)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "FlyToMoon",
+      "earnings": "$42,579",
+      "reference": "152455523",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "201?-??-?? — 201?-??-??Duza Gaming",
+        "2015-??-?? — 2015-06-25.aSpera.",
+        "2015-09-03 — 2015-12-06CIS Rejects",
+        "2015-12-06 — 2016-06-08Team Spirit",
+        "2016-06-08 — 2016-06-30Polarity",
+        "2016-08-21 — 2016-11-13Vega Squadron",
+        "2016-12-15 — 2017-11-18Team Spirit",
+        "2018-02-05 — 2018-06-20FlyToMoon",
+        "2018-06-20 — 2019-03-19Winstrike Team",
+        "2019-03-28 — 2019-04-08FlyToMoon",
+        "2019-04-08 — 2019-06-30The Pango",
+        "2019-09-09 — 2019-09-28Winstrike Team",
+        "2019-09-30 — PresentFlyToMoon"
+      ],
+      "_id": "5f0aa0535f878a32a7f94a19",
+      "name": "Богдан Василенко",
+      "birth": "April 13, 1997 (1997-04-13) (age 23)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "FlyToMoon",
+      "earnings": "$196,837",
+      "reference": "250114507",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Offlaner"
+      ],
+      "history": [
+        "2015-04-22 — 2015-06-08Duza Gaming",
+        "2015-06-08 — 2015-08-21sQreen's Squad",
+        "2015-08-21 — 2015-09-04Teamless",
+        "2015-09-04 — 2015-10-23ScaryFaceZ",
+        "2015-10-30 — 2015-11-03Walrus Punch!",
+        "2015-11-03 — 2015-11-??Team Empire",
+        "2015-11-24 — 2016-01-10Elements Pro Gaming",
+        "2016-02-23 — 2018-09-01Natus Vincere",
+        "2018-09-03 — 2018-09-27Odium",
+        "2020-02-01 — PresentFlyToMoon"
+      ],
+      "_id": "5f0aa0715f878a32a7f94a1a",
+      "name": "Віктор Нігріні",
+      "birth": "August 5, 1996 (1996-08-05) (age 23)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "FlyToMoon",
+      "earnings": "$208,081",
+      "reference": "89550641",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Carry"
+      ],
+      "history": [
+        "2013-10-22 — 2014-02-01Flip.Sid3.ru",
+        "2014-08-29 — 2014-09-15HellRaisers",
+        "2014-09-15 — 2014-??-??Album Sheets",
+        "2014-12-31 — 2016-03-25Team Empire",
+        "2016-03-25 — 2016-06-30Virtus.Pro",
+        "2016-07-15 — 2016-09-12F.R.I.E.N.D.S.",
+        "2016-09-12 — 2016-11-11Team Empire",
+        "2016-12-27 — 2017-04-09F.R.I.E.N.D.S.",
+        "2017-04-09 — 2018-01-30Vega Squadron",
+        "2019-09-24 — 2019-11-02HellRaisers",
+        "2019-11-02 — 2019-11-28HellRaisers (Inactive)",
+        "2019-11-28 — 2020-02-19Winstrike Team",
+        "2020-02-?? — PresentFlyToMoon"
+      ],
+      "_id": "5f0aa08f5f878a32a7f94a1b",
+      "name": "Ілля Коробкін",
+      "birth": "September 15, 1997 (1997-09-15) (age 22)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "FlyToMoon",
+      "earnings": "$198,456",
+      "reference": "123051238",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2011-12-08 — 2012-01-09The Retry",
+        "2012-01-09 — 2012-05-24DTS Gaming",
+        "2012-05-28 — 2012-09-13Team Empire",
+        "2012-09-19 — 2012-10-04Team Kharkiv",
+        "2012-10-04 — 2012-11-11Eclypsia",
+        "2012-11-11 — 2013-02-01iLuminate",
+        "2012-09-16 — 2012-09-27The Retry",
+        "2013-03-14 — 2013-08-16iCCup",
+        "2013-08-16 — 2013-09-13Terrible Terrible Damage",
+        "2013-09-13 — 2015-08-25Team Empire",
+        "2015-09-03 — 2015-12-06CIS Rejects",
+        "2015-12-06 — 2016-05-11Team Spirit",
+        "2016-05-13 — 2016-06-30Polarity",
+        "2016-07-15 — 2016-12-??F.R.I.E.N.D.S.",
+        "2017-02-01 — 2017-03-18Double Dimension",
+        "2017-04-14 — 2017-05-23Thug Life",
+        "2017-05-23 — 2018-02-01Gambit Esports",
+        "2018-02-05 — 2018-06-20FlyToMoon",
+        "2018-06-20 — 2019-01-23Winstrike Team",
+        "2019-03-28 — PresentFlyToMoon"
+      ],
+      "_id": "5f0aa0ad5f878a32a7f94a1c",
+      "name": "Андрій Бондаренко",
+      "birth": "March 6, 1991 (1991-03-06) (age 29)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "FlyToMoon",
+      "earnings": "$319,291",
+      "reference": "91064780",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2019-09-27 - 2019-11-23Virtus.pro (Trial)",
+        "2019-11-23 - 2020-02-03Virtus.pro",
+        "2020-02-03 - 2020-04-01Virtus.pro (Inactive)",
+        "2020-04-01 - PresentVP.Prodigy"
+      ],
+      "_id": "5f0aa0ca5f878a32a7f94a1d",
+      "name": "Егор Григоренко",
+      "birth": "May 16, 2002 (2002-05-16) (age 18)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "VP.Prodigy",
+      "earnings": "$47,796",
+      "reference": "317880638",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2014-03-17 — 2014-09-28Insane Gaming",
+        "2014-09-28 — 2015-01-01Nightcore",
+        "2015-01-14 — 2015-03-28Little Busters 4ever",
+        "2015-08-20 — 2015-10-06newteam123123",
+        "2015-10-06 — 2015-10-??PRIES Gaming",
+        "2015-12-07 — 2015-12-28Arcade.PowerRangers",
+        "2015-12-28 — 2016-02-17Power Rangers",
+        "2016-03-22 — 2016-12-23Vega Squadron",
+        "2017-01-08 — 2018-07-09Team Empire",
+        "2018-09-16 — 2018-09-18Virtus.Pro (Stand-in)",
+        "2019-01-23 — 20??-??-??Team Jekich",
+        "2020-02-04 — 2020-02-27Gambit Esports (Stand-in)",
+        "2020-04-01 - PresentVP.Prodigy (Stand-in)"
+      ],
+      "_id": "5f0aa0e95f878a32a7f94a1e",
+      "name": "Ростислав Лозовий",
+      "birth": "June 7, 1994 (1994-06-07) (age 26)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "VP.Prodigy",
+      "earnings": "$266,316",
+      "reference": "5150808",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2018-11-?? — 2018-12-??Underdogs",
+        "2019-01-30 — 2019-02-27Vega Squadron",
+        "2019-03-19 — 2019-04-11Winstrike Team",
+        "2019-04-22 — 2019-09-24Aachen City Esports",
+        "2019-09-24 — 2019-11-21HellRaisers",
+        "2019-11-25 — 2020-01-24Chaos Esports Club (Loan)",
+        "2020-04-01 — PresentVP.Prodigy"
+      ],
+      "_id": "5f0aa1065f878a32a7f94a1f",
+      "name": "Дмитрий Дорохин",
+      "birth": "January 8, 2000 (2000-01-08) (age 20)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "VP.Prodigy",
+      "earnings": "$51,621",
+      "reference": "56351509",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2019-05-14 — 2019-06-29FlyToMoon",
+        "2019-10-02 - 2019-10-30 Virtus.pro (Trial)",
+        "2019-10-30 - 2020-02-03Virtus.pro",
+        "2020-02-03 - 2020-04-01Virtus.pro (Inactive)",
+        "2020-04-01 - PresentVP.Prodigy"
+      ],
+      "_id": "5f0aa1245f878a32a7f94a20",
+      "name": "Виталий Мельник",
+      "birth": "February 12, 2001 (2001-02-12) (age 19)",
+      "country": "Moldova",
+      "status": "Active",
+      "team": "VP.Prodigy",
+      "earnings": "$47,733",
+      "reference": "317880638",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aa1405f878a32a7f94a21",
+      "reference": "129071882",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2015-02-11 — 2015-??-??eHug",
+        "2015-07-02 — 2015-??-??Champions of Summer's Rift",
+        "2015-08-24 — 2016-03-26Digital Chaos",
+        "2016-03-26 — 2016-05-15EverNovaS",
+        "2016-05-15 — 2016-06-15Views 6",
+        "2016-06-15 — 2016-??-??EG BULBA",
+        "2017-01-08 — 2017-??-??Doo Wop",
+        "2017-??-?? — 2017-05-23is GG",
+        "2017-05-23 — 2017-??-??Team Freedom",
+        "2018-02-17 — 2018-08-29VGJ.Storm",
+        "2018-08-29 — 2018-09-14Quincy Crew",
+        "2018-09-14 — 2019-07-21Forward Gaming",
+        "2019-07-24 — 2019-09-20Newbee",
+        "2019-09-27 — 2019-11-05Quincy Crew",
+        "2019-11-05 — 2020-03-25Chaos EC",
+        "2020-03-25 — PresentQuincy Crew"
+      ],
+      "_id": "5f0aa1615f878a32a7f94a22",
+      "name": "ياور حسن",
+      "birth": "April 3, 1997 (1997-04-03) (age 23)",
+      "country": "Pakistan United States",
+      "status": "Active",
+      "team": "Quincy Crew",
+      "earnings": "$391,527",
+      "reference": "108452107",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aa17c5f878a32a7f94a23",
+      "reference": "221666230",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2014-06-01 — 2014-12-05The House Is Down",
+        "2015-09-30 — 2015-10-12Keyd Stars",
+        "2016-11-01 — 2017-09-10Midas Club Elite",
+        "2017-09-10 — 2018-09-07SG e-sports",
+        "2018-09-16 — 2018-11-21paiN X",
+        "2018-12-27 — 2019-03-14Flying Penguins",
+        "2019-06-30 — 2019-11-26paiN Gaming",
+        "2020-01-31 — 2020-04-22Ninjas in Pyjamas",
+        "2020-06-11 — PresentQuincy Crew"
+      ],
+      "_id": "5f0aa19d5f878a32a7f94a24",
+      "name": "Rodrigo Lelis Santos",
+      "birth": "November 24, 1996 (1996-11-24) (age 23)",
+      "country": "Brazil United States",
+      "status": "Active",
+      "team": "Quincy Crew",
+      "earnings": "$72,878",
+      "reference": "86726887",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Offlaner"
+      ],
+      "history": [
+        "2013-02-25 — 2013-05-??Fnatic.NA",
+        "2013-09-19 — 2014-02-21Evil Geniuses",
+        "2014-03-22 — 2014-05-13Team Dog",
+        "2014-05-13 — 2014-07-23mousesports",
+        "2015-03-24 — 2015-07-03North American Rejects",
+        "2015-07-03 — 2015-08-??Team Archon",
+        "2015-08-?? — 2015-09-01Dark Horse",
+        "2015-09-01 — 2015-11-27Cloud9",
+        "2015-12-06 — 2016-08-18Shazam",
+        "2016-09-08 — 2017-07-20Team NP",
+        "2017-07-20 — 2017-08-23Cloud9",
+        "2017-09-13 — 2017-12-04Digital Chaos",
+        "2018-01-05 — 2018-01-29Immortals",
+        "2018-02-17 — 2018-08-29VGJ.Storm",
+        "2018-08-29 — 2018-09-14Quincy Crew",
+        "2018-09-14 — 2019-07-21Forward Gaming",
+        "2019-07-24 — 2019-09-20Newbee",
+        "2019-09-27 — 2019-11-05Quincy Crew",
+        "2019-11-05 — 2020-03-25Chaos EC",
+        "2020-03-25 — PresentQuincy Crew"
+      ],
+      "_id": "5f0aa1bb5f878a32a7f94a25",
+      "name": "Arif Anwar",
+      "birth": "November 28, 1995 (1995-11-28) (age 24)",
+      "country": "United States",
+      "status": "Active",
+      "team": "Quincy Crew",
+      "earnings": "$492,414",
+      "reference": "86726887",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2015-08-?? — 2015-09-01Dark Horse",
+        "2015-09-01 — 2015-11-27Cloud9",
+        "2015-12-06 — 2016-05-16Shazam",
+        "2016-05-16 — 2016-08-19Evil Geniuses (Coach)",
+        "2016-09-08 — 2017-04-06Team NP",
+        "2017-05-28 — 2017-12-19Evil Geniuses (Coach)",
+        "2018-01-05 — 2018-02-03Team World",
+        "2018-02-17 — 2018-08-29VGJ.Storm",
+        "2018-08-29 — 2018-09-14Quincy Crew",
+        "2018-09-14 — 2019-03-24Forward Gaming",
+        "2019-03-24Retired",
+        "2019-09-27 — 2019-11-05Quincy Crew",
+        "2019-11-05 — 2020-03-25Chaos EC",
+        "2020-03-25 — PresentQuincy Crew"
+      ],
+      "_id": "5f0aa1d95f878a32a7f94a26",
+      "name": "Avery Silverman",
+      "birth": "December 5, 1993 (1993-12-05) (age 26)",
+      "country": "United States",
+      "status": "Active",
+      "team": "Quincy Crew",
+      "earnings": "$285,238",
+      "reference": "47434686",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2015-08-29 — 2016-02-10Enso",
+        "2016-04-26 — 2016-05-19Enso",
+        "2016-07-08 — 2017-03-17Comanche",
+        "2017-03-17 — 2017-04-17Cyber Anji",
+        "2017-04-26 — 2017-05-26Double Dimension",
+        "2017-05-27 — 2017-08-31M19",
+        "2017-08-31 — 2018-02-11Team Spirit",
+        "2018-02-27 — 2018-03-25Effect (Stand-in)",
+        "2018-04-12 — 2018-05-01CoM18Anji",
+        "2018-05-01 — 2018-11-26ESPADA",
+        "2018-11-26 — 2019-09-04ESPADA (Inactive)",
+        "2019-01-03 — 2019-03-12OG (Loan)",
+        "2019-09-04 — 2019-10-24Positive Guys",
+        "2019-10-24 — 2020-03-31Team Spirit",
+        "2020-03-31 — PresentTeam Spirit (Inactive)",
+        "›2020-04-04 — PresentVirtus.pro (Stand-in)"
+      ],
+      "_id": "5f0aa1f75f878a32a7f94a27",
+      "name": "Игорь Филатов",
+      "birth": "October 29, 1999 (1999-10-29) (age 20)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Team Spirit Virtus.pro",
+      "earnings": "$253,578",
+      "reference": "113995822",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2014-??-?? — 2014-11-??Ursastroithram",
+        "2014-11-?? — 2014-11-24BUHLO-UroPb",
+        "2014-11-24 — 2016-08-04Vega Squadron",
+        "2016-08-04 — PresentVirtus.pro"
+      ],
+      "_id": "5f0aa2155f878a32a7f94a28",
+      "name": "Володимир Міненко",
+      "birth": "September 4, 1997 (1997-09-04) (age 22)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "Virtus.pro",
+      "earnings": "$1,629,636",
+      "reference": "106573901",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Carry"
+      ],
+      "history": [
+        "2013-03-14 — 2013-08-16iCCup",
+        "2013-08-16 — 2013-08-29Terrible Terrible Damage",
+        "2013-08-29 — 2013-10-08Virtus.pro",
+        "2013-10-25 — 2013-11-12RoX.KIS",
+        "2013-11-12 — 2016-02-04Team Empire",
+        "2016-02-04 — 2017-04-14Digital Chaos",
+        "2017-04-14 — 2017-05-31Thunderbirds",
+        "2017-05-31 — 2017-08-01Planet Odd",
+        "2017-08-02 — 2017-08-12Team Empire (Stand-in)",
+        "2017-09-01 — 2018-03-17OG",
+        "2018-04-12 — 2018-08-29VGJ.Storm",
+        "2018-08-29 — 2018-09-14Quincy Crew",
+        "2018-09-14 — 2019-03-24Forward Gaming",
+        "2019-03-24 — 2019-05-10Forward Gaming (Inactive)",
+        "2019-05-10 — 2019-09-28J.Storm",
+        "2019-09-28 — PresentVirtus.Pro"
+      ],
+      "_id": "5f0aa2335f878a32a7f94a29",
+      "name": "Роман Фомінок",
+      "birth": "September 2, 1996 (1996-09-02) (age 23)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "Virtus.pro",
+      "earnings": "$1,464,781",
+      "reference": "86725175",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2015-08-29 — 2016-05-??NoLifer5",
+        "2016-06-01 — 2016-08-??Elements Pro Gaming",
+        "2016-09-19 — 2017-01-02NoLifer5.Reborn",
+        "2017-01-02 — 2017-09-25MVP Revolution",
+        "2017-09-25 — 2018-09-28Vega Squadron",
+        "2018-10-05 — 2019-04-08The Pango",
+        "2019-04-24 — 2020-02-02Natus Vincere",
+        "2020-02-03 — PresentVirtus.pro"
+      ],
+      "_id": "5f0aa2515f878a32a7f94a2a",
+      "name": "Бакыт Эмилжанов",
+      "birth": "December 2, 1998 (1998-12-02) (age 21)",
+      "country": "Kyrgyzstan",
+      "status": "Active",
+      "team": "Virtus.pro",
+      "earnings": "$191,435",
+      "reference": "111030315",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2012-09-16 — 2012-11-01Moscow Five",
+        "2012-11-12 — 2012-12-12Eclypsia",
+        "2012-12-12 — 2013-01-01United Sexy Boys",
+        "2013-01-01 — 2013-01-18XX5 Gaming",
+        "2013-01-18 — 2013-02-10Ice Climbers",
+        "2013-02-10 — 2013-03-203D!Clan",
+        "2013-03-20 — 2013-06-21RoX",
+        "2013-10-08 — 2013-10-25RoX",
+        "2013-10-25 — 2013-11-04Virtus.Pro",
+        "2013-11-05 — 2013-12-01Poseidon",
+        "2013-12-01 — 2013-12-05Relax",
+        "2014-02-13 — 2014-05-31Rox",
+        "2014-08-26 — 2014-12-10Team Empire",
+        "2015-01-25 — 2015-03-??XX5 Gaming",
+        "2015-04-25 — 2016-08-04Vega Squadron",
+        "2016-08-04 — PresentVirtus.pro"
+      ],
+      "_id": "5f0aa26f5f878a32a7f94a2b",
+      "name": "Алексей Березин",
+      "birth": "August 7, 1990 (1990-08-07) (age 29)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Virtus.pro",
+      "earnings": "$1,796,079",
+      "reference": "134556694",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2015-04-02 — 2016-08-27Newbee.Y",
+        "2016-09-17 — 2019-08-27Newbee",
+        "2019-09-01 — PresentTeam Aster"
+      ],
+      "_id": "5f0aa28d5f878a32a7f94a2c",
+      "name": "宋淳",
+      "birth": "August 18, 1995 (1995-08-18) (age 24)",
+      "country": "China",
+      "status": "Active",
+      "team": "Team Aster",
+      "earnings": "$1,266,386",
+      "reference": "149486894",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2017-03-05 — 2017-03-27Team Bazaar.Youth",
+        "2017-03-27 — 2017-05-13WarriorsGaming.Youth",
+        "2017-05-23 — 2017-08-21WarriorsGaming.Unity",
+        "2017-09-22 — 2018-09-08Geek Fam",
+        "2018-09-08 — 2019-03-15Lotac",
+        "2019-04-14 — 2019-09-08Team Aster (Trial)",
+        "2019-09-08 — PresentTeam Aster"
+      ],
+      "_id": "5f0aa2ab5f878a32a7f94a2d",
+      "name": "黄纪铨",
+      "birth": "November 12, 1995 (1995-11-12) (age 24)",
+      "country": "Malaysia",
+      "status": "Active",
+      "team": "Team Aster",
+      "earnings": "$66,254",
+      "reference": "113435203",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2015-09-17 — 2015-11-16Team DK",
+        "2015-12-07 — 2016-03-19IG Vitality",
+        "2016-03-19 — 2018-09-10Invictus Gaming",
+        "2018-09-10 — PresentTeam Aster"
+      ],
+      "_id": "5f0aa2c95f878a32a7f94a2e",
+      "name": "林靖",
+      "birth": "August 21, 1999 (1999-08-21) (age 20)",
+      "country": "China",
+      "status": "Active",
+      "team": "Team Aster",
+      "earnings": "$473,050",
+      "reference": "129958758",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2016-03-25 — 2016-05-28Thunderobot Gaming",
+        "2016-05-28 — 2017-09-06Vici Gaming Potential",
+        "2017-09-06 — 2018-09-09VGJ.Thunder",
+        "2018-09-09 — 2019-08-27Vici Gaming",
+        "2019-09-08 — PresentTeam Aster"
+      ],
+      "_id": "5f0aa2e75f878a32a7f94a2f",
+      "name": "潘义",
+      "birth": "July 28, 1996 (1996-07-28) (age 23)",
+      "country": "China",
+      "status": "Active",
+      "team": "Team Aster",
+      "earnings": "$633,867",
+      "reference": "182331313",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2015-07-14 — 2015-08-14TongFu.WanZhou",
+        "2015-08-14 — 2015-10-07Team DK",
+        "2015-10-07 — 2015-11-18DK Scuderia",
+        "2015-12-07 — 2016-03-19iG Vitality",
+        "2016-03-19 — 2018-09-10Invictus Gaming",
+        "2018-09-10 — PresentTeam Aster"
+      ],
+      "_id": "5f0aa3055f878a32a7f94a30",
+      "name": "叶智标",
+      "birth": "January 6, 1997 (1997-01-06) (age 23)",
+      "country": "China",
+      "status": "Active",
+      "team": "Team Aster",
+      "earnings": "$493,131",
+      "reference": "207829314",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2016-04-17 — 2016-10-20Soggy Mitts",
+        "2017-01-09 — 2017-05-14Infamous.NA",
+        "2017-05-17 — 2017-05-23Noblewingz",
+        "2017-06-05 — 2017-06-20NANO",
+        "2017-08-29 — 2018-09-09Team Leviathan",
+        "2018-09-09 — 2018-11-08Vendetta",
+        "2018-11-08 — 2019-03-14TEAM TEAM",
+        "2020-03-30 — Present4 Zoomers"
+      ],
+      "_id": "5f0aa3225f878a32a7f94a31",
+      "name": "Samuel Anderson",
+      "country": "United States",
+      "status": "Active",
+      "team": "4 Zoomers",
+      "earnings": "$19,819",
+      "reference": "110583422",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2018-04-12 - 2018-06-??Is GG",
+        "2018-09-11 - 2018-11-??Vendetta",
+        "2019-01-26 - 2019-02-09Flying Penguins",
+        "2019-02-09 — 2019-04-21TEAM TEAM",
+        "2019-05-12 — 2019-06-24Chaos",
+        "2019-06-?? — 2019-??-??Team Jinesbrus",
+        "2019-09-20 — 2020-01-20Ninjas in Pyjamas",
+        "2020-03-30 — Present4 Zoomers"
+      ],
+      "_id": "5f0aa3415f878a32a7f94a32",
+      "name": "Nico Lopez",
+      "birth": "January 14, 2000 (2000-01-14) (age 20)",
+      "country": "United States",
+      "status": "Active",
+      "team": "4 Zoomers",
+      "earnings": "$30,845",
+      "reference": "126238768",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2012-10-20 — 2013-??-??ROOT Gaming",
+        "2014-07-06 — 2014-10-05Boreal eSports",
+        "2015-03-04 — 2015-10-08ROOT Gaming",
+        "2015-10-08 — 2016-03-21Team Archon",
+        "2016-03-24 — 2016-08-18Perky Pepperonis",
+        "2016-11-09 — 2017-04-23compLexity Gaming",
+        "2017-05-26 — 2017-09-22Team Red",
+        "2017-09-22 — 2018-01-02Team Leviathan",
+        "2018-01-02 — 2018-02-02VGJ.Storm",
+        "2018-02-03 — 2018-02-10is GG",
+        "2018-09-27 — 2018-10-??ROOONS",
+        "2018-10-?? — 2018-??-??Plus Ultra",
+        "2019-04-22 — 2019-05-14compLexity Gaming (Trial)",
+        "2020-03-30 — Present4 Zoomers"
+      ],
+      "_id": "5f0aa35e5f878a32a7f94a33",
+      "name": "Jaron Clinton",
+      "country": "United States",
+      "status": "Active",
+      "team": "4 Zoomers",
+      "earnings": "$38,050",
+      "reference": "86811043",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2020-03-30 — Present4 Zoomers"
+      ],
+      "_id": "5f0aa37c5f878a32a7f94a34",
+      "name": "Jacob Gosen",
+      "country": "United States",
+      "team": "4 Zoomers",
+      "earnings": "$3,900",
+      "reference": "98462965",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2020-03-30 — Present4 Zoomers"
+      ],
+      "_id": "5f0aa39a5f878a32a7f94a35",
+      "name": "Jacob Fifik",
+      "country": "United States",
+      "team": "4 Zoomers",
+      "earnings": "$5,400",
+      "reference": "110448679",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2015-01-05 — 2016-08-28Evil Geniuses",
+        "2016-09-15 — 2019-09-16Evil Geniuses",
+        "2019-09-16 — 2020-01-28Evil Geniuses (Inactive)",
+        "›2019-09-16 — 2019-10-11Quincy Crew",
+        "2020-01-28 — PresentOG"
+      ],
+      "_id": "5f0aa3b95f878a32a7f94a36",
+      "name": "سید سمائل حسن",
+      "birth": "February 13, 1999 (1999-02-13) (age 21)",
+      "country": "Pakistan United States",
+      "status": "Active",
+      "team": "OG",
+      "earnings": "$3,608,750",
+      "reference": "111620041",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2017-08-29 — 2017-10-16SFTe-sports",
+        "2017-12-07 — 2018-03-235 Anchors No Captain",
+        "2018-06-04 — PresentOG"
+      ],
+      "_id": "5f0aa3d75f878a32a7f94a37",
+      "name": "Topias Miikka Taavitsainen",
+      "birth": "April 14, 1998 (1998-04-14) (age 22)",
+      "country": "Finland",
+      "status": "Active",
+      "team": "OG",
+      "earnings": "$5,420,250",
+      "reference": "94054712",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Offlaner"
+      ],
+      "history": [
+        "2015-12-07 — 2016-08-24Fnatic",
+        "2016-08-27 — 2019-11-04Team Secret",
+        "2019-11-04 - 2019-12-30Team Secret (Inactive)",
+        "2020-01-29 — PresentOG"
+      ],
+      "_id": "5f0aa3f55f878a32a7f94a38",
+      "name": "叶乃政",
+      "birth": "June 3, 1996 (1996-06-03) (age 24)",
+      "country": "Malaysia",
+      "status": "Active",
+      "team": "OG",
+      "earnings": "$1,733,064",
+      "reference": "116585378",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2014-04-21 — 2015-08-30Global Challengers",
+        "2015-08-30 — 2016-01-024 Clover & Lepricon",
+        "2016-01-02 — 2016-02-??Mamas Boys",
+        "2016-02-04 — 2017-04-14Digital Chaos",
+        "2017-04-14 — 2017-05-31Thunderbirds",
+        "2017-05-31 — 2017-08-01Planet Odd",
+        "2017-07-28 — 2017-08-12HellRaisers (Coach)",
+        "2017-08-29 — 2017-09-24MidOrFeed",
+        "2017-11-28 — 2017-12-19OpTic Gaming (Stand-in)",
+        "2018-01-05 — 2018-02-03Team World",
+        "2018-02-03 — 2018-06-05Echo International",
+        "2018-04-20 — 2018-05-06compLexity (Stand-in)",
+        "2018-06-05 — 2018-06-12Five Dogs",
+        "2018-06-12 — 2018-06-25BlinkPool",
+        "2018-09-17 — 2019-09-20Ninjas in Pyjamas",
+        "2020-01-29 — PresentOG"
+      ],
+      "_id": "5f0aa4135f878a32a7f94a39",
+      "name": "Мартин Саздов",
+      "birth": "June 12, 1995 (1995-06-12) (age 25)",
+      "country": "North Macedonia",
+      "status": "Active",
+      "team": "OG",
+      "earnings": "$996,428",
+      "reference": "103735745",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2012-03-30 — 2014-08-27Fnatic.EU",
+        "2014-08-27 — 2015-01-01Team Secret",
+        "2015-01-05 — 2015-08-14Cloud9",
+        "2015-08-28 — 2015-10-31(monkey) Business",
+        "2015-10-31 — PresentOG",
+        "2019-11-27 — 2020-??-??OG Seed (Coach)"
+      ],
+      "_id": "5f0aa4315f878a32a7f94a3a",
+      "name": "Johan Sundstein",
+      "birth": "October 8, 1993 (1993-10-08) (age 26)",
+      "country": "Denmark",
+      "status": "Active",
+      "team": "OG",
+      "earnings": "$6,900,885",
+      "reference": "19672354",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2016-03-18 — 2016-07-29Acion Arena",
+        "2016-09-13 — 2017-03-23Execration",
+        "2017-03-23 — 2017-07-09Clutch Gamers",
+        "2017-08-15 — 2018-01-15Execration",
+        "2018-01-15 — 2018-05-03Team Admiral",
+        "2018-05-03 — 2018-09-06Clutch Gamers",
+        "2018-09-06 — PresentTNC Predator"
+      ],
+      "_id": "5f0aa44f5f878a32a7f94a3b",
+      "name": "Kim Villafuerte",
+      "birth": "August 1, 1998 (1998-08-01) (age 21)",
+      "country": "Philippines",
+      "status": "Active",
+      "team": "TNC Predator",
+      "earnings": "$422,473",
+      "reference": "152545459",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2016-03-18 — 2016-12-30Acion Arena",
+        "2016-12-30 — 2018-01-15Clutch Gamers",
+        "2018-01-15 — 2018-01-30Team Admiral",
+        "2018-01-30 — PresentTNC Predator"
+      ],
+      "_id": "5f0aa46a5f878a32a7f94a3c",
+      "name": "Armel Paul Tabios",
+      "birth": "January 20, 2000 (2000-01-20) (age 20)",
+      "country": "Philippines",
+      "status": "Active",
+      "team": "TNC Predator",
+      "earnings": "$464,596",
+      "reference": "164532005",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2013-0?-?? — 2013-0?-??AkmA",
+        "2014-09-26 — 2015-01-06Can't Say Wips",
+        "2015-02-26 — 2015-08-26MVP Phoenix",
+        "2015-08-29 — 2015-12-??EHOME.K",
+        "2015-12-03 — 2016-03-25EHOME.Keen",
+        "2016-03-25 — 2018-09-07Newbee",
+        "2018-09-10 — 2019-09-13Mineski",
+        "2019-09-13 — PresentTNC Predator"
+      ],
+      "_id": "5f0aa48b5f878a32a7f94a3d",
+      "name": "Damien Sau-jing Chok",
+      "birth": "April 14, 1993 (1993-04-14) (age 27)",
+      "country": "Australia",
+      "status": "Active",
+      "team": "TNC Predator",
+      "earnings": "$1,800,933",
+      "reference": "87012746",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2016-03-27 — 2016-08-29Execration",
+        "2016-09-08 — 2016-12-15Rave",
+        "2016-12-15 — PresentTNC Predator"
+      ],
+      "_id": "5f0aa4a95f878a32a7f94a3e",
+      "name": "Timothy John Randrup",
+      "birth": "July 4, 1997 (1997-07-04) (age 23)",
+      "country": "Philippines",
+      "status": "Active",
+      "team": "TNC Predator",
+      "earnings": "$771,501",
+      "reference": "155494381",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2013-03-29 — 2013-11-01FXOpen e-Sports",
+        "2013-11-01 — 2013-11-17For Our Utopia",
+        "2013-11-17 — 2016-03-22MVP Phoenix",
+        "2018-02-03 — 2018-??-??Echo International (Coach)",
+        "2018-06-?? — 2018-09-08Wind and Rain (Coach)",
+        "2018-09-09 — 2018-09-27marchoutofarmy",
+        "2018-09-27 — 2019-05-30J.Storm",
+        "2019-05-30 — 2019-07-17J.Storm (Inactive)",
+        "›2019-06-?? — 2019-??-??Team Jinesbrus",
+        "2019-07-17 — 2019-09-13Fnatic (Coach)",
+        "2019-09-13 — PresentTNC Predator"
+      ],
+      "_id": "5f0aa4c75f878a32a7f94a3f",
+      "name": "박태원",
+      "birth": "March 14, 1988 (1988-03-14) (age 32)",
+      "country": "South Korea Canada",
+      "status": "Active",
+      "team": "TNC Predator",
+      "earnings": "$358,752",
+      "reference": "3940262",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2014-04-26 — 2015-01-04Click 'N Search",
+        "2015-01-04 — 2015-03-04Mineski",
+        "2015-03-04 — 2015-06-11Click 'N Search",
+        "2015-06-19 — 2016-08-21MSI-EvoGT",
+        "2015-08-21 — 2016-08-19TNC Pro Team",
+        "2016-09-06 — 2016-11-28Fnatic",
+        "2016-11-29 — 2018-09-05TNC Pro Team",
+        "2018-09-08 — 2019-03-15Lotac",
+        "2019-05—08 — PresentGeek Fam"
+      ],
+      "_id": "5f0aa4e55f878a32a7f94a40",
+      "name": "Marc Polo Luis Fausto",
+      "birth": "September 22, 1998 (1998-09-22) (age 21)",
+      "country": "Philippines",
+      "status": "Active",
+      "team": "Geek Fam",
+      "earnings": "$621,412",
+      "reference": "132309493",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2015-05-01 — 201?-??-??Pacific Revborn",
+        "2016-03-15 — 2016-09-08s1 Lykos",
+        "2017-02-12 — 2017-0?-??Young Minds",
+        "2017-09-04 — 2018-01-05TaskUs Titans",
+        "2018-01-25 — 2019-02-08Execration",
+        "2019-02-08 — 2019-12-18Team Amplfy",
+        "2019-12-18 — PresentGeek Fam"
+      ],
+      "_id": "5f0aa5035f878a32a7f94a41",
+      "name": "Karl Jayme",
+      "birth": "July 8, 1998 (1998-07-08) (age 22)",
+      "country": "Philippines",
+      "status": "Active",
+      "team": "Geek Fam",
+      "earnings": "$29,600",
+      "reference": "121404228",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Captain"
+      ],
+      "history": [
+        "2015-03-05 — 2016-03-27Mineski",
+        "2016-04-11 — 2016-08-19TNC Pro Team",
+        "2016-08-30 — 2019-01-30TNC Pro Team (Inactive)",
+        "2019-01-30 — 2019-09-13TNC Predator",
+        "2019-09-18 — PresentGeek Fam"
+      ],
+      "_id": "5f0aa51f5f878a32a7f94a42",
+      "name": "Carlo Palad",
+      "birth": "September 21, 1996 (1996-09-21) (age 23)",
+      "country": "Philippines",
+      "status": "Active",
+      "team": "Geek Fam",
+      "earnings": "$711,322",
+      "reference": "184950344",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2014-??-?? — 2014-??-??Zero Latitude",
+        "2014-??-?? — 2015-0?-??Team nxl>",
+        "2015-04-12 — 2015-06-01Rex Regum Qeon",
+        "2016-01-15 — 2018-04-30Rex Regum Qeon",
+        "2018-04-30 — 2018-09-06TNC Tigers",
+        "2018-09-08 — 2019-04-22Tigers",
+        "2019-05—05 — 2019-09-01Geek Fam",
+        "2019-09—18 — PresentGeek Fam"
+      ],
+      "_id": "5f0aa53f5f878a32a7f94a43",
+      "name": "Kenny Deo",
+      "birth": "June 27, 1996 (1996-06-27) (age 24)",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "Geek Fam",
+      "earnings": "$66,258",
+      "reference": "121404228",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2018-06-?? — 2019-09-20EVOS Esports",
+        "2020-01-23 — PresentGeek Fam"
+      ],
+      "_id": "5f0aa55d5f878a32a7f94a44",
+      "name": "Matthew Filemon",
+      "birth": "July 22, 2000 (2000-07-22) (age 19)",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "Geek Fam",
+      "earnings": "$13,995",
+      "reference": "136829091",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2014-12-10 — 2015-02-10Gplay",
+        "2015-02-10 — 2015-06-02Basically Unknown",
+        "2015-06-30 — 2015-09-02Balkan Bears",
+        "2015-09-02 — 2015-10-05No Logic Gaming",
+        "2015-10-08 — 2015-10-09Monkey Freedom Fighters",
+        "2016-01-25 — 2016-01-??Walrus Punch!",
+        "2018-09-08 — 2019-01-18Clutch Gamers",
+        "2019-01-18 — 2019-06-26WarriorsGaming.Unity",
+        "2019-06-26 — 2019-08-26Mineski",
+        "2019-10-03 — PresentAlliance"
+      ],
+      "_id": "5f0aa57b5f878a32a7f94a45",
+      "name": "Николай Николов",
+      "birth": "May 27, 1997 (1997-05-27) (age 23)",
+      "country": "Bulgaria",
+      "status": "Active",
+      "team": "Alliance",
+      "earnings": "$233,887",
+      "reference": "412753955",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2014-??-?? — 2014-08-27stayGreen",
+        "2014-08-27 — 2015-02-23compLexity Gaming",
+        "2015-02-23 — 2015-11-13Ninjas in Pyjamas",
+        "2015-11-24 — 2016-08-30compLexity Gaming",
+        "2016-09-16 — 2017-08-18Alliance",
+        "2017-09-06 — 2019-08-26compLexity Gaming",
+        "2019-10-03 — PresentAlliance"
+      ],
+      "_id": "5f0aa5995f878a32a7f94a46",
+      "name": "Linus Blomdin",
+      "birth": "May 31, 1995 (1995-05-31) (age 25)",
+      "country": "Sweden",
+      "status": "Active",
+      "team": "Alliance",
+      "earnings": "$300,088",
+      "reference": "41231571",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2012-01-17 — 2012-03-22Team Empire",
+        "2012-03-?? — 2012-07-12The Tough Bananas",
+        "2012-07-12 — 2012-09-21Copenhagen Wolves",
+        "2012-09-21 — 2013-04-12No Tidehunter",
+        "2013-04-12 — 2014-09-03Alliance",
+        "2014-08-27 — 2015-08-22Team Secret",
+        "2015-08-27 — 2016-08-28Alliance",
+        "2016-08-31 — 2018-05-28OG",
+        "2018-05-28 — 2019-09-16Evil Geniuses",
+        "2019-09-16 — 2020-04-01Evil Geniuses (Inactive)",
+        "2020-04-01 — PresentAlliance"
+      ],
+      "_id": "5f0aa5b75f878a32a7f94a47",
+      "name": "Gustav Magnusson",
+      "birth": "April 1, 1992 (1992-04-01) (age 28)",
+      "country": "Sweden",
+      "status": "Active",
+      "team": "Alliance",
+      "earnings": "$2,516,756",
+      "reference": "41231571",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2014-11-20 — 2015-01-01LAJONS",
+        "2015-01-01 — 2015-11-13Ninjas in Pyjamas",
+        "2015-11-24 — 2016-08-30compLexity Gaming",
+        "2016-09-16 — 2017-08-18Alliance",
+        "2017-09-04 — 2017-09-24No Diggity",
+        "2017-10-04 — 2019-09-06The Final Tribe",
+        "2019-09-06 — 2019-09-18GODSENT",
+        "2019-10-03 — PresentAlliance"
+      ],
+      "_id": "5f0aa5d55f878a32a7f94a48",
+      "name": "Simon Haag",
+      "birth": "April 24, 1994 (1994-04-24) (age 26)",
+      "country": "Sweden",
+      "status": "Active",
+      "team": "Alliance",
+      "earnings": "$278,722",
+      "reference": "18180970",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2013-08-31 — 2014-08-25Power Rangers",
+        "2014-08-25 — 2014-11-07Natus Vincere",
+        "2014-12-20 — 2015-01-18Virtus.pro Polar",
+        "2015-01-18 — 2015-04-15ASUS.Polar",
+        "2015-04-15 — 2016-06-30Virtus.pro",
+        "2016-08-05 — 2016-11-13Vega Squadron",
+        "2016-12-15 — 2018-12-26Team Spirit",
+        "2018-12-25 — 2019-04-15Gambit Esports (Loan)",
+        "2019-04-15 — PresentGambit Esports",
+        "›2020-05-23 — PresentAlliance (Loan)"
+      ],
+      "_id": "5f0aa5f35f878a32a7f94a49",
+      "name": "Артём Баршак",
+      "birth": "September 24, 1995 (1995-09-24) (age 24)",
+      "country": "Belarus",
+      "status": "Active",
+      "team": "Gambit Esports Alliance",
+      "earnings": "$561,292",
+      "reference": "41231571",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Support"
+      ],
+      "history": [
+        "2017-01-30 — PresentBOOM Esports"
+      ],
+      "_id": "5f0aa6115f878a32a7f94a4a",
+      "name": "Randy Muhammad Sapoetra",
+      "birth": "January 14, 1998 (1998-01-14) (age 22)",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "BOOM Esports",
+      "earnings": "$50,878",
+      "reference": "389033587",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2017-03-21 — 2017-??-??Pandora Esports",
+        "2018-10-04 — 2018-11-14Alter Ego",
+        "2018-11-14 — PresentBOOM Esports"
+      ],
+      "_id": "5f0aa62e5f878a32a7f94a4b",
+      "name": "Rafli Fathur Rahman",
+      "birth": "February 28, 2000 (2000-02-28) (age 20)",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "BOOM Esports",
+      "earnings": "$39,104",
+      "reference": "301750126",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2016-07-24 — 2018-01-??Pandora eSport",
+        "2018-02-01 — PresentBOOM Esports"
+      ],
+      "_id": "5f0aa64c5f878a32a7f94a4c",
+      "name": "Saieful Ilham",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "BOOM Esports",
+      "earnings": "$42,442",
+      "reference": "156328257",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2017-03-21 — 2018-04-??Pandora Esports",
+        "2019-07-16 — 2019-10-21Alter Ego",
+        "2019-11-30 — PresentBOOM Esports"
+      ],
+      "_id": "5f0aa66a5f878a32a7f94a4d",
+      "name": "Brizio Adi Putra",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "BOOM Esports",
+      "earnings": "$19,090",
+      "reference": "237325411",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2017-05-18 — PresentBOOM Esports"
+      ],
+      "_id": "5f0aa6885f878a32a7f94a4e",
+      "name": "Alfi Syahrin Nelphyana",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "BOOM Esports",
+      "earnings": "$49,377",
+      "reference": "237325411",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aa6a45f878a32a7f94a4f",
+      "reference": "156662698",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2016-03-19 — 2016-08-23IG Vitality",
+        "2016-09-17 — 2018-01-20Invictus Gaming",
+        "2018-01-20 — 2018-09-??Invictus Gaming (Inactive)",
+        "›2018-01-20 — 2018-02-05LGD.Forever Young (Trial)",
+        "2018-10-17 — 2019-04-14DeathBringer Gaming",
+        "2019-04-14 — 2019-09-18Royal",
+        "2019-09-18 — PresentSparking Arrow Gaming"
+      ],
+      "_id": "5f0aa6c35f878a32a7f94a50",
+      "name": "欧鹏",
+      "birth": "April 6, 1992 (1992-04-06) (age 28)",
+      "country": "China",
+      "status": "Active",
+      "team": "Sparking Arrow Gaming",
+      "earnings": "$385,143",
+      "reference": "156662698",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2015-10-?? — 2016-01-31Dream Weavers Gaming",
+        "2016-04-?? — 2016-08-??G.star",
+        "2016-09-15 — 2017-09-06Vici Gaming Potential",
+        "2017-09-06 — 2018-02-03iG Vitality",
+        "2018-02-03 — 2018-09-12Invictus Gaming",
+        "2018-09-13 — 2019-02-11Royal Never Give Up",
+        "2019-02-11 — 2019-03-19Royal",
+        "2019-03-19 — 2019-04-14Royal Never Give Up",
+        "2019-04-14 — 2019-09-18Royal",
+        "2020-02-27 — PresentCDEC Gaming (Trial)"
+      ],
+      "_id": "5f0aa6e35f878a32a7f94a51",
+      "name": "孙润发",
+      "birth": "June 12, 1998 (1998-06-12) (age 22)",
+      "country": "China",
+      "status": "Active",
+      "team": "CDEC Gaming",
+      "earnings": "$56,117",
+      "reference": "156662698",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aa6fe5f878a32a7f94a52",
+      "reference": "156662698",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2011-08-02 — 2011-08-09iG.Z",
+        "2011-08-09 — 2014-09-12LGD.cn",
+        "2014-09-12 — 2015-01-07LV Gaming",
+        "2015-01-07 — 2015-08-26EHOME",
+        "2015-08-26 — 2016-03-18LGD.cn",
+        "2016-03-19 — 2016-08-30Vici Gaming Reborn",
+        "2016-09-14 — 2017-04-08Vici Gaming",
+        "2017-04-08 — 2018-02-03LGD.Forever Young",
+        "2018-02-03 — 2018-09-11LGD.Forever Young (Inactive)",
+        "›2018-02-03 — 2018-09-11VGJ.Thunder (Loan)",
+        "2018-09-11 — 2019-03-19Team Root",
+        "2019-03-19 — 2019-09-18Royal"
+      ],
+      "_id": "5f0aa71f5f878a32a7f94a53",
+      "name": "梁發明",
+      "birth": "July 3, 1990 (1990-07-03) (age 30)",
+      "country": "Macau",
+      "status": "Active",
+      "earnings": "$1,336,557",
+      "team": "2011-08-09 — 2014-09-12LGD.cn",
+      "reference": "114239371",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aa73a5f878a32a7f94a54",
+      "reference": "100594231",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2019-07-19\t— 2019-09-16The Prime",
+        "2019-09-03\t— PresentNeon Esports"
+      ],
+      "_id": "5f0aa75a5f878a32a7f94a55",
+      "name": "Erin Jasper Ferrer",
+      "country": "Philippines",
+      "status": "Active",
+      "team": "Neon Esports",
+      "earnings": "$19,869",
+      "reference": "121833213",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aa7765f878a32a7f94a56",
+      "reference": "121833213",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2014-08-03 — 2014-11-01Mineski",
+        "2015-03-18 — 2015-08-21Arcanys Gaming",
+        "2016-03-09 — 2016-08-15Arcanys Gaming",
+        "2017-09-22 — 2018-02-02Geek Fam",
+        "2018-03-24 — 2019-04-30Neon Esports",
+        "2019-05-04 — 2019-05-27Geek Fam",
+        "2019-08-04 — PresentNeon Esports"
+      ],
+      "_id": "5f0aa7975f878a32a7f94a57",
+      "name": "Prieme Ejay Banquil",
+      "birth": "October 9, 1998 (1998-10-09) (age 21)",
+      "country": "Philippines",
+      "status": "Active",
+      "team": "Neon Esports",
+      "earnings": "$37,537",
+      "reference": "345803031",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2018-??-?? — 201?-??-??Sterling Global Dragons",
+        "2019-02-15 — 201?-??-??TaskUs Titans",
+        "2020-02-29\t— PresentNeon Esports"
+      ],
+      "_id": "5f0aa7b45f878a32a7f94a58",
+      "name": "Jaunuel Arcilla",
+      "country": "Philippines",
+      "status": "Active",
+      "team": "Neon Esports",
+      "earnings": "$7,471",
+      "reference": "148526973",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2017-09-?? — 2017-09-??Iceberg Esports",
+        "2018-01-08 — 2018-09-??Kingdra",
+        "2018-09-29 — 2018-11-01WU TANG",
+        "2018-11-01 — 2019-09-28Kaipi",
+        "2019-09-28 — 2019-12-01GODSENT",
+        "2020-01-13 — 2020-04-22Chicken Fighters",
+        "2020-04-22 — PresentNinjas in Pyjamas"
+      ],
+      "_id": "5f0aa7d35f878a32a7f94a59",
+      "name": "Charlie Arat",
+      "birth": "September 1, 1997 (1997-09-01) (age 22)",
+      "country": "Sweden",
+      "status": "Active",
+      "team": "Ninjas in Pyjamas",
+      "earnings": "$12,709",
+      "reference": "122049498",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2017-09-?? — 2018-09-??eEriness",
+        "2018-10-02 — 2019-11-14Hippomaniacs",
+        "2019-11-28 — 2020-04-22Chicken Fighters",
+        "2020-04-22 — PresentNinjas in Pyjamas"
+      ],
+      "_id": "5f0aa7f05f878a32a7f94a5a",
+      "name": "Ondřej Štarha",
+      "birth": "November 10, 2000 (2000-11-10) (age 19)",
+      "country": "Czech Republic",
+      "status": "Active",
+      "team": "Ninjas in Pyjamas",
+      "earnings": "$14,089",
+      "reference": "58513047",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2017-09-?? — 2019-09-02Hippomaniacs",
+        "2019-09-16 — 2019-10-14Team Singularity",
+        "2019-10-14 — 2019-11-13Team Singularity (Inactive)",
+        "›2019-10-14 — 2019-11-05Quincy Crew (Loan)",
+        "›2019-11-05 — 2019-11-13Chaos EC (Loan)",
+        "2019-11-13 - 2019-11-26Team Singularity",
+        "2019-11-26 — 2020-04-22Team Singularity (Inactive)",
+        "›2019-11-28 — 2020-04-22Chicken Fighters",
+        "2020-04-22 — PresentNinjas in Pyjamas"
+      ],
+      "_id": "5f0aa80f5f878a32a7f94a5b",
+      "name": "Jonáš Volek",
+      "birth": "October 13, 2000 (2000-10-13) (age 19)",
+      "country": "Czech Republic",
+      "status": "Active",
+      "team": "Ninjas in Pyjamas",
+      "earnings": "$27,089",
+      "reference": "126212866",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Carry"
+      ],
+      "history": [
+        "2012-03-30 — 2014-08-20Fnatic.EU",
+        "2014-09-14 — 2015-01-01LAJONS",
+        "2015-01-01 — 2015-11-13Ninjas in Pyjamas",
+        "2015-12-02 — 2016-??-??Steak Gaming",
+        "2016-02-29 — 2016-06-21No Diggity",
+        "2016-06-21 — 2017-01-06Escape Gaming",
+        "2017-01-06 — 2017-01-25January 25th",
+        "2017-01-25 — 2017-06-04Ninjas in Pyjamas",
+        "2017-06-09 — 2017-08-31Alliance",
+        "2017-09-04 — 2017-09-24No Diggity",
+        "2017-10-04 — 2019-09-06The Final Tribe",
+        "2019-09-06 — 2019-09-25GODSENT",
+        "2019-09-25 — 2019-12-01GODSENT (Inactive)",
+        "2019-12-01 — 2020-04-01GODSENT",
+        "2020-04-01 — 2020-04-22Chicken Fighters",
+        "2020-04-22 — PresentNinjas in Pyjamas"
+      ],
+      "_id": "5f0aa82d5f878a32a7f94a5c",
+      "name": "Adrian Kryeziu",
+      "birth": "September 3, 1995 (1995-09-03) (age 24)",
+      "country": "Sweden",
+      "status": "Active",
+      "team": "Ninjas in Pyjamas",
+      "earnings": "$150,231",
+      "reference": "100317750",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2013-04-29 — 2013-08-15Kaipi",
+        "2013-09-29 — 2013-10-08Take Five",
+        "2014-01-31 — 2014-02-21S A D B O Y S",
+        "2014-02-21 — 2015-01-06Evil Geniuses",
+        "2015-01-06 — 2015-08-14Team Secret",
+        "2015-08-14 — 2016-03-22Evil Geniuses",
+        "2016-03-22 — 2016-08-27Team Secret",
+        "2016-09-15 — PresentEvil Geniuses"
+      ],
+      "_id": "5f0aa84b5f878a32a7f94a5d",
+      "name": "Artour Babaev",
+      "birth": "July 1, 1996 (1996-07-01) (age 24)",
+      "country": "Canada Uzbekistan",
+      "status": "Active",
+      "team": "Evil Geniuses",
+      "earnings": "$2,257,369",
+      "reference": "86745912",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2015-??-?? — 2015-??-??MSI-EvoGT",
+        "2015-??-?? — 2015-0?-??Trackmate",
+        "2016-02-10 — 2016-12-30Execration",
+        "2017-01-01 — 2017-04-14Team Onyx",
+        "2017-04-14 — 2017-10-27Digital Chaos",
+        "2017-11-08 — 2019-09-04Fnatic",
+        "2019-09-16 — PresentEvil Geniuses"
+      ],
+      "_id": "5f0aa8695f878a32a7f94a5e",
+      "name": "Abed Azel L. Yusop",
+      "birth": "August 2, 2000 (2000-08-02) (age 19)",
+      "country": "Philippines",
+      "status": "Active",
+      "team": "Evil Geniuses",
+      "earnings": "$441,000",
+      "reference": "154715080",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Carry"
+      ],
+      "history": [
+        "2014-11-16 — 2014-12-25Courage Gaming (Sub)",
+        "2015-04-01 — 2015-10-11ScaryFaceZ",
+        "2015-09-03 — 2015-12-06CIS Rejects",
+        "2015-12-06 — 2016-03-05Team Spirit",
+        "2016-03-25 — 2016-08-04Team Empire",
+        "2016-08-04 — 2019-09-16Virtus.pro",
+        "2019-09-16 — PresentEvil Geniuses"
+      ],
+      "_id": "5f0aa8875f878a32a7f94a5f",
+      "name": "Роман Кушнарев",
+      "birth": "April 25, 1999 (1999-04-25) (age 21)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Evil Geniuses",
+      "earnings": "$1,796,263",
+      "reference": "132851371",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2012-06-12 — 2012-0?-??Gamer University",
+        "2012-0?-?? — 2012-11-13We haz Asian",
+        "2012-11-13 — 2012-11-16H2k Gaming",
+        "2012-11-16 — 2012-12-08We haz Asian",
+        "2012-12-08 — 2013-03-??DD.Dota",
+        "2013-05-10 — 2013-07-26Lions Pride",
+        "2013-07-26 — 2013-10-16Team Life",
+        "2013-10-16 — 2014-01-23Mousesports",
+        "2014-01-24 — 2014-02-09Team Life",
+        "2014-02-09 — 2014-07-27Meet Your Makers",
+        "2014-??-?? — 2014-??-??Stay Free",
+        "2014-??-?? — 2014-11-26hehe united",
+        "2014-11-26 — 2014-12-08Lianghao",
+        "2015-08-28 — 2015-10-31(monkey) Business",
+        "2015-10-31 — 2016-08-23OG",
+        "2016-09-15 — PresentEvil Geniuses"
+      ],
+      "_id": "5f0aa8a55f878a32a7f94a60",
+      "name": "Andreas Franck Nielsen",
+      "birth": "July 13, 1996 (1996-07-13) (age 23)",
+      "country": "Denmark",
+      "status": "Active",
+      "team": "Evil Geniuses",
+      "earnings": "$2,004,133",
+      "reference": "25907144",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2012-03-30 — 2014-08-27Fnatic.EU",
+        "2014-08-27 — 2014-12-16Team Secret",
+        "2015-01-10 — 2015-03-06MeePwn'd",
+        "2015-05-07 — 2015-08-28CompLexity Gaming",
+        "2015-08-28 — 2015-10-31(monkey) Business",
+        "2015-10-31 — 2018-05-28OG",
+        "2018-05-28 — PresentEvil Geniuses"
+      ],
+      "_id": "5f0aa8c35f878a32a7f94a61",
+      "name": "טל אייזיק",
+      "birth": "March 9, 1993 (1993-03-09) (age 27)",
+      "country": "Israel Canada",
+      "status": "Active",
+      "team": "Evil Geniuses",
+      "earnings": "$2,399,023",
+      "reference": "94155156",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2015-03-?? — 2015-09-01Energy Pacemaker",
+        "2015-09-01 — 2018-02-27EHOME",
+        "2018-02-27 — 2018-04-08Keen Gaming",
+        "2018-04-08 — 2018-09-12EHOME",
+        "2018-09-12 — PresentEHOME (Inactive)",
+        "›2018-09-19 — 2019-09-14Keen Gaming (Loan)",
+        "›2020-02-27 — PresentTeam Sirius (Loan)"
+      ],
+      "_id": "5f0aa8e15f878a32a7f94a62",
+      "name": "王志勇",
+      "birth": "May 26, 1993 (1993-05-26) (age 27)",
+      "country": "China",
+      "status": "Active",
+      "team": "EHOME Team Sirius",
+      "earnings": "$557,260",
+      "reference": "135878232",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2018-06-?? — 2018-09-12CDEC Gaming",
+        "2018-09-12 — 2019-09-23CDEC Gaming (Inactive)",
+        "›2018-09-12 — 2019-03-24EHOME (Loan)",
+        "›2019-04-16 — 2019-09-23Team Sirius (Loan)",
+        "2019-09-23 — 2019-09-23CDEC Avenger",
+        "2019-11-27 — 2020-02-12Revive",
+        "2020-02-12 — 2020-02-20PSG.LGD",
+        "2020-02-20 — 2020-04-30PSG.LGD (Inactive)",
+        "2020-04-30 — PresentTeam Sirius"
+      ],
+      "_id": "5f0aa8ff5f878a32a7f94a63",
+      "name": "李志文",
+      "birth": "June 23, 1999 (1999-06-23) (age 21)",
+      "country": "China",
+      "status": "Active",
+      "team": "Team Sirius",
+      "earnings": "$58,681",
+      "reference": "253962772",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2016-04-?? — 2017-01-01EHOME.Luminous",
+        "2017-01-01 — 2017-05-23EHOME",
+        "2017-05-23 — 2017-05-24EHOME (Sub)",
+        "2017-05-24 — 2017-09-04Eclipse",
+        "2017-09-04 — 2018-01-30Vici Gaming Potential",
+        "2018-01-30 — 2018-05-25EHOME.Immortal",
+        "2018-05-25 — 2018-09-09EHOME",
+        "2018-09-09 — PresentEHOME (Inactive)",
+        "›2018-09-09 — 2019-04-27DeathBringer Gaming (Loan)",
+        "›2019-04-27 — 2019-05-05Newbee Young (Loan)",
+        "›2019-05-05 — 2019-09-17Typhoon E-Sports Club (Loan)",
+        "›2019-09-17 — PresentTeam Sirius (Loan)"
+      ],
+      "_id": "5f0aa91c5f878a32a7f94a64",
+      "name": "胡森",
+      "country": "China",
+      "status": "Active",
+      "team": "Team Sirius EHOME",
+      "earnings": "$13,968",
+      "reference": "253962772",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aa9385f878a32a7f94a65",
+      "reference": "253962772",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2016-03-23 — 2016-11-11MAX.X",
+        "2017-02-15 — 2017-09-14Team MAX",
+        "2017-09-14 — 2018-11-12Team Serenity",
+        "2019-04-10 — 2019-09-08Team Serenity",
+        "2020-02-27 — PresentTeam Sirius"
+      ],
+      "_id": "5f0aa9595f878a32a7f94a66",
+      "name": "肖朝建",
+      "birth": "August 25, 1994 (1994-08-25) (age 25)",
+      "country": "China",
+      "status": "Active",
+      "team": "Team Sirius",
+      "earnings": "$98,911",
+      "reference": "253962772",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2012-10-03 — 2013-10-31First Departure",
+        "2013-10-31 — 2013-11-27RisingStars",
+        "2013-11-30 — 2014-01-18Titan",
+        "2014-01-18 — 2014-08-09Scythe Gaming",
+        "2014-08-09 — 2015-01-30First Departure",
+        "2015-02-01 — 2015-06-065eva",
+        "2015-06-06 — 2016-05-31First Departure",
+        "2016-08-25 — 2017-03-23Mineski",
+        "2017-04-04 — 2017-05-17Fnatic",
+        "2017-05-17 — 2017-08-14Fnatic (Sub)",
+        "2017-08-21 — 2018-03-15WarriorsGaming.Unity",
+        "2018-03-15 — 2018-07-07iG Vitality",
+        "2018-07-08 — 2018-11-24Resurgence",
+        "2018-11-24 — 2019-08-26Complexity Gaming (Trial)",
+        "2019-08-31 — 2019-12-20Alpha x Hashtag",
+        "2020-05-13 — PresentT1"
+      ],
+      "_id": "5f0aa9775f878a32a7f94a67",
+      "name": "江建文",
+      "birth": "March 8, 1996 (1996-03-08) (age 24)",
+      "country": "Singapore",
+      "status": "Active",
+      "team": "T1",
+      "earnings": "$37,185",
+      "reference": "91369376",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Support"
+      ],
+      "history": [
+        "2016-09-?? — 2017-01-04The Prime",
+        "2017-01-04 — 2017-01-09Fnatic",
+        "2017-01-30 — 2018-01-28BOOM ID",
+        "2018-02-05 — 2018-05-03The Prime NND",
+        "2018-05-03 — 2018-05-04The Prime NND (Inactive)",
+        "2018-05-04 — 2018-09-06TNC Tigers",
+        "2018-09-08 — 2019-01-19Tigers",
+        "2019-01-20 — 2019-03-28The Prime",
+        "2019-03-29 — 2019-07-20EVOS Esports",
+        "2019-07-21 - 2019-11-30BOOM Esports",
+        "2019-11-30 - 2020-01-11BOOM Esports (Inactive)",
+        "2020-03-03 — PresentT1"
+      ],
+      "_id": "5f0aa9955f878a32a7f94a68",
+      "name": "Muhammad Rizky",
+      "birth": "October 7, 1997 (1997-10-07) (age 22)",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "T1",
+      "earnings": "$49,746",
+      "reference": "181716137",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Captain"
+      ],
+      "history": [
+        "2013-11-21 — 2015-02-26MVP Phoenix",
+        "2015-02-26 — 2015-12-08MVP HOT6ix",
+        "2015-12-08 — 2016-08-15MVP Phoenix",
+        "2016-08-27 — 2016-11-06Team Secret",
+        "2016-11-10 — 2016-12-30MVP Phoenix",
+        "2016-12-30 — 2017-04-18B)ears",
+        "2017-05-08 — 2017-09-07Digital Chaos",
+        "2017-09-07 — 2017-09-13Team Pheonix",
+        "2017-09-13 — 2017-12-30Immortals",
+        "2018-01-05 — 2018-02-03Team World",
+        "2018-02-03 — 2018-06-13Echo International",
+        "2018-06-13 — 2018-09-08Wind and Rain",
+        "2018-09-09 — 2018-09-27marchoutofarmy",
+        "2018-09-27 — 2019-05-10J.Storm",
+        "2019-06-?? — 2019-08-??Team Jinesbrus",
+        "2019-08-22 — PresentT1"
+      ],
+      "_id": "5f0aa9b35f878a32a7f94a69",
+      "name": "이상돈",
+      "birth": "November 18, 1991 (1991-11-18) (age 28)",
+      "country": "South Korea",
+      "status": "Active",
+      "team": "T1",
+      "earnings": "$534,545",
+      "reference": "88933594",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2017-01-30 — 2019-07-21BOOM ID",
+        "2019-10-01 — 2019-??-??PG.Barracx",
+        "2020-03-03 — PresentT1"
+      ],
+      "_id": "5f0aa9d05f878a32a7f94a6a",
+      "name": "Tri Kuncoro",
+      "birth": "June 24, 1997 (1997-06-24) (age 23)",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "T1",
+      "earnings": "$32,002",
+      "reference": "152859296",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2012-10-03 — 2014-01-26First Departure",
+        "2014-01-26 — 2014-08-09Scythe Gaming",
+        "2014-??-?? — 2014-11-05Insidious Idol",
+        "2014-11-05 — 2015-01-30First Departure",
+        "2015-02-01 — 2015-06-065eva",
+        "2015-06-06 — 2015-09-??First Departure",
+        "2015-09-?? — 2015-??-??4Hate",
+        "2016-04-20 — 2016-09-16White Fries Gaming",
+        "2016-10-24 — 2016-??-??First Departure",
+        "2018-07-08 — 2018-12-??Resurgence",
+        "2019-03-21 — 2019-??-??WarriorsGaming.Unity",
+        "2019-08-31 — 2019-12-20Alpha x Hashtag",
+        "2020-05-13 — PresentT1"
+      ],
+      "_id": "5f0aa9ee5f878a32a7f94a6b",
+      "name": "Wilson Koh Chin Wei",
+      "birth": "April 28, 1996 (1996-04-28) (age 24)",
+      "country": "Singapore",
+      "status": "Active",
+      "team": "T1",
+      "earnings": "$11,771",
+      "reference": "76904792",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2016-12-?? — 2017-02-01Chew Toy",
+        "2017-02-01 — 2017-04-??Double Dimension",
+        "2017-09-04 — PresentNatus Vincere"
+      ],
+      "_id": "5f0aaa0d5f878a32a7f94a6c",
+      "name": "Владислав Кристанек",
+      "birth": "August 8, 1999 (1999-08-08) (age 20)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "Natus Vincere",
+      "earnings": "$217,912",
+      "reference": "114619230",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2018-01-?? — 2018-10-01Nemiga Gaming",
+        "2018-12-24 — 2019-08-01Imperial Pro Gaming",
+        "2019-08-15 — 2020-02-20Modus Unity",
+        "2020-02-20 — 2020-06-26Winstrike Team",
+        "2020-06-26 — PresentNatus Vincere"
+      ],
+      "_id": "5f0aaa2a5f878a32a7f94a6d",
+      "name": "Никита Бочко",
+      "country": "Belarus",
+      "status": "Active",
+      "team": "Natus Vincere",
+      "earnings": "$4,889",
+      "reference": "114619230",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Carry"
+      ],
+      "history": [
+        "2013-01-?? — 2014-11-??UrsaStroitHram",
+        "2014-11-?? — 2014-11-24BUHLO-UroPb",
+        "2014-11-24 — 2016-03-22Vega Squadron",
+        "2016-03-25 — 2016-06-05Polarity",
+        "2016-07-29 — 2016-08-04Fantastic Five",
+        "2016-08-04 — 2019-09-05Virtus.pro",
+        "2019-09-05 — PresentNatus Vincere"
+      ],
+      "_id": "5f0aaa495f878a32a7f94a6e",
+      "name": "Павел Хвастунов",
+      "birth": "June 30, 1992 (1992-06-30) (age 28)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Natus Vincere",
+      "earnings": "$1,722,417",
+      "reference": "92423451",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2018-04-12 — 2018-05-01CoM18Anji",
+        "2018-05-01 — 2018-11-26ESPADA",
+        "2018-11-26 — 2019-04-15ESPADA (Inactive)",
+        "2018-12-25 — 2019-04-15Gambit Esports (Loan)",
+        "2019-04-15 — 2019-09-04Gambit Esports",
+        "2019-09-04 — 2019-10-23Gambit Esports (Inactive)",
+        "2019-09-04 — 2019-10-23Positive Guys (Loan)",
+        "2019-10-23 — 2020-06-26Team Spirit",
+        "2020-06-26 — PresentNatus Vincere"
+      ],
+      "_id": "5f0aaa675f878a32a7f94a6f",
+      "name": "Александр Хмелевской",
+      "birth": "August 10, 1998 (1998-08-10) (age 21)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Natus Vincere",
+      "earnings": "$96,981",
+      "reference": "91460772",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2017-09-24 — 2017-11-15Comanche",
+        "2018-11-25 — 2019-02-16MEGA-LADA E-Sports",
+        "2019-11-22 — PresentNatus Vincere"
+      ],
+      "_id": "5f0aaa855f878a32a7f94a70",
+      "name": "Ильяс Ганеев",
+      "birth": "April 12, 2002 (2002-04-12) (age 18)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Natus Vincere",
+      "earnings": "$12,652",
+      "reference": "114619230",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2017-09-?? — 2017-09-??Iceberg Esports",
+        "2017-11-?? — 2017-11-??CES",
+        "2018-01-06 — 2018-01-30Animal Planet",
+        "2018-01-30 — 2018-03-01Iceberg Esports",
+        "2018-03-01 — 2018-03-11Animal Planet",
+        "2018-03-11 — 2018-04-17Digital Chaos",
+        "2018-06-13 — 2018-09-08Wind and Rain",
+        "2018-09-09 — 2018-09-27marchoutofarmy",
+        "2018-09-27 — 2019-05-30J.Storm",
+        "2019-05-30 — 2019-08-29J.Storm (Inactive)",
+        "2019-08-29 — 2020-03-03Fighting PandaS",
+        "2020-03-03 — PresentCR4ZY"
+      ],
+      "_id": "5f0aaaa25f878a32a7f94a71",
+      "name": "Jonathan Bryle Santos De Guia",
+      "country": "Canada",
+      "status": "Active",
+      "team": "CR4ZY",
+      "earnings": "$63,400",
+      "reference": "238239590",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2015-12-16 — 2016-03-21COOKISS",
+        "2016-03-21 — 2016-06-21No Diggity",
+        "2016-06-21 — 2016-11-06Escape Gaming",
+        "2016-11-06 — 2017-08-14Team Secret",
+        "2017-08-29 — 2017-11-27MidOrFeed",
+        "2018-02-07 — 2018-06-05Mad Lads",
+        "2018-06-05 — 2018-06-12Five Dogs",
+        "2018-06-12 — 2018-06-25BlinkPool",
+        "2018-09-11 — 2018-10-28Team Lithium",
+        "2018-10-28 — 2019-02-27Vega Squadron",
+        "2019-05-12 — 2019-08-27Chaos",
+        "2019-09-28 — 2020-02-23GODSENT",
+        "2020-02-23 — 2020-03-03Fighting PandaS",
+        "2020-03-03 — PresentCR4ZY"
+      ],
+      "_id": "5f0aaac15f878a32a7f94a72",
+      "name": "Maurice Gutmann",
+      "birth": "April 27, 1995 (1995-04-27) (age 25)",
+      "country": "Germany",
+      "status": "Active",
+      "team": "CR4ZY",
+      "earnings": "$199,708",
+      "reference": "169025618",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2012-??-?? — 2012-09-22PotM Bottom",
+        "2012-09-22 — 2013-09-18Team Dignitas",
+        "2013-09-19 — 2013-10-09RSnake.int",
+        "2013-10-09 — 2014-02-09Speed.int",
+        "2014-02-09 — 2015-01-05Cloud9",
+        "2015-01-05 — 2015-08-14Evil Geniuses",
+        "2015-08-24 — 2016-03-25Digital Chaos",
+        "2016-03-25 — 2016-06-13Evil Geniuses",
+        "2016-06-13 — 2016-08-19Team Secret (Coach)",
+        "2016-09-08 — 2017-07-20Team NP",
+        "2017-07-20 — 2017-08-23Cloud9",
+        "2018-01-06 — 2018-01-30Animal Planet",
+        "2018-01-30 — 2018-03-01Iceberg Esports",
+        "2018-03-01 — 2018-03-11Animal Planet",
+        "2018-03-11 — 2018-04-17Digital Chaos",
+        "2018-05-22 — 2018-09-02 Fnatic (Coach)",
+        "2018-08-29 — 2018-09-14Quincy Crew (Coach)",
+        "2018-09-14 — 2019-07-21Forward Gaming (Coach)",
+        "2019-07-24 — 2019-09-20Newbee (Coach)",
+        "2019-08-29 — 2020-03-03Fighting PandaS",
+        "2020-03-03 — PresentCR4ZY"
+      ],
+      "_id": "5f0aaae05f878a32a7f94a73",
+      "name": "Kurtis Daniel Ling",
+      "birth": "October 2, 1992 (1992-10-02) (age 27)",
+      "country": "Canada",
+      "status": "Active",
+      "team": "CR4ZY",
+      "earnings": "$2,002,673",
+      "reference": "40547474",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Offlaner"
+      ],
+      "history": [
+        "2014-05-01 — 2014-08-19Dream Destroyers",
+        "2014-08-19 — 2014-08-27stayGreen",
+        "2014-08-27 — 2015-01-23compLexity Gaming",
+        "2015-05-07 — 2015-08-28compLexity Gaming",
+        "2015-08-28 — 2015-10-31(monkey) Business",
+        "2015-10-31 — 2016-08-25OG",
+        "2016-08-25 — 2017-04-14Digital Chaos",
+        "2017-04-14 — 2017-05-31Thunderbirds",
+        "2017-05-31 — 2017-08-01Planet Odd",
+        "2017-09-13 — 2017-10-03Digital Chaos",
+        "2018-01-06 — 2018-01-30Animal Planet",
+        "2018-01-30 — 2018-03-01Iceberg Esports",
+        "2018-03-01 — 2018-03-11Animal Planet",
+        "2018-03-11 — 2018-04-17Digital Chaos",
+        "2018-05-27 — 2018-08-30compLexity Gaming",
+        "2018-09-08 — 2019-03-20Tigers",
+        "2019-03-21 — 2019-03-23Flying Penguins",
+        "2019-04-02 — 2019-??-??ggngg",
+        "2019-08-29 — 2020-03-03Fighting PandaS",
+        "2020-03-03 — PresentCR4ZY"
+      ],
+      "_id": "5f0aaafd5f878a32a7f94a74",
+      "name": "David Tan",
+      "birth": "January 28, 1992 (1992-01-28) (age 28)",
+      "country": "Canada Malaysia",
+      "status": "Active",
+      "team": "CR4ZY",
+      "earnings": "$842,998",
+      "reference": "38628747",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aab195f878a32a7f94a75",
+      "reference": "186837494",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aab375f878a32a7f94a76",
+      "reference": "59463394",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2017-01-07 — 2017-03-09Infamous.Black",
+        "2017-03-09 — 2017-03-14Team Unknown",
+        "2017-12-16 — 2018-02-08Gorillaz-Pride",
+        "2018-04-06 — 2018-08-30Thunder Predator",
+        "2018-11-05 — PresentThunder Predator"
+      ],
+      "_id": "5f0aab575f878a32a7f94a77",
+      "name": "Frank Arias Ayala",
+      "country": "Peru",
+      "status": "Active",
+      "team": "Thunder Predator",
+      "earnings": "$17,416",
+      "reference": "407321629",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2015-02-09 — 2016-01-05Unknown.xiu",
+        "2016-01-05 — 2016-??-??Luccini",
+        "2017-01-08 — 2017-03-09Not Today (Sub)",
+        "2017-03-09 — 2017-03-14Unknown.xiu",
+        "2017-03-31 — 2017-09-03Infamous",
+        "2017-09-28 — 2017-10-03Digital Chaos.SA",
+        "2017-10-03 — 2017-10-22White Dragons",
+        "2017-10-22 — 2018-01-10Sacred",
+        "2018-03-30 — 2018-10-20Infamous",
+        "2018-11-28 — 2019-03-31Thunder Predator",
+        "2019-05-13 — 2019-07-24EgoBoys",
+        "2019-11-15 — PresentThunder Predator"
+      ],
+      "_id": "5f0aab755f878a32a7f94a78",
+      "name": "Farith Puente",
+      "birth": "July 19, 1998 (1998-07-19) (age 21)",
+      "country": "Peru",
+      "status": "Active",
+      "team": "Thunder Predator",
+      "earnings": "$49,637",
+      "reference": "155332459",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aab905f878a32a7f94a79",
+      "reference": "186837494",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2014-08-21 — 2014-10-17GOOMBA Gaming",
+        "2015-04-11 — 2015-08-01hehe united",
+        "2017-09-12 — 2018-07-09LeftOneTV",
+        "2018-09-09 — 2018-09-28MangoBay",
+        "2019-07-02 — 2019-08-01Wind and Rain",
+        "2020-05-12 — 2020-05-27Aggressive Mode",
+        "2020-05-27 — PresentFamily Team (Trial)"
+      ],
+      "_id": "5f0aabb05f878a32a7f94a7a",
+      "name": "Jan Tinnemeier",
+      "country": "Germany",
+      "status": "Active",
+      "team": "Aggressive Mode",
+      "earnings": "$4,873",
+      "reference": "298683250",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Caster"
+      ],
+      "history": [
+        "2012-12-15 — 2013-??-??iCCup",
+        "2014-03-05 — 2014-04-14The Retry",
+        "2014-11-14 — 2014-12-30AlbumSheet",
+        "2015-04-27 — 2015-07-31Power Rangers",
+        "2015-09-01 — 2015-10-31Vega Squadron",
+        "2015-10-31 — 2015-11-22Prodota Gaming X",
+        "2015-11-22 — 2016-03-16Prodota Gaming",
+        "2017-??-?? — 2017-03-16LQ",
+        "2018-12-13 — 2019-07-01Nemiga Gaming",
+        "2019-07-01 — 2020-02-26Nemiga Gaming (Inactive)",
+        "2020-02-26 — 2020-04-25Aggressive Mode"
+      ],
+      "_id": "5f0aabcf5f878a32a7f94a7b",
+      "name": "Кірыл Качыньскі",
+      "birth": "November 25, 1995 (1995-11-25) (age 24)",
+      "country": "Belarus",
+      "status": "Active",
+      "earnings": "$8,929",
+      "reference": "298683250",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2017-12-?? — 2018-03-04Team Kazakhstan",
+        "2018-03-04 — 2018-04-16NiceOne",
+        "2018-04-16 — 2018-09-06Team Empire",
+        "2018-09-06 — 2018-11-10Team Empire (Sub)",
+        "2018-10-05 — 2019-06-30The Pango",
+        "2019-06-30 — 2019-10-02The Pango (Inactive)",
+        "2019-10-02 — 2019-12-04Team Unique",
+        "2020-02-01 — 2020-02-21FlyToMoon",
+        "2020-02-26 — 2020-03-10Aggressive Mode",
+        "2020-03-10 — PresentKhan"
+      ],
+      "_id": "5f0aabed5f878a32a7f94a7c",
+      "name": "Айбек Токаев",
+      "birth": "May 22, 2000 (2000-05-22) (age 20)",
+      "country": "Kazakhstan",
+      "status": "Active",
+      "team": "Khan",
+      "earnings": "$22,454",
+      "reference": "298683250",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2015-12-04 — 2016-08-??DUOBAO",
+        "2016-09-17 — 2016-11-11MAX.X",
+        "2016-12-12 — 2017-01-15DUOBAO",
+        "2017-01-15 — 2018-05-05Team MAX",
+        "2018-05-05 — 2018-09-30Team MAX (Inactive)",
+        "2018-09-30 — 2019-03-20Newbee Young",
+        "2019-03-20 — 2019-04-06Mr Game Boy",
+        "2019-04-06 — 2019-05-05Newbee Young",
+        "2019-05-05 — 2019-09-20Typhoon E-Sports Club",
+        "2019-09-20 — PresentNewbee"
+      ],
+      "_id": "5f0aac0b5f878a32a7f94a7d",
+      "name": "赖星宇",
+      "birth": "August 18, 1996 (1996-08-18) (age 23)",
+      "country": "China",
+      "status": "Active",
+      "team": "Newbee",
+      "earnings": "$20,570",
+      "reference": "82327674",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2018-09-13 — 2019-05-05Newbee.Young",
+        "2019-05-05 — 2019-06-05Typhoon E-Sports Club",
+        "2019-06-05 — 2019-07-15For The Dream",
+        "2019-07-15 — 2019-09-20Typhoon E-Sports Club",
+        "2019-09-20 — PresentNewbee"
+      ],
+      "_id": "5f0aac285f878a32a7f94a7e",
+      "name": "殷瑞",
+      "birth": "November 20, 1999 (1999-11-20) (age 20)",
+      "country": "China",
+      "status": "ActiveMars Media BannedImbaTV Banned",
+      "team": "Newbee",
+      "earnings": "$22,686",
+      "reference": "196493853",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2017-12-20 — 2018-03-??Newbee.M",
+        "2018-03-?? — 2018-09-10Newbee Young",
+        "2018-09-10 — 2019-03-20Mr Game Boy",
+        "2019-03-20 — PresentNewbee"
+      ],
+      "_id": "5f0aac475f878a32a7f94a7f",
+      "name": "温利鹏",
+      "birth": "April 4, 1999 (1999-04-04) (age 21)",
+      "country": "China",
+      "status": "ActiveMars Media BannedImbaTV Banned",
+      "team": "Newbee",
+      "earnings": "$48,958",
+      "reference": "152915953",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Offlaner"
+      ],
+      "history": [
+        "2015-07-01 — 2015-12-31E-Sports Dream",
+        "2016-04-01 — 2016-10-03BraveHeart.Zombie",
+        "2016-10-04 — 2017-09-??Brave Heart",
+        "2017-09-?? — 2018-09-23Sun Gaming",
+        "2018-09-23 — PresentNewbee"
+      ],
+      "_id": "5f0aac645f878a32a7f94a80",
+      "name": "阎超",
+      "birth": "November 12, 1996 (1996-11-12) (age 23)",
+      "country": "China",
+      "status": "ActiveMars Media BannedImbaTV Banned",
+      "team": "Newbee",
+      "earnings": "$48,852",
+      "reference": "136575603",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2011-06-16 — 2011-08-26TyLoo",
+        "2011-08-26 — 2011-11-23iG.Z",
+        "2011-11-23 — 2014-08-26Invictus Gaming",
+        "2014-08-26 — 2015-03-06LGD.cn",
+        "2015-03-06 — 2015-09-02Invictus Gaming",
+        "2015-09-02 — 2016-09-04TongFu",
+        "2016-09-17 — 2019-02-26Newbee",
+        "2019-02-26 — 2019-04-02Mr Game Boy",
+        "2019-04-02 — 2019-05-05Newbee Young",
+        "2019-05-05 — 2019-09-20Typhoon E-Sports Club",
+        "2019-09-20 — PresentNewbee"
+      ],
+      "_id": "5f0aac835f878a32a7f94a81",
+      "name": "曾宏达",
+      "birth": "February 6, 1992 (1992-02-06) (age 28)",
+      "country": "China",
+      "status": "ActiveMars Media BannedImbaTV Banned",
+      "team": "Newbee",
+      "earnings": "$1,758,817",
+      "reference": "82327674",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2016-04-26 — 2016-05-19Enso",
+        "2016-05-20 — 2016-08-22Comanche",
+        "2017-05-27 — 2017-12-09M19",
+        "2018-02-04 — 2018-04-16Team Empire",
+        "2018-04-12 — 2018-05-01CoM18Anji",
+        "2018-05-01 — 2018-11-26ESPADA",
+        "2018-11-26 — 2019-??-??ESPADA (Inactive)",
+        "2019-09-24 — PresentHellRaisers"
+      ],
+      "_id": "5f0aaca15f878a32a7f94a82",
+      "name": "Александр Левин",
+      "birth": "November 12, 1996 (1996-11-12) (age 23)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "HellRaisers",
+      "earnings": "$32,871",
+      "reference": "11865327",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2018-05-31 — 2019-10-02Marlerino eSports (Inactive)",
+        "›2019-03-21 — 2019-10-02Vega Squadron (Loan)",
+        "2019-10-02 — 2019-11-04Team Unique",
+        "2020-01-27 — PresentHellRaisers"
+      ],
+      "_id": "5f0aacbe5f878a32a7f94a83",
+      "name": "Арслан Шаджанов",
+      "birth": "October 19, 2000 (2000-10-19) (age 19)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "HellRaisers",
+      "earnings": "$12,937",
+      "reference": "99155835",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2011-11-?? — 2012-03-??eSahara",
+        "2012-03-27 — 2012-05-20DTS",
+        "2012-05-24 — 2012-09-12Darer",
+        "2012-09-13 — 2013-02-27Team Empire",
+        "2013-02-27 — 2015-02-13Natus Vincere",
+        "2015-04-05 — 2015-10-16Natus Vincere",
+        "2015-12-07 — 2016-03-15Team Empire",
+        "2016-03-15 — 2016-08-01Team Spirit",
+        "2017-??-?? — 2017-03-16LQ",
+        "2017-05-01 — 2017-05-26Double Dimension",
+        "2017-05-27 — 2018-02-01M19",
+        "2018-06-11 — 2018-09-15MEGA-LADA E-sports",
+        "2019-03-05 — 2019-08-13Aachen City Esports",
+        "2020-01-27 — PresentHellRaisers"
+      ],
+      "_id": "5f0aacdd5f878a32a7f94a84",
+      "name": "Гліб Липатніков",
+      "birth": "November 16, 1992 (1992-11-16) (age 27)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "HellRaisers",
+      "earnings": "$416,820",
+      "reference": "86723143",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2014-??-?? — 2014-03-19Cleave Gaming",
+        "2014-03-19 — 2014-??-??Aware Gaming",
+        "2014-??-?? — 2014-??-??Cleave Gaming",
+        "2015-10-21 — 2015-10-27Hard'N'play",
+        "2016-01-30 — 2016-06-02Prodota Gaming",
+        "2016-06-?? — 2016-07-??GUS Gaming",
+        "2016-08-23 — 2016-10-??FlipSid3 Tactics",
+        "2016-10-?? — 2016-11-14Skorokhod+4",
+        "2016-11-14 — 2017-01-29Rebels",
+        "2017-01-29 — 2017-05-23Effect",
+        "2017-05-23 — 2017-09-04Team Empire",
+        "2017-09-04 — 2018-02-01Natus Vincere",
+        "2018-02-01 — 2019-09-28Virtus.pro",
+        "2019-09-28 — 2019-11-28Virtus.pro (Inactive)",
+        "2019-11-28 — 2020-02-19Winstrike Team",
+        "2020-03-07 — PresentHellRaisers"
+      ],
+      "_id": "5f0aacfb5f878a32a7f94a85",
+      "name": "Վլադիմիր ՆիկողոսյանВладимир Никогосян",
+      "birth": "December 14, 1993 (1993-12-14) (age 26)",
+      "country": "Russia Armenia",
+      "status": "Active",
+      "team": "HellRaisers",
+      "earnings": "$1,305,159",
+      "reference": "159020918",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2014-11-01 — 2015-09-01Yellow Submarine",
+        "2015-09-01 — 2015-10-23PRIES Gaming",
+        "2015-10-24 — 2015-??-??Yellow Submarine",
+        "2016-02-11 — 2016-03-25Enso",
+        "2016-03-25 — 2019-01-15Team Empire Faith",
+        "2019-01-23 — 2019-02-24The ReaL DeaL",
+        "2019-02-24 — 2019-09-16Team Singularity",
+        "2019-09-24 — PresentHellRaisers"
+      ],
+      "_id": "5f0aad195f878a32a7f94a86",
+      "name": "Ярослав Найдёнов",
+      "birth": "November 30, 1997 (1997-11-30) (age 22)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "HellRaisers",
+      "earnings": "$241,045",
+      "reference": "113331514",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Offlaner"
+      ],
+      "history": [
+        "2015-05-08 — 2015-08-23ROOT Gaming",
+        "2015-08-23 — 2015-10-02FIRE",
+        "2015-10-02 — 2016-03-24Team Archon",
+        "2016-03-26 — 2016-08-25Digital Chaos",
+        "2016-09-17 — 2018-08-29compLexity Gaming",
+        "2018-09-09 — 2018-09-27marchoutofarmy",
+        "2018-09-27 — 2020-03-09J.Storm",
+        "2020-??-?? — Presentbusiness associates"
+      ],
+      "_id": "5f0aad375f878a32a7f94a87",
+      "name": "David William Hull",
+      "birth": "November 9, 1995 (1995-11-09) (age 24) [1]",
+      "country": "United States",
+      "status": "Active",
+      "team": "business associates",
+      "earnings": "$809,579",
+      "reference": "84429681",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2012-07-25 — 2012-10-15Quantic",
+        "2012-10-16 — 2013-12-26LGD.int",
+        "2014-04-11 — 2014-06-03North American Rejects",
+        "2014-06-03 — 2014-12-05Na'Vi North America",
+        "2014-12-05 — 2014-12-20Sneaky Nyx Assassins",
+        "2015-02-06 — 2015-02-20FIRE",
+        "2015-02-20 — 2015-08-??Champions of Summer's Rift",
+        "2015-08-?? — 2015-09-01Dark Horse",
+        "2015-09-01 — 2015-11-27Cloud9",
+        "2015-12-06 — 2016-??-??Shazam",
+        "2017-01-17 — 2017-05-07FIRE",
+        "2017-0?-?? — 2017-08-??Digital Chaos (Coach)",
+        "2017-09-?? — 2017-??-??Iceberg Esports",
+        "2018-09-08 — 2019-05-01TEAM TEAM",
+        "2019-05-01 — 2019-09-28beastcoast",
+        "2019-09-28 — 2020-03-09J.Storm (Trial)",
+        "2020-??-?? — Presentbusiness associates"
+      ],
+      "_id": "5f0aad555f878a32a7f94a88",
+      "name": "Braxton Paulson",
+      "country": "United States",
+      "status": "Active",
+      "team": "business associates",
+      "earnings": "$67,757",
+      "reference": "31818853",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2011-08-11 — 2011-11-23Online Kingdom",
+        "2011-10-24 — 2014-05-28Evil Geniuses",
+        "2014-05-28 — 2014-08-22Evil Geniuses (Coach)",
+        "2014-08-22 — 2016-08-27Evil Geniuses",
+        "2016-09-14 — 2017-09-01Evil Geniuses (Coach)",
+        "2017-09-01 — 2018-05-27Evil Geniuses",
+        "2018-12-15 — 2020-03-09J.Storm",
+        "2020-??-?? — Presentbusiness associates"
+      ],
+      "_id": "5f0aad745f878a32a7f94a89",
+      "name": "Clinton Loomis",
+      "birth": "February 19, 1988 (1988-02-19) (age 32)",
+      "country": "United States",
+      "status": "Active",
+      "team": "business associates",
+      "earnings": "$2,539,012",
+      "reference": "87177591",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2017-05-01 — 2017-09-30Hala Ares",
+        "2017-10-01 — 2018-03-01MEGA-LADA E-sports",
+        "2018-03-01 — 2018-07-30Saint's Squad Gaming",
+        "2018-09-06 — 2018-11-14FCDB Esports",
+        "2019-06-01 — 2019-09-01MT Gaming",
+        "2019-09-01 — 2019-09-27PRIES",
+        "2019-09-27 — 2019-12-10Wind and Rain",
+        "2020-01-27 — 2020-06-07Nemiga Gaming",
+        "2020-06-07 — PresentEXTREMUM"
+      ],
+      "_id": "5f0aad915f878a32a7f94a8a",
+      "name": "Дмитрий Тарасич",
+      "birth": "February 24, 1997 (1997-02-24) (age 23)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "EXTREMUM",
+      "earnings": "$11,785",
+      "reference": "116249155",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2019-07-01 - 2019-11-28Nemiga Gaming",
+        "2019-11-28 - 2019-12-19Winstrike Team",
+        "2019-12-19 - 2020-01-27Winstrike Team (Inactive)",
+        "2020-01-27 — 2020-06-07Nemiga Gaming",
+        "2020-06-07 — PresentEXTREMUM"
+      ],
+      "_id": "5f0aadae5f878a32a7f94a8b",
+      "name": "Максим Пнёв",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "EXTREMUM",
+      "earnings": "$3,672",
+      "reference": "40805086",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2013-09-10 — 2013-12-15Can't Describe",
+        "2014-04-16 — 2014-07-12DreamTeam168",
+        "2014-10-21 — 2015-01-09Album Sheets",
+        "2015-07-14 — 2015-10-31aSpera",
+        "2015-09-03 — 2015-12-06CIS Rejects",
+        "2015-12-06 — 2016-03-05Team Spirit",
+        "2016-03-25 — 2016-09-02Team Empire",
+        "2016-09-15 — 2017-04-09F.R.I.E.N.D.S.",
+        "2017-04-09 — 2017-12-04 Vega Squadron",
+        "2017-12-04 — 2018-02-01Vega Squadron (Inactive)",
+        "2017-12-19 — 2018-02-01Effect (Stand-in)",
+        "2018-02-01 — 2018-04-06Effect",
+        "2018-??-?? — 2018-06-27Gambit Esports",
+        "2018-09-14 — 2018-10-05ferzee",
+        "2018-10-05 — 2019-09-29Gambit Esports",
+        "2018-09-29 — 2019-11-28Gambit Esports (Sub)",
+        "2019-11-28 — 2020-02-19Winstrike Team",
+        "2020-03-31 — 2020-06-07Team Spirit",
+        "2020-06-07 — PresentEXTREMUM"
+      ],
+      "_id": "5f0aadcd5f878a32a7f94a8c",
+      "name": "Василий Шишкин",
+      "birth": "March 13, 1997 (1997-03-13) (age 23)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "EXTREMUM",
+      "earnings": "$140,661",
+      "reference": "82305765",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2016-??-?? — 2017-04-??Cascade",
+        "2017-??-?? — 2017-??-??Mad Dogs Team",
+        "2018-??-?? — 2018-??-?? Suicide Team",
+        "2018-??-?? — 2018-02-25 Slozhniy Memas2",
+        "2018-02-25 — 2018-05-14SFTe-sports",
+        "2018-05-14 — 2018-08-30Natus Vincere",
+        "2018-09-06 — 2018-12-26Team Empire Faith",
+        "2018-12-26 — 2019-01-15Team Empire Hope",
+        "2019-01-23 — 2019-05-15Old but Gold",
+        "2019-05-15 — 2019-08-01Team Spirit",
+        "2019-09-10 — 2019-10-12Old but Gold",
+        "2019-12-13 — 2020-05-01EXTREMUM",
+        "2020-05-01 — 2020-06-07EXTREMUM (Inactive)",
+        "2020-06-07 — PresentEXTREMUM"
+      ],
+      "_id": "5f0aadeb5f878a32a7f94a8d",
+      "name": "Фёдор Русихин",
+      "birth": "January 6, 1998 (1998-01-06) (age 22)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "EXTREMUM",
+      "earnings": "$25,706",
+      "reference": "82305765",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aae065f878a32a7f94a8e",
+      "reference": "82305765",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2017-09-25 — 2018-07-30Gorillaz-Pride",
+        "2018-09-?? — 2018-??-??All in Gaming",
+        "2019-04-04 — 2019-04-06Pacific eSports",
+        "2019-04-06 — 2019-05-08Majestic Esports",
+        "2019-05-21 — 2019-06-30Team Anvorgesa",
+        "2019-06-30 — 2019-08-29Infamous",
+        "2019-08-29 — 2019-10-04Team Anvorgesa",
+        "2019-10-04 — Presentbeastcoast"
+      ],
+      "_id": "5f0aae275f878a32a7f94a8f",
+      "name": "Héctor Antonio Rodríguez",
+      "birth": "November 10, 2000 (2000-11-10) (age 19)",
+      "country": "Peru",
+      "status": "Active",
+      "team": "beastcoast",
+      "earnings": "$211,805",
+      "reference": "153836240",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2018-03-?? — 2019-03-??Gorillaz-Pride",
+        "2019-04-04 — 2019-04-06Pacific eSports",
+        "2019-04-06 — 2019-05-08Majestic Esports",
+        "2019-05-21 — 2019-06-30Team Anvorgesa",
+        "2019-06-30 — 2019-08-29Infamous",
+        "2019-08-29 — 2019-10-04Team Anvorgesa",
+        "2019-10-04 — Presentbeastcoast"
+      ],
+      "_id": "5f0aae445f878a32a7f94a90",
+      "name": "Jean Pierre Gonzales",
+      "country": "Peru",
+      "status": "Active",
+      "team": "beastcoast",
+      "earnings": "$211,880",
+      "reference": "153836240",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2017-??-?? — 2017-??-??SAGE Network",
+        "2018-06-06 — 2018-09-06Infamous Young",
+        "2018-09-06 — 2018-11-30Infamous",
+        "2018-12-01 — 2019-01-??Infamous Young",
+        "2019-04-04 — 2019-04-06Pacific eSports",
+        "2019-04-06 — 2019-05-08Majestic Esports",
+        "2019-05-21 — 2019-06-30Team Anvorgesa",
+        "2019-06-30 — 2019-08-29Infamous",
+        "2019-08-29 — 2019-10-04Team Anvorgesa",
+        "2019-10-04 — Presentbeastcoast"
+      ],
+      "_id": "5f0aae625f878a32a7f94a91",
+      "name": "Adrián Céspedes Dobles",
+      "country": "Bolivia",
+      "status": "Active",
+      "team": "beastcoast",
+      "earnings": "$208,050",
+      "reference": "292921272",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2015-09-02 — 2015-12-06Not Today",
+        "2015-12-06 — 2015-12-06Artyk Gaming",
+        "2015-12-16 — 2015-12-??Slayers of Gods",
+        "2016-09-15 — 2016-12-14Not Today",
+        "2017-01-07 — 2017-03-07Infamous.Black",
+        "2017-03-08 — 2017-05-??Union Gaming",
+        "2017-06-?? — 2017-09-09Mad Kings",
+        "2017-09-09 — 2017-09-24Infamous Young",
+        "2017-09-28 — 2018-03-24Infamous",
+        "2018-04-06 — 2018-11-05Thunder Predator",
+        "2018-11-08 — 2018-11-30Infamous",
+        "2018-12-01 — 2018-12-09Infamous Young",
+        "2019-01-23 — 2019-02-03Playmakers Esports",
+        "2019-02-03 — 2019-03-03Team Odd",
+        "2019-03-03 — 2019-03-31Demolition Boys",
+        "2019-04-01 — 2019-06-30Thunder Predator",
+        "2019-06-30 — 2019-08-29Infamous",
+        "2019-08-29 — 2019-10-04Team Anvorgesa",
+        "2019-10-04 — Presentbeastcoast"
+      ],
+      "_id": "5f0aae815f878a32a7f94a92",
+      "name": "Elvis De la Cruz Peña",
+      "birth": "April 29, 1998 (1998-04-29) (age 22)",
+      "country": "Peru",
+      "status": "Active",
+      "team": "beastcoast",
+      "earnings": "$237,078",
+      "reference": "157989498",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Coach"
+      ],
+      "history": [
+        "2017-12-16 — 2018-01-06Gorillaz-Pride",
+        "2018-02-09 — 2018-06-07Gorillaz-Pride",
+        "2018-09-08 — 2019-04-18Infamous",
+        "2019-05-11 — 2019-06-30Gorillaz-Pride",
+        "2019-06-30 — 2019-09-17beastcoast",
+        "2019-09-17 — 2020-03-09J.Storm",
+        "2020-??-?? — 2020-04-27business associates",
+        "2020-05-25 — 2020-06-12beastcoast (Coach)",
+        "2020-06-12 — Presentbeastcoast"
+      ],
+      "_id": "5f0aae9e5f878a32a7f94a93",
+      "name": "Joel Mori Ozambela",
+      "country": "Peru",
+      "status": "Active",
+      "team": "beastcoast",
+      "earnings": "$37,840",
+      "reference": "153836240",
+      "__v": 0
+    },
+    {
+      "_id": "5f0a8b3cf5559e20504e3e04",
+      "id": "r22",
+      "name": "(Michael Fong)",
+      "pos": "1/3",
+      "join": "Join Date: 2010-07-03[34]",
+      "link": "/dota2/index.php?title=R22&action=edit&redlink=1",
+      "player": "94004717",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "_id": "5f0a8b3cf5559e20504e3e05",
+      "id": "Sune",
+      "name": "(Junior Pereira)",
+      "pos": "2",
+      "join": "Join Date: 2010-07-03[34]",
+      "link": "/dota2/index.php?title=Sune&action=edit&redlink=1",
+      "player": "88153289",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aaef65f878a32a7f94a94",
+      "reference": "94004717",
+      "__v": 0
+    },
+    {
+      "_id": "5f0a8b3cf5559e20504e3e07",
+      "id": "Grentxd",
+      "name": "(Mariano Lages)",
+      "pos": "4",
+      "join": "Join Date: 2010-07-03[34]",
+      "link": "/dota2/index.php?title=Grentxd&action=edit&redlink=1",
+      "player": "94004717",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2015-05-01 — 2015-05-03paiN Gaming",
+        "2010-07-03 — 2013-08-15paiN Gaming",
+        "2013-08-15Retired"
+      ],
+      "_id": "5f0aaf345f878a32a7f94a95",
+      "name": "Arthur Zarzur Curiati",
+      "birth": "September 1, 1988 (1988-09-01) (age 31)",
+      "country": "Brazil",
+      "status": "Retired",
+      "team": "paiN Gaming",
+      "earnings": "$3,004",
+      "reference": "94004717",
+      "__v": 0
+    },
+    {
+      "_id": "5f0a8b3cf5559e20504e3e09",
+      "id": "Dunnaz",
+      "name": "(Raiff Chaves Paulo)",
+      "pos": "4 (Sub)",
+      "join": "Join Date: 2010-07-03[34]",
+      "link": "/dota2/index.php?title=Dunnaz&action=edit&redlink=1",
+      "player": "88153289",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "_id": "5f0a8b3cf5559e20504e3e0a",
+      "id": "Elai (424)",
+      "name": "",
+      "pos": "4/3 (Sub)",
+      "join": "Join Date: 2010-07-03[34]",
+      "link": "/dota2/index.php?title=Elai_(424)&action=edit&redlink=1",
+      "player": "94004717",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2016-12-?? — 2017-09-??Hala Ares",
+        "2017-12-?? — PresentNemiga Gaming"
+      ],
+      "_id": "5f0aaf8e5f878a32a7f94a96",
+      "name": "Алексей Караневич",
+      "birth": "December 12, 1993 (1993-12-12) (age 26)",
+      "country": "Belarus",
+      "status": "Active",
+      "team": "Nemiga Gaming",
+      "earnings": "$6,447",
+      "reference": "296226696",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2018-09-14 — PresentNemiga Gaming"
+      ],
+      "_id": "5f0aafac5f878a32a7f94a97",
+      "name": "Генадзій Мотуз",
+      "birth": "June 15, 1998 (1998-06-15) (age 22)",
+      "country": "Belarus",
+      "status": "Active",
+      "team": "Nemiga Gaming",
+      "earnings": "$5,878",
+      "reference": "197547532",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2016-??-?? — 2016-??-??Paragon eSports",
+        "2017-08-21 — 2017-1?-??The Brestomans",
+        "2018-01-30 — 2018-09-28Vega Squadron",
+        "2018-11-14 — 2019-03-18Pavaga Gaming",
+        "2019-03-19 — 2019-04-02Uvajenie",
+        "2019-04-02 — 2019-05-24Black Hornets Gaming",
+        "2019-05-24 — 2019-07-03Uvajenie.Hope",
+        "2019-07-03 — 2019-09-01Team Unique",
+        "2019-10-01 — 2020-01-31jfshfh178",
+        "2020-01-31 — 2020-06-14Cyber Legacy",
+        "2020-06-14 — PresentTeam Unique"
+      ],
+      "_id": "5f0aafcb5f878a32a7f94a98",
+      "name": "Мікіта Грынкевіч",
+      "birth": "June 5, 1997 (1997-06-05) (age 23)",
+      "country": "Belarus",
+      "status": "Active",
+      "team": "Team Unique",
+      "earnings": "$36,929",
+      "reference": "116881520",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0aafe65f878a32a7f94a99",
+      "reference": "96196828",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0ab0045f878a32a7f94a9a",
+      "reference": "96196828",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2019-06-20 — 2019-09-13Magic Hands",
+        "2020-02-01 — 2020-02-??FlyToMoon",
+        "2020-04-13 — 2020-06-02Team Unique (Stand-in)",
+        "2020-06-02 — PresentTeam Unique"
+      ],
+      "_id": "5f0ab0245f878a32a7f94a9b",
+      "name": "Данил Волчан",
+      "birth": "September 6, 2002 (2002-09-06) (age 17)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "Team Unique",
+      "earnings": "$7,276",
+      "reference": "96196828",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2013-03-27 — 2013-08-05RoX",
+        "2013-08-30 — 2014-08-24Empire",
+        "2014-08-25 — 2015-08-26Natus Vincere",
+        "2015-05-03 — 2015-08-194 Clover & Lepricon",
+        "2015-09-03 — 2015-10-17CIS Rejects",
+        "2015-10-31 — 2015-11-22Prodota Gaming X",
+        "2015-11-22 — 2016-01-30Prodota Gaming",
+        "2016-03-22 — 2016-03-25Avengers",
+        "2016-03-26 — 2016-05-22Rebels",
+        "2016-05-22 — 2016-10-??FlipSid3 Tactics",
+        "2016-10-?? — 2016-11-13Skorokhod+4",
+        "2016-12-15 — 2017-07-20Team Spirit",
+        "2017-07-20 — 2017-08-31Team Spirit (Inactive)",
+        "2017-09-12 — 2017-12-27Team Empire",
+        "2018-02-01 — 2018-04-18Gambit Esports",
+        "2018-04-18 — 2018-??-??Double Dimension",
+        "2018-09-14 — 2018-10-05ferzee",
+        "2018-10-05 — 2018-12-25Gambit Esports",
+        "2018-12-25 — 2019-05-15Gambit Esports (Inactive)",
+        "2019-01-23 — 2019-05-15Old but Gold",
+        "2019-05-15 — 2019-08-01Team Spirit",
+        "2019-09-10 — 2019-10-14Old but Gold",
+        "2019-11-01 — 2020-01-15Gentlemen",
+        "2020-01-15 — 2020-03-19forZe",
+        "2020-03-19 — 2020-04-01Gentlemen",
+        "2020-04-01 — PresentTeam Unique"
+      ],
+      "_id": "5f0ab0435f878a32a7f94a9c",
+      "name": "Иван Скороход",
+      "birth": "January 20, 1995 (1995-01-20) (age 25)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Team Unique",
+      "earnings": "$164,891",
+      "reference": "11550182",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2019-11-25 — 2020-03-10Khan",
+        "2020-03-31 — PresentTeam Spirit"
+      ],
+      "_id": "5f0ab0605f878a32a7f94a9d",
+      "name": "Антон Шкредов",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Team Spirit",
+      "earnings": "$7,057",
+      "reference": "90125566",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2018-09-25 — 2018-11-14Real Noobs",
+        "2018-11-14 — 2019-09-16Pavaga Junior",
+        "2019-09-04 — 2019-10-24Positive Guys",
+        "2019-10-24 — PresentTeam Spirit"
+      ],
+      "_id": "5f0ab07e5f878a32a7f94a9e",
+      "name": "Егор Козлов",
+      "country": "Belarus",
+      "status": "Active",
+      "team": "Team Spirit",
+      "earnings": "$17,596",
+      "reference": "876110702",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2015-08-29 — 2016-02-10Enso",
+        "2016-04-26 — 2016-05-19Enso",
+        "2016-05-20 — 2017-03-17Comanche",
+        "2017-03-17 — 2017-04-17Cyber Anji",
+        "2017-05-01 — 2017-05-26Double Dimension",
+        "2017-05-27 — 2017-08-19M19",
+        "2017-09-12 — 2017-11-29Spartak Esports",
+        "2018-04-12 — 2018-05-01CoM18Anji",
+        "2018-05-01 — 2018-11-26ESPADA",
+        "2018-11-26 — 2019-01-23ESPADA (Inactive)",
+        "2019-01-23 — 2019-03-19Winstrike Team",
+        "2019-06-30 — 2019-09-04The Pango",
+        "2019-09-04 — 2019-10-23Positive Guys",
+        "2019-10-23 — PresentTeam Spirit"
+      ],
+      "_id": "5f0ab09d5f878a32a7f94a9f",
+      "name": "Михаил Агатов",
+      "birth": "July 24, 1997 (1997-07-24) (age 22)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Team Spirit",
+      "earnings": "$29,327",
+      "reference": "90125566",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2014-??-?? — 2015-03-20Let's Do It",
+        "2015-03-20 — 2016-08-25Alternate aTTaX",
+        "2016-09-?? — 2017-04-01Alternate aTTaX",
+        "2017-04-01 — 2017-05-02Let's Do It",
+        "2017-05-02 — 2017-08-20Team Singularity",
+        "2017-08-20 — 2017-09-15Let's Do It",
+        "2017-09-15 — 2018-06-29Team Kinguin",
+        "2018-06-29 — 2018-09-??Let's Do It",
+        "2018-09-?? — 2018-11-??dota2.pl"
+      ],
+      "_id": "5f0ab0b95f878a32a7f94aa0",
+      "name": "Natan Michalewicz",
+      "country": "Poland",
+      "status": "Active",
+      "earnings": "$26,185",
+      "team": "2015-03-20 — 2016-08-25Alternate aTTaX",
+      "reference": "43619695",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2014-??-?? — 2015-03-20Let's Do It",
+        "2015-03-20 — 2017-04-01Alternate aTTaX",
+        "2017-04-01 — 2017-05-02Let's Do It",
+        "2017-05-02 — 2017-08-20Team Singularity",
+        "2017-08-20 — 2017-09-15Let's Do It",
+        "2017-09-15 — 2018-06-29Team Kinguin",
+        "2018-06-29 — 2018-09-11Let's Do It",
+        "2018-09-11 — PresentTeam Secret"
+      ],
+      "_id": "5f0ab0d85f878a32a7f94aa1",
+      "name": "Michał Jankowski",
+      "birth": "September 28, 2000 (2000-09-28) (age 19)",
+      "country": "Poland",
+      "status": "Active",
+      "team": "Team Secret",
+      "earnings": "$869,605",
+      "reference": "43619695",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2017-04-13 — 2017-05-02Let's Do It",
+        "2017-05-02 — 2017-08-20Team Singularity",
+        "2017-08-20 — 2017-09-15Let's Do It",
+        "2017-09-15 — 2018-06-29Team Kinguin",
+        "2018-06-29 — 2018-08-30Let's Do It",
+        "2018-09-?? — 2018-11-??dota2.pl"
+      ],
+      "_id": "5f0ab0f65f878a32a7f94aa2",
+      "name": "Paweł Naruszewicz",
+      "country": "Poland",
+      "status": "Active",
+      "earnings": "$20,520",
+      "team": "2017-05-02 — 2017-08-20Team Singularity",
+      "reference": "43619695",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2014-??-?? — 2015-03-20Let's Do It",
+        "2015-03-20 — 2017-04-01Alternate aTTaX",
+        "2017-04-01 — 2017-05-02Let's Do It",
+        "2017-05-02 — 2017-08-20Team Singularity",
+        "2017-08-20 — 2017-09-15Let's Do It",
+        "2017-09-15 — 2018-06-29Team Kinguin",
+        "2018-06-29 — 2018-08-13Let's Do It",
+        "2019-05-11 — 2019-08-01Wind and Rain",
+        "2019-08-01Retired"
+      ],
+      "_id": "5f0ab1145f878a32a7f94aa3",
+      "name": "Rafał Wójcik",
+      "birth": "July 28, 1996 (1996-07-28) (age 23)",
+      "country": "Poland",
+      "status": "Retired[1]",
+      "earnings": "$26,098",
+      "team": "2015-03-20 — 2017-04-01Alternate aTTaX",
+      "reference": "43619695",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2015-03-20 — 2017-04-01Alternate aTTaX",
+        "2017-04-01 — 2017-05-02Let's Do It",
+        "2017-05-02 — 2017-08-20Team Singularity",
+        "2017-08-20 — 2017-09-15Let's Do It",
+        "2017-09-15 — 2018-06-29Team Kinguin",
+        "2018-06-29 — 2018-08-30Let's Do It",
+        "2018-09-?? — 2019-??-??dota2.pl",
+        "2019-02-25 — 2019-04-??Unchained Esports"
+      ],
+      "_id": "5f0ab1325f878a32a7f94aa4",
+      "name": "Jakub Kocjan",
+      "country": "Poland",
+      "status": "Active",
+      "earnings": "$23,392",
+      "team": "2017-04-01 — 2017-05-02Let's Do It",
+      "reference": "43619695",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2015-12-?? — 2017-04-09Next Generation",
+        "2017-04-11 — 2017-05-12458 Production",
+        "2017-10-28 — 2018-03-05496 Gaming",
+        "2018-05-04 — 2018-09-06TNC Tigers",
+        "2018-09-14 — 2019-03-07496 Gaming",
+        "2019-03-09 — 2019-05-??Tigers",
+        "2019-05-?? — Present496 Gaming"
+      ],
+      "_id": "5f0ab1515f878a32a7f94aa5",
+      "name": "Trịnh Văn Thọ",
+      "birth": "December 16, 1996 (1996-12-16) (age 23)",
+      "country": "Vietnam",
+      "status": "Active",
+      "team": "496 Gaming",
+      "earnings": "$8,649",
+      "reference": "196931374",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0ab16c5f878a32a7f94aa6",
+      "reference": "126598297",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2015-12-?? — 2017-04-09Seven Seeds",
+        "2018-09-14 — 2019-12-10496 Gaming"
+      ],
+      "_id": "5f0ab18c5f878a32a7f94aa7",
+      "name": "Bùi Văn Hùng",
+      "birth": "February 24, 1996 (1996-02-24) (age 24)",
+      "country": "Vietnam",
+      "status": "Active",
+      "earnings": "$2,000",
+      "reference": "196931374",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2015-12-?? — 2016-04-09Ozone.TheJoker",
+        "2015-12-?? — 2017-04-09PewPew",
+        "2017-10-28 — 2018-03-05Eternal Creed",
+        "2018-09-14 — 2020-01-30496 Gaming"
+      ],
+      "_id": "5f0ab1aa5f878a32a7f94aa8",
+      "name": "Nguyễn Châu Lợi",
+      "birth": "August 9, 1994 (1994-08-09) (age 25)",
+      "country": "Vietnam",
+      "status": "Active",
+      "earnings": "$4,864",
+      "reference": "196931374",
+      "__v": 0
+    },
+    {
+      "_id": "5f0a8dcef5559e20504e3e1e",
+      "id": "Bombi",
+      "name": "(Trần Minh Quí)",
+      "pos": "5",
+      "join": "Join Date: 2020-05-06",
+      "link": "/dota2/index.php?title=Bombi&action=edit&redlink=1",
+      "player": "196931374",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "_id": "5f0a8dcef5559e20504e3e1f",
+      "id": "Ken",
+      "name": "(Đỗ Trần Nhựt Tiến)",
+      "pos": "5 (Stand-in)",
+      "join": "Join Date: 2020-05-06",
+      "link": "/dota2/index.php?title=Ken_(Vietnamese_player)&action=edit&redlink=1",
+      "player": "196931374",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2016-??-?? — 2016-??-??Paragon eSports",
+        "2017-08-21 — 2018-09-06The Brestomans",
+        "2018-09-06 — 2018-10-11FCDB Esports (Sub)",
+        "2018-10-11 — 2019-03-05Helsinki REDS",
+        "2019-06-06 — 2019-09-02Vega Squadron",
+        "2019-10-02 — 2019-12-04Team Unique",
+        "2019-12-15 — 2020-02-18Majori Edut na Minor",
+        "2020-04-24 — 2020-05-02Cyber Legacy",
+        "2020-06-07 — PresentB8"
+      ],
+      "_id": "5f0ab2055f878a32a7f94aa9",
+      "name": "Алег Дземідовіч",
+      "birth": "May 19, 1994 (1994-05-19) (age 26)",
+      "country": "Belarus",
+      "status": "Active",
+      "team": "B8",
+      "earnings": "$7,984",
+      "reference": "90324740",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2019-02-16 — 2019-04-05MEGA-LADA E-Sports",
+        "2019-03-20 — 2020-02-20Modus Unity",
+        "2020-02-20 — PresentWinstrike Team"
+      ],
+      "_id": "5f0ab2225f878a32a7f94aaa",
+      "name": "Станислав Яросевич",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "Winstrike Team",
+      "earnings": "$4,361",
+      "reference": "79809603",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2019-03-16 — 2020-02-20Modus Unity",
+        "2020-02-20 — PresentWinstrike Team"
+      ],
+      "_id": "5f0ab2405f878a32a7f94aab",
+      "name": "Владислав Фролов",
+      "birth": "July 1, 2000 (2000-07-01) (age 20)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Winstrike Team",
+      "earnings": "$4,297",
+      "reference": "79809603",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2019-03-20 — 2020-02-20Modus Unity",
+        "2020-02-20 — PresentWinstrike Team"
+      ],
+      "_id": "5f0ab25e5f878a32a7f94aac",
+      "name": "Сергей Тимченко",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Winstrike Team",
+      "earnings": "$5,618",
+      "reference": "79809603",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2018-08-12 — 2018-11-04Marlerino eSports",
+        "2018-12-24 — 2019-08-01Imperial Pro Gaming",
+        "2019-10-24 — 2020-02-20Modus Unity",
+        "2020-02-20 — PresentWinstrike Team"
+      ],
+      "_id": "5f0ab27c5f878a32a7f94aad",
+      "name": "Дмитрий Пиляев",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Winstrike Team",
+      "earnings": "$4,845",
+      "reference": "79809603",
+      "__v": 0
+    },
+    {
+      "_id": "5f0a9206f5559e20504e3e25",
+      "id": "swag-",
+      "name": "(Ma Xiao)",
+      "pos": "1/2",
+      "join": "Join Date: 2019-11-??",
+      "link": "/dota2/index.php?title=Swag-&action=edit&redlink=1",
+      "player": "108717482",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0ab2b65f878a32a7f94aae",
+      "reference": "108717482",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0ab2d45f878a32a7f94aaf",
+      "reference": "186977347",
+      "__v": 0
+    },
+    {
+      "role": [
+        ""
+      ],
+      "history": [
+        "2019-07-10 — 2019-09-26VG.Potential",
+        "2019-09-26 — 2020-04-02Team Serenity",
+        "2020-04-02 — 2020-05-??Keen Gaming"
+      ],
+      "_id": "5f0ab2f45f878a32a7f94ab0",
+      "name": "赵佳懿",
+      "country": "China",
+      "status": "Active",
+      "earnings": "$7,842",
+      "team": "2019-09-26 — 2020-04-02Team Serenity",
+      "reference": "108717482",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2013-07-17 — 2013-09-05Nara Stacks",
+        "2014-04-29 — 2015-02-26MVP HOT6ix",
+        "2015-09-?? — 2015-11-16DK Renaissance",
+        "2015-12-08 — 2016-03-??MVP HOT6ix",
+        "2016-03-26 — 2016-04-11Taring",
+        "2016-04-11 — 2016-08-31Orange.Taring",
+        "2016-09-?? — 2016-??-??Tangerine",
+        "2016-10-?? — 2016-11-2590s Gaming",
+        "2016-11-25 — 2017-09-22Geek Fam",
+        "2018-01-?? — 2018-11-02For The Dream",
+        "2018-11-02 — PresentTeam Serenity"
+      ],
+      "_id": "5f0ab3125f878a32a7f94ab1",
+      "name": "Roger Tan",
+      "birth": "January 9, 1994 (1994-01-09) (age 26)",
+      "country": "Malaysia Australia",
+      "status": "Active",
+      "team": "Team Serenity",
+      "earnings": "$21,056",
+      "reference": "108717482",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2018-09-10 — PresentPG.Barracx"
+      ],
+      "_id": "5f0ab3305f878a32a7f94ab2",
+      "name": "Felix Rodeardo",
+      "birth": "July 27, 1999 (1999-07-27) (age 20)",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "PG.Barracx",
+      "earnings": "$3,961",
+      "reference": "359068880",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2017-05-19 — 2018-07-07Rex Regum Qeon",
+        "2017-09-02 — 2018-03-10EVOS Esports",
+        "2018-04-?? — PresentPG.Barracx"
+      ],
+      "_id": "5f0ab34f5f878a32a7f94ab3",
+      "name": "Muhammad Luthfi",
+      "birth": "February 2, 1997 (1997-02-02) (age 23)",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "PG.Barracx",
+      "earnings": "$7,523",
+      "reference": "165086162",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2017-11-15 - 2018-03-14Alter Ego",
+        "2018-03-14 — PresentPG.Barracx"
+      ],
+      "_id": "5f0ab36c5f878a32a7f94ab4",
+      "name": "Fahmi Choirul Akbar",
+      "birth": "January 14, 1996 (1996-01-14) (age 24)",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "PG.Barracx",
+      "earnings": "$5,519",
+      "reference": "165086162",
+      "__v": 0
+    },
+    {
+      "role": [
+        ""
+      ],
+      "history": [
+        "2018-04-03 — 2019-??-??XCN Gaming",
+        "2018-??-?? — 2019-05-03Aura Esports",
+        "2019-05-22 — 2019-06-20Entity Gaming",
+        "2019-07-10 — PresentPG.Barracx"
+      ],
+      "_id": "5f0ab38a5f878a32a7f94ab5",
+      "name": "Kevin Manuel Johan",
+      "birth": "August 16, 1995 (1995-08-16) (age 24)",
+      "country": "Indonesia",
+      "status": "Active",
+      "team": "PG.Barracx",
+      "earnings": "$3,180",
+      "reference": "165086162",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2018-11-10 — 2018-12-26Team Empire Hope",
+        "2018-12-26 — 2019-01-15Team Empire Faith",
+        "2019-01-15 — 2019-09-27Team Empire",
+        "2019-09-27 — PresentGambit Esports"
+      ],
+      "_id": "5f0ab3a85f878a32a7f94ab6",
+      "name": "Кыялбек Тайиров",
+      "birth": "March 28, 2000 (2000-03-28) (age 20)",
+      "country": "Kyrgyzstan",
+      "status": "Active",
+      "team": "Gambit Esports",
+      "earnings": "$60,316",
+      "reference": "241519559",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2018-05-31 — 2019-03-21Marlerino eSports",
+        "2019-03-21 — 2019-07-27Vega Squadron (Loan)",
+        "2019-03-21 — 2019-08-22Marlerino eSports (Inactive)",
+        "2019-08-22 — 2020-02-04Gambit Esports",
+        "2020-02-04 — 2020-02-27Gambit Esports (Inactive)",
+        "2020-02-27 — PresentGambit Esports"
+      ],
+      "_id": "5f0ab3c75f878a32a7f94ab7",
+      "name": "Данил Скутин",
+      "birth": "August 23, 2001 (2001-08-23) (age 18)",
+      "country": "Russia",
+      "status": "Active",
+      "team": "Gambit Esports",
+      "earnings": "$53,157",
+      "reference": "480412663",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2017-12-19 — 201?-??-??iPlay Gaming",
+        "2018-05-13 — 201?-??-??Saint's Squad Gaming",
+        "2018-09-19 — 2019-04-08Se7en eSports",
+        "2019-04-08 — 2019-06-30The Pango (Loan)",
+        "2019-04-08 — 2019-09-29Se7en eSports (Inactive)",
+        "2019-09-29 — PresentGambit Esports"
+      ],
+      "_id": "5f0ab3e55f878a32a7f94ab8",
+      "name": "Даниал Алибаев",
+      "birth": "November 20, 1997 (1997-11-20) (age 22)",
+      "country": "Kazakhstan",
+      "status": "Active",
+      "team": "Gambit Esports",
+      "earnings": "$55,704",
+      "reference": "326327879",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0ab4005f878a32a7f94ab9",
+      "reference": "139280377",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0ab41f5f878a32a7f94aba",
+      "reference": "139280377",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0ab43c5f878a32a7f94abb",
+      "reference": "139280377",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2016-12-?? — 2016-12-??Longwan",
+        "2017-03-14 — 2017-04-17FTD club C",
+        "2017-09-?? — 2018-06-??VG.Sunrise",
+        "2018-11-?? — 2019-04-28Flaming Cyborg Alpha",
+        "2019-04-28 — 2019-07-??Aster.Aquarius",
+        "2019-09-27 — 2019-12-??Revive",
+        "2020-04-21 — PresentAster.Aries"
+      ],
+      "_id": "5f0ab45e5f878a32a7f94abc",
+      "name": "刘威威",
+      "country": "China",
+      "status": "Active",
+      "team": "Aster.Aries",
+      "earnings": "$3,526",
+      "reference": "139280377",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2017-12-?? — 2018-01-??VG.Sunrise",
+        "2018-11-?? — 2019-04-??Flaming Cyborg Alpha",
+        "2019-04-28 — 2019-05-18Aster.Aquarius",
+        "2019-10-02 — PresentRevive"
+      ],
+      "_id": "5f0ab47e5f878a32a7f94abd",
+      "name": "金鹏",
+      "country": "China",
+      "status": "Active",
+      "team": "Revive",
+      "earnings": "$3,673",
+      "reference": "139280377",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry",
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2018-06-?? — 2018-09-12CDEC Gaming",
+        "2018-09-12 — 2019-09-23CDEC Gaming (Inactive)",
+        "›2018-09-12 — 2019-03-24EHOME (Loan)",
+        "›2019-04-16 — 2019-09-23Team Sirius (Loan)",
+        "2019-09-23 — 2019-09-23CDEC Avenger",
+        "2019-11-27 — 2020-02-12Revive",
+        "2020-02-12 — 2020-02-20PSG.LGD",
+        "2020-02-20 — 2020-04-30PSG.LGD (Inactive)",
+        "2020-04-30 — PresentTeam Sirius"
+      ],
+      "_id": "5f0ab4975f878a32a7f94abe",
+      "name": "李志文",
+      "birth": "June 23, 1999 (1999-06-23) (age 21)",
+      "country": "China",
+      "status": "Active",
+      "team": "Team Sirius",
+      "earnings": "$58,681",
+      "reference": "139280377",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Carry"
+      ],
+      "history": [
+        "2018-09-14 — 2018-11-14Real Noobs",
+        "2018-11-14 — 2019-09-16Pavaga Junior",
+        "2019-02-25 — 2019-04-??Unchained Esports",
+        "2020-04-24 — 2020-06-14Yolo Knight",
+        "2020-06-14 — PresentTeam Empire"
+      ],
+      "_id": "5f0ab4b75f878a32a7f94abf",
+      "name": "Алексей Свиридов",
+      "country": "Belarus",
+      "status": "Active",
+      "team": "Team Empire",
+      "earnings": "$2,425",
+      "reference": "155162307",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2019-08-26 — 2019-12-15Imperial Pro Gaming",
+        "2019-12-15 — 2020-06-14Team Empire Hope",
+        "2020-06-14 — PresentTeam Empire"
+      ],
+      "_id": "5f0ab4d95f878a32a7f94ac0",
+      "name": "Олександр Потапенко",
+      "birth": "December 27, 1998 (1998-12-27) (age 21)",
+      "country": "Ukraine",
+      "status": "Active",
+      "team": "Team Empire",
+      "earnings": "$8,100",
+      "reference": "155162307",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner"
+      ],
+      "history": [
+        "2019-10-29 — 2019-12-15Imperial Pro Gaming",
+        "2019-12-15 — 2020-06-14Team Empire Hope",
+        "2020-06-14 — PresentTeam Empire"
+      ],
+      "_id": "5f0ab4f35f878a32a7f94ac1",
+      "name": "Аляксей Вінчэўскі",
+      "birth": "April 18, 1999 (1999-04-18) (age 21)",
+      "country": "Belarus",
+      "status": "Active",
+      "team": "Team Empire",
+      "earnings": "$8,853",
+      "reference": "137855976",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support"
+      ],
+      "history": [
+        "2018-12-24 — 2019-12-15Imperial Pro Gaming",
+        "2019-12-15 — 2020-06-14Team Empire Hope",
+        "2020-06-14 — PresentTeam Empire"
+      ],
+      "_id": "5f0ab5115f878a32a7f94ac2",
+      "name": "Dzhama Abdurashitov",
+      "birth": "September 13, 1995 (1995-09-13) (age 24)",
+      "country": "Uzbekistan",
+      "status": "Active",
+      "team": "Team Empire",
+      "earnings": "$8,396",
+      "reference": "214735983",
+      "__v": 0
+    },
+    {
+      "role": [],
+      "history": [],
+      "_id": "5f0ab52c5f878a32a7f94ac3",
+      "reference": "66620961",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle",
+        "Carry"
+      ],
+      "history": [
+        "2012-09-21 — 2013-02-21No Tidehunter",
+        "2013-03-18 — 2013-09-19Kaipi",
+        "2013-09-19 — 2013-10-09RSnake.int",
+        "2013-10-09 — 2014-02-09Speed Gaming.int",
+        "2014-02-09 — 2015-08-14Cloud9",
+        "2015-08-22 — 2016-08-19Team Secret",
+        "2016-09-07 — 2017-07-20Team NP",
+        "2017-04-14 — 2017-04-30Thunderbirds (Coach)",
+        "2017-07-20 — 2017-08-23Cloud9",
+        "2017-08-25 — 2018-09-01Fnatic",
+        "2018-09-11 — 2018-11-14compLexity Gaming",
+        "2018-12-01 — 2018-12-27Infamous",
+        "2018-12-27 — 2019-03-23Flying Penguins",
+        "2019-03-25 — 2019-05-01TEAM TEAM",
+        "2019-05-01 — 2019-05-29beastcoast",
+        "2019-08-29 — 2020-02-22Fighting PandaS",
+        "2020-03-03 — 2020-04-28Cloud9"
+      ],
+      "_id": "5f0ab54d5f878a32a7f94ac4",
+      "name": "Jacky Mao",
+      "birth": "July 2, 1991 (1991-07-02) (age 29)",
+      "country": "Canada",
+      "status": "Active",
+      "earnings": "$976,983",
+      "team": "2013-03-18 — 2013-09-19Kaipi",
+      "reference": "87382579",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2011-12-05 — 2012-10-16mousesports",
+        "2012-10-17 — 2012-10-21The GD B-Team",
+        "2012-10-24 — 2012-11-05Team Zero",
+        "2013-02-01 — 2013-08-07QPAD Red Pandas",
+        "2013-08-07 — 2013-09-19Kaipi",
+        "2013-09-19 — 2013-10-09RSnake.int",
+        "2013-10-09 — 2014-02-09Speed.int",
+        "2014-02-09 — 2014-08-13Cloud9",
+        "2014-08-11 — 2015-02-13Team Tinker",
+        "2015-02-21 — 2015-06-27Burden United",
+        "2015-08-22 — 2015-10-09Monkey Freedom Fighters",
+        "2015-10-18 — 2015-12-09Monkey Freedom Fighters",
+        "2016-01-31 — PresentCloud9 (Streamer)",
+        "2016-03-14 — 2016-10-28Kaipi",
+        "2016-10-28Retired"
+      ],
+      "_id": "5f0ab56a5f878a32a7f94ac5",
+      "name": "Wehsing Yuen",
+      "birth": "June 19, 1991 (1991-06-19) (age 29)",
+      "country": "Netherlands",
+      "status": "Retired",
+      "team": "Cloud9",
+      "earnings": "$220,561",
+      "reference": "10366616",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Offlaner"
+      ],
+      "history": [
+        "2012-11-19 — 2013-??-??GamersLeague",
+        "2013-01-01 — 2013-09-19Kaipi",
+        "2013-09-19 — 2013-10-09RSnake.int",
+        "2013-10-09 — 2014-02-09Speed.int",
+        "2014-02-09 — 2015-08-14Cloud9",
+        "2015-08-29 — 2016-10-28Kaipi",
+        "2016-11-11 — 2017-01-08Prodota Gaming",
+        "2017-01-08 — 2017-01-24Kaipi",
+        "2017-01-24 — 2017-04-06Team NP (Coach)",
+        "2017-06-22 — 2017-06-26Tuho",
+        "2018-05-13 — 2018-09-09No Bounty Hunter",
+        "2018-09-09 — 2018-09-29MangoBay",
+        "2018-09-29 — 2018-11-01WU TANG",
+        "2018-11-01 — 2019-03-21Kaipi",
+        "2019-03-21 — 2019-03-23Flying Penguins",
+        "2019-03-24 — 2019-04-02Freelancers",
+        "2019-09-19 — 2019-11-21Vikin.gg"
+      ],
+      "_id": "5f0ab5895f878a32a7f94ac6",
+      "name": "Pittner Armand",
+      "birth": "February 20, 1991 (1991-02-20) (age 29)",
+      "country": "Romania",
+      "status": "Active",
+      "earnings": "$329,427",
+      "team": "2013-01-01 — 2013-09-19Kaipi",
+      "reference": "10366616",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2012-??-?? — 2012-09-22PotM Bottom",
+        "2012-09-22 — 2013-09-18Team Dignitas",
+        "2013-09-19 — 2013-10-09RSnake.int",
+        "2013-10-09 — 2014-02-09Speed.int",
+        "2014-02-09 — 2015-01-05Cloud9",
+        "2015-01-05 — 2015-08-14Evil Geniuses",
+        "2015-08-24 — 2016-03-25Digital Chaos",
+        "2016-03-25 — 2016-06-13Evil Geniuses",
+        "2016-06-13 — 2016-08-19Team Secret (Coach)",
+        "2016-09-08 — 2017-07-20Team NP",
+        "2017-07-20 — 2017-08-23Cloud9",
+        "2018-01-06 — 2018-01-30Animal Planet",
+        "2018-01-30 — 2018-03-01Iceberg Esports",
+        "2018-03-01 — 2018-03-11Animal Planet",
+        "2018-03-11 — 2018-04-17Digital Chaos",
+        "2018-05-22 — 2018-09-02 Fnatic (Coach)",
+        "2018-08-29 — 2018-09-14Quincy Crew (Coach)",
+        "2018-09-14 — 2019-07-21Forward Gaming (Coach)",
+        "2019-07-24 — 2019-09-20Newbee (Coach)",
+        "2019-08-29 — 2020-03-03Fighting PandaS",
+        "2020-03-03 — PresentCR4ZY"
+      ],
+      "_id": "5f0ab5a95f878a32a7f94ac7",
+      "name": "Kurtis Daniel Ling",
+      "birth": "October 2, 1992 (1992-10-02) (age 27)",
+      "country": "Canada",
+      "status": "Active",
+      "team": "CR4ZY",
+      "earnings": "$2,002,673",
+      "reference": "87382579",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Support",
+        "Captain"
+      ],
+      "history": [
+        "2012-??-?? — 2013-09-19Kaipi",
+        "2013-09-19 — 2013-10-09RSnake.int",
+        "2013-10-09 — 2014-02-09Speed Gaming.int",
+        "2014-02-09 — 2015-05-08Cloud9",
+        "2015-01-10 — 2015-02-15MeePwn'd",
+        "2015-03-05 — 2015-05-08Team Tinker",
+        "2015-05-08 — 2015-07-16mousesports",
+        "2015-08-22 — 2017-05-04Team Secret",
+        "2017-05-04 — 2017-07-20Team NP",
+        "2017-07-20 — 2017-08-23Cloud9",
+        "2017-08-23 — 2018-09-01Fnatic",
+        "2018-11-23 — 2019-03-21Mineski",
+        "2019-04-30 — 2019-07-21Forward Gaming",
+        "2019-07-24 — 2019-09-20Newbee",
+        "2020-01-29 — 2020-04-28Cloud9"
+      ],
+      "_id": "5f0ab5c65f878a32a7f94ac8",
+      "name": "Johan Åström",
+      "birth": "August 5, 1991 (1991-08-05) (age 28)",
+      "country": "Sweden",
+      "status": "Active",
+      "earnings": "$983,122",
+      "team": "2007 — 2008Gvision",
+      "reference": "6922000",
+      "__v": 0
+    },
+    {
+      "_id": "5f0a9499f5559e20504e3e41",
+      "id": "Argius",
+      "name": "(Jhordyn Mendoza)",
+      "pos": "1",
+      "join": "Join Date: 2020-02-07[1]",
+      "link": "/dota2/index.php?title=Argius&action=edit&redlink=1",
+      "player": "125845797",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "_id": "5f0a9499f5559e20504e3e42",
+      "id": "Alone",
+      "name": "(Ricardo Sanchez)",
+      "pos": "2",
+      "join": "Join Date: 2020-02-07[1]",
+      "link": "/dota2/index.php?title=Alone&action=edit&redlink=1",
+      "player": "125845797",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "_id": "5f0a9499f5559e20504e3e43",
+      "id": "Valqui",
+      "name": "(Thomas Jaulis)",
+      "pos": "3",
+      "join": "Join Date: 2020-02-07[1]",
+      "link": "/dota2/index.php?title=Valqui&action=edit&redlink=1",
+      "player": "125845797",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "_id": "5f0a9499f5559e20504e3e44",
+      "id": "D1smar",
+      "name": "(Jose Carhuajulca)",
+      "pos": "4",
+      "join": "Join Date: 2020-04-10",
+      "link": "/dota2/index.php?title=D1smar&action=edit&redlink=1",
+      "player": "125845797",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "_id": "5f0a9499f5559e20504e3e45",
+      "id": "Cara",
+      "name": "(Alejandro Guzmán)",
+      "pos": "5",
+      "join": "Join Date: 2020-04-24[3]",
+      "link": "/dota2/index.php?title=Cara&action=edit&redlink=1",
+      "player": "125845797",
+      "__v": 0,
+      "liq": "Not found"
+    },
+    {
+      "role": [
+        "Coach",
+        "Carry"
+      ],
+      "history": [
+        "2011-01-14 — 2014-08-17Team DK",
+        "2014-12-31 — 2015-03-05Big God",
+        "2015-03-05 — 2015-09-03Invictus Gaming",
+        "2015-09-03 — 2016-09-14Vici Gaming",
+        "2016-09-17 — 2017-09-06Invictus Gaming",
+        "2017-09-06 — 2018-01-02Invictus Gaming (Inactive)",
+        "2018-01-02 — 2018-05-??Big God",
+        "2018-07-27 — 2018-09-10Invictus Gaming (Coach)",
+        "2018-09-10 — PresentTeam Aster (Staff)"
+      ],
+      "_id": "5f0ab67a5f878a32a7f94ac9",
+      "name": "徐志雷",
+      "birth": "April 16, 1988 (1988-04-16) (age 32)",
+      "country": "China",
+      "status": "Retired",
+      "team": "Team Aster",
+      "earnings": "$869,621",
+      "reference": "90892734",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Solo ",
+        "Middle"
+      ],
+      "history": [
+        "2011-08-02 — 2011-11-23iG.Z",
+        "2011-11-23 — 2016-08-28Invictus Gaming",
+        "2017-01-10 — 2018-01-02Newbee Boss",
+        "2018-01-02 — 2018-05-??Big God",
+        "2018-05-?? — 2018-09-10Young Dumb",
+        "2018-09-10 — 2019-03-29Mr Game Boy",
+        "2019-03-29 — 2019-09-27EHOME"
+      ],
+      "_id": "5f0ab6985f878a32a7f94aca",
+      "name": "骆非池",
+      "birth": "February 14, 1990 (1990-02-14) (age 30)",
+      "country": "China",
+      "status": "Retired",
+      "earnings": "$572,786",
+      "reference": "90892734",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Offlaner",
+        "Support"
+      ],
+      "history": [
+        "2017-03-01 — 2017-09-09CDEC Avenger",
+        "2017-09-09 — 2018-01-02CDEC Gaming",
+        "2018-01-02 — 2018-04-??Big God",
+        "2019-03-28 — 2020-02-27CDEC Gaming",
+        "2020-02-27 — PresentCDEC Gaming (Inactive)"
+      ],
+      "_id": "5f0ab6b55f878a32a7f94acb",
+      "name": "沈超",
+      "birth": "October 14, 1996 (1996-10-14) (age 23)",
+      "country": "China",
+      "status": "Inactive",
+      "team": "CDEC Gaming",
+      "earnings": "$14,837",
+      "reference": "90892734",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Coach",
+        "Offlaner"
+      ],
+      "history": [
+        "2011-08-02 — 2011-08-09iG.Z",
+        "2011-08-09 — 2014-02-19LGD.cn",
+        "2014-02-23 — 2014-07-29Newbee",
+        "2014-12-31 — 2015-03-08Big God",
+        "2015-03-08 — 2016-09-17LGD.cn",
+        "2016-09-17 — 2017-01-03LGD.Forever Young",
+        "2017-01-10 — 2018-01-02Newbee Boss",
+        "2018-01-02 — 2018-05-??Big God",
+        "2018-05-25 — PresentEHOME (Coach)"
+      ],
+      "_id": "5f0ab6d55f878a32a7f94acc",
+      "name": "张宁",
+      "birth": "January 19, 1989 (1989-01-19) (age 31)",
+      "country": "China",
+      "status": "Active",
+      "team": "EHOME",
+      "earnings": "$1,831,266",
+      "reference": "98887913",
+      "__v": 0
+    },
+    {
+      "role": [
+        "Coach",
+        "Support"
+      ],
+      "history": [
+        "2010-03-01 — 2011-08-02LGD Gaming",
+        "2011-08-02 — 2011-11-23iG.Y",
+        "2014-08-26 — 2014-12-24Invictus Gaming",
+        "2015-09-03 — 2015-12-08Newbee",
+        "2015-12-08 — 2016-03-22Newbee Young",
+        "2016-03-26 — 2016-09-16White Fries Gaming",
+        "2016-10-17 — 2017-05-24White Fries Gaming (Sub)",
+        "2017-05-?? — 2019-04-14Team EVER (Coach)",
+        "›2018-01-02 — 2018-05-??Big God"
+      ],
+      "_id": "5f0ab6f05f878a32a7f94acd",
+      "name": "李晨",
+      "birth": "August 9, 1989 (1989-08-09) (age 30)",
+      "country": "China",
+      "status": "Inactive",
+      "earnings": "$48,334",
+      "team": "2011-08-02 — 2011-11-23iG.Y",
+      "reference": "90892734",
+      "__v": 0
+    }
   ]
 }
