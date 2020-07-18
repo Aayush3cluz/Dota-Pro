@@ -97,16 +97,16 @@ const TeamController = {
       res.send({ error: e });
     }
   },
-  nameSearch:(req,res,next)=>{
+  nameSearch: async (req, res, next) => {
     try {
       let name = req.params.id;
       let exp = new RegExp(`.*${name}.*`, "i");
       let teams = await Team.find({ tag: exp });
       res.send(teams);
     } catch (e) {
-      res.send({ error: "500 server error"});
+      res.send({ error: "500 server error" });
     }
-  }
+  },
 };
 
 export default TeamController;
