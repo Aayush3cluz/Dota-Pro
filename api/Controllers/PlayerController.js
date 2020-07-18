@@ -49,13 +49,12 @@ const PLayerController = {
   nameSearch: async (req, res, next) => {
     try {
       let name = req.params.id;
-      console.log(name);
       let exp = new RegExp(`.*${name}.*`, "i");
       let players = await Player.find({ name: exp });
       res.send(players);
     } catch (e) {
       console.log(e);
-      res.send({ error: "Hello" });
+      res.send({ error: "500 server error" });
     }
   },
 };
